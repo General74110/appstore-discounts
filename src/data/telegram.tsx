@@ -81,7 +81,7 @@ function getMessage(region: Region, discountInfos: DiscountInfo[]) {
 
 async function sendMessage(
   telegramBotToken: string,
-  region: Region,
+  chatId: string,
   message: string,
   disabledLinkPreview: boolean,
   proxy?: string,
@@ -96,7 +96,7 @@ async function sendMessage(
         },
         agent: proxy ? new HttpsProxyAgent(proxy) : null,
         body: JSON.stringify({
-          chat_id: '@appstore_discounts',
+          chat_id: chatId,  // 从环境变量读取聊天 ID
           text: message,
           parse_mode: 'HTML',
           link_preview_options: {
@@ -121,7 +121,8 @@ export default async function pushTelegramNotification(
   regionDiscountInfos: RegionDiscountInfo,
 ) {
   start('pushTelegramNotification')
-  const telegramBotToken = process.env.TELEGRAM_BOT_TOKEN
+  const telegramBotToken = process.env.TELEGRAM_BOT_TOKEN || ''
+  const chatId = process.env.TELEGRAM_CHAT_ID || ''
   const isLocalDev = process.env.IS_LOCAL_DEV
   const tempRegionDiscountInfos = Object.entries(regionDiscountInfos)
   for (let i = 0; i < tempRegionDiscountInfos.length; i++) {
@@ -130,7 +131,7 @@ export default async function pushTelegramNotification(
     const msg = getMessage(region as Region, discountInfos)
     await sendMessage(
       telegramBotToken,
-      region as Region,
+      chatId,
       msg,
       discountInfos.length > 1,
       isLocalDev ? 'http://127.0.0.1:7997' : undefined,
