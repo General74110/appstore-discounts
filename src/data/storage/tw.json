@@ -9119,6 +9119,16 @@
     "history": [
       [
         {
+          "timestamp": 1723111737505,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "邪惡病房": "$90.00",
+            "異象號": "$60.00",
+            "偉大的統治": "$60.00"
+          }
+        },
+        {
           "timestamp": 1723046581286,
           "price": 90,
           "formattedPrice": "$90.00",
