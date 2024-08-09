@@ -847,6 +847,19 @@
     "history": [
       [
         {
+          "timestamp": 1723212508613,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Reset Password": "¥8.00",
+            "iCloud Sync Yearly": "¥48.00",
+            "Cloud Backup Yearly": "¥58.00",
+            "iCloud Sync Lifetime": "¥228.00",
+            "iCloud Sync Monthly": "¥7.00",
+            "Cloud Backup Monthly": "¥12.00"
+          }
+        },
+        {
           "timestamp": 1723133400150,
           "price": 0,
           "formattedPrice": "免费",
@@ -8558,6 +8571,12 @@
     "history": [
       [
         {
+          "timestamp": 1723212508613,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1723133400150,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -8758,6 +8777,16 @@
     "name": "逃脱者：困境突围",
     "history": [
       [
+        {
+          "timestamp": 1723212508613,
+          "price": 10,
+          "formattedPrice": "¥10.00",
+          "inAppPurchases": {
+            "伟大的统治": "¥12.00",
+            "邪恶病房": "¥12.00",
+            "异象号": "¥8.00"
+          }
+        },
         {
           "timestamp": 1723133400150,
           "price": 12,
@@ -11869,6 +11898,12 @@
     "name": "模拟地铁",
     "history": [
       [
+        {
+          "timestamp": 1723212508613,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1723133400150,
           "price": 15,
@@ -18105,6 +18140,12 @@
     "name": "花园之间",
     "history": [
       [
+        {
+          "timestamp": 1723212508613,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1723133400150,
           "price": 18,
