@@ -12128,6 +12128,14 @@
     "history": [
       [
         {
+          "timestamp": 1723216188217,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Fileball 高级版永久解锁": "¥48.00"
+          }
+        },
+        {
           "timestamp": 1723133400150,
           "price": 0,
           "formattedPrice": "免费",
