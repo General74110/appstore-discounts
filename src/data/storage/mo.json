@@ -1303,6 +1303,12 @@
     "history": [
       [
         {
+          "timestamp": 1723298836597,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1723219822659,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -1435,6 +1441,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1723298836597,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Yearly Cloud Services": "USD 6.99",
+            "Lifetime Cloud Services": "USD 34.99",
+            "Monthly Cloud Services": "USD 1.99",
+            "Reset Password": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1723219822659,
           "price": 0,
@@ -8320,6 +8337,23 @@
     "history": [
       [
         {
+          "timestamp": 1723298836597,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Design Frame Package": "USD 0.99",
+            "Social Frame Package": "USD 0.99",
+            "Magazine Frame Package": "USD 0.99",
+            "Black Frame Pack": "USD 0.99",
+            "Geometric Frame Pack": "USD 0.99",
+            "Stamp Frame Pack": "USD 0.99",
+            "Retro Frame Pack": "USD 0.99",
+            "Stroke Frame Pack": "USD 0.99",
+            "Color Frame Pack": "USD 0.99",
+            "Upgrade Deluxe Edition": "USD 5.99"
+          }
+        },
+        {
           "timestamp": 1723219822659,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -13761,6 +13795,14 @@
     "name": "Fileball",
     "history": [
       [
+        {
+          "timestamp": 1723298836597,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "USD 9.99"
+          }
+        },
         {
           "timestamp": 1723219822659,
           "price": 0,

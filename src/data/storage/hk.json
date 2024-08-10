@@ -1255,6 +1255,12 @@
     "history": [
       [
         {
+          "timestamp": 1723298836597,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1723219822659,
           "price": 88,
           "formattedPrice": "HK$ 88.00",
@@ -1387,6 +1393,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1723298836597,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "HK$ 288.00",
+            "Yearly Cloud Services": "HK$ 52.00",
+            "Monthly Cloud Services": "HK$ 18.00",
+            "Reset Password": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1723219822659,
           "price": 0,
@@ -8484,6 +8501,23 @@
     "history": [
       [
         {
+          "timestamp": 1723298836597,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1723219822659,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
@@ -14145,6 +14179,14 @@
     "name": "Fileball",
     "history": [
       [
+        {
+          "timestamp": 1723298836597,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "HK$ 88.00"
+          }
+        },
         {
           "timestamp": 1723219822659,
           "price": 0,
