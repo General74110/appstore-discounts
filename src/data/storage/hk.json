@@ -5599,6 +5599,14 @@
     "history": [
       [
         {
+          "timestamp": 1723313404870,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "去除廣告": "HK$ 22.00"
+          }
+        },
+        {
           "timestamp": 1723306196794,
           "price": 0,
           "formattedPrice": "免費",
