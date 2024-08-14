@@ -835,6 +835,17 @@
     "history": [
       [
         {
+          "timestamp": 1723644524226,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "USD 34.99",
+            "Reset Password": "USD 0.99",
+            "Premium Cloud Service Yearly": "USD 6.99",
+            "Premium Cloud Service Monthly": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1723565403408,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -1739,6 +1750,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1723644524226,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1723565403408,
           "price": 0,
@@ -15995,6 +16012,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1723644524226,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "USD 3.99",
+            "Value for Value": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1723565403408,
           "price": 6.99,
