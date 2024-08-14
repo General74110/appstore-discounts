@@ -16543,6 +16543,15 @@
     "history": [
       [
         {
+          "timestamp": 1723648104086,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "HK$ 32.00",
+            "Value for Value": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1723565403408,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
