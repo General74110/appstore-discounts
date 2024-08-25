@@ -13,18 +13,32 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - name: install dependence
-        run: npm i -g pnpm && pnpm i --no-frozen-lockfile
+      - name: install dependencies
+        run: |
+          npm i -g pnpm
+          pnpm i --no-frozen-lockfile
+        continue-on-error: false # 确保失败时停止工作流
 
       - name: generate RSS and push notifications
-        run: npm run rss
+        run: |
+          if [ -z "${{ secrets.TELEGRAM_BOT_TOKEN }}" ]; then
+            echo "TELEGRAM_BOT_TOKEN is missing"
+            exit 1
+          fi
+          if [ -z "${{ secrets.TELEGRAM_CHAT_ID }}" ]; then
+            echo "TELEGRAM_CHAT_ID is missing"
+            exit 1
+          fi
+          npm run rss
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           DING_TALK_BOT_TOKEN: ${{ secrets.DING_TALK_BOT_TOKEN }}
 
       - name: update README
-        run: npx jtm run --watch false
+        run: |
+          npx jtm run --watch false
+        continue-on-error: false # 确保失败时停止工作流
 
       - name: commit the all info
         id: commit_msg
