@@ -1961,6 +1961,12 @@
     "history": [
       [
         {
+          "timestamp": 1724594842602,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1724553899520,
           "price": 0,
           "formattedPrice": "免費",
@@ -2165,6 +2171,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1724594842602,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Yearly Cloud Services": "USD 6.99",
+            "Lifetime Cloud Services": "USD 34.99",
+            "Monthly Cloud Services": "USD 1.99",
+            "Reset Password": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1724553899520,
           "price": 0,
