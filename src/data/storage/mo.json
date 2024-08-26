@@ -22380,6 +22380,14 @@
     "history": [
       [
         {
+          "timestamp": 1724667015510,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Cheat Codes": "USD 2.99"
+          }
+        },
+        {
           "timestamp": 1724602196226,
           "price": 0.99,
           "formattedPrice": "USD 0.99",

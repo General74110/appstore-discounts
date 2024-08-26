@@ -24235,6 +24235,14 @@
     "history": [
       [
         {
+          "timestamp": 1724667015510,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Cheat Codes": "$2.99"
+          }
+        },
+        {
           "timestamp": 1724645471143,
           "price": 0.99,
           "formattedPrice": "$0.99",
