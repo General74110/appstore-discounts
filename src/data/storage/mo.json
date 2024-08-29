@@ -31460,6 +31460,12 @@
     "history": [
       [
         {
+          "timestamp": 1724937316193,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1724861447519,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
