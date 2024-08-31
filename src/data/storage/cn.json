@@ -23324,6 +23324,18 @@
     "history": [
       [
         {
+          "timestamp": 1725113255352,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "解锁《坏种》DLC": "¥8.00",
+            "解锁《致命坠落》DLC": "¥6.00",
+            "解锁《王后与海》DLC": "¥8.00",
+            "解锁《重返恶魔城》DLC": "¥16.00",
+            "解锁《一路向海》DLC捆绑包": "¥18.00"
+          }
+        },
+        {
           "timestamp": 1725034223991,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -28279,6 +28291,12 @@
     "name": "照片同步-导出备份相册照片视频",
     "history": [
       [
+        {
+          "timestamp": 1725113255352,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725034223991,
           "price": 6,
