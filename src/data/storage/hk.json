@@ -25173,6 +25173,15 @@
     "history": [
       [
         {
+          "timestamp": 1725199640859,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "HK$ 32.00",
+            "Value for Value": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1725120613168,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -31555,6 +31564,14 @@
     "name": "Streets of Rage 4",
     "history": [
       [
+        {
+          "timestamp": 1725199640859,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "HK$ 22.00"
+          }
+        },
         {
           "timestamp": 1725120613168,
           "price": 58,

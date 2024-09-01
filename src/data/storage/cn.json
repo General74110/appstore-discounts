@@ -22677,6 +22677,15 @@
     "history": [
       [
         {
+          "timestamp": 1725199640859,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        },
+        {
           "timestamp": 1725120613168,
           "price": 48,
           "formattedPrice": "¥48.00",
