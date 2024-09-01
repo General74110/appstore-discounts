@@ -38694,6 +38694,14 @@
     "history": [
       [
         {
+          "timestamp": 1725203260412,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "本体1-6章": "¥41.00"
+          }
+        },
+        {
           "timestamp": 1725120613168,
           "price": 1,
           "formattedPrice": "¥1.00",
