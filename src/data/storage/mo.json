@@ -10091,6 +10091,12 @@
     "history": [
       [
         {
+          "timestamp": 1725304055198,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1725293444673,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -28197,7 +28203,7 @@
     ]
   },
   "1529445840": {
-    "name": "Reeder 5",
+    "name": "Reeder Classic",
     "history": [
       [
         {
@@ -28450,7 +28456,7 @@
     ]
   },
   "1529448980": {
-    "name": "Reeder 5.",
+    "name": "Reeder Classic.",
     "history": [
       [
         {

@@ -230,8 +230,8 @@ So far, we've covered `5` `Countries or Regions` and  `174` `Apps` <br />Push no
 |161|656951157|❌|Playdead's LIMBO|Playdead's LIMBO|Playdead's LIMBO|Playdead's LIMBO|
 |162|886561127|❌|INSIDE by Playdead|INSIDE by Playdead|INSIDE by Playdead|INSIDE by Playdead|
 |163|1201642309|❌|Playdead's INSIDE|Playdead's INSIDE|Playdead's INSIDE|Playdead's INSIDE|
-|164|1529448980|❌|Reeder 5.|Reeder 5.|Reeder 5.|Reeder 5.|
-|165|1529445840|❌|Reeder 5|Reeder 5|Reeder 5|Reeder 5|
+|164|1529448980|❌|Reeder Classic.|Reeder Classic.|Reeder Classic.|Reeder Classic.|
+|165|1529445840|❌|Reeder Classic|Reeder Classic|Reeder Classic|Reeder Classic|
 |166|1596063349|❌|Stash|Stash|Stash|Stash - Rule Based Proxy|
 |167|6444029612|❌|Loon Lite|Loon Lite|Loon Lite|Loon Lite|
 |168|1373567447|❌|Loon|Loon|Loon|Loon|
