@@ -25893,6 +25893,15 @@
     "history": [
       [
         {
+          "timestamp": 1725246642329,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
+        {
           "timestamp": 1725163922697,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -32213,6 +32222,14 @@
     "name": "Streets of Rage 4",
     "history": [
       [
+        {
+          "timestamp": 1725246642329,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$2.99"
+          }
+        },
         {
           "timestamp": 1725163922697,
           "price": 7.99,
