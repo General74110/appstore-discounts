@@ -2045,6 +2045,19 @@
     "history": [
       [
         {
+          "timestamp": 1725286112847,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$220.00",
+            "iCloud Sync Monthly": "$30.00",
+            "Cloud Backup Monthly": "$50.00",
+            "Cloud Backup Yearly": "$290.00",
+            "iCloud Sync Lifetime": "$1,190.00",
+            "Reset Password": "$30.00"
+          }
+        },
+        {
           "timestamp": 1725206955677,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -2880,6 +2893,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1725286112847,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725282930858,
           "price": 390,
@@ -6935,6 +6954,12 @@
     "name": "时间轴-全球历史",
     "history": [
       [
+        {
+          "timestamp": 1725286112847,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725206955677,
           "price": 120,
@@ -25844,6 +25869,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1725286112847,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Premium Features": "$120.00",
+            "Value for Value": "$220.00"
+          }
+        },
         {
           "timestamp": 1725206955677,
           "price": 0,
