@@ -41934,6 +41934,16 @@
     "history": [
       [
         {
+          "timestamp": 1725376161667,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "永久会员": "HK$ 118.00",
+            "包月会员": "HK$ 8.00",
+            "包年会员": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1725293444673,
           "price": 8,
           "formattedPrice": "HK$ 8.00",
