@@ -2905,6 +2905,12 @@
     "history": [
       [
         {
+          "timestamp": 1725372520299,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1725293444673,
           "price": 0,
           "formattedPrice": "免費",
@@ -3211,6 +3217,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1725372520299,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "HK$ 288.00",
+            "Yearly Cloud Services": "HK$ 52.00",
+            "Monthly Cloud Services": "HK$ 18.00",
+            "Reset Password": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1725293444673,
           "price": 22,
@@ -7298,6 +7315,12 @@
     "name": "时间轴-全球历史",
     "history": [
       [
+        {
+          "timestamp": 1725372520299,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725293444673,
           "price": 0,
@@ -34625,6 +34648,12 @@
     "name": "照片同步-備份相冊照片視頻",
     "history": [
       [
+        {
+          "timestamp": 1725372520299,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725293444673,
           "price": 0,
