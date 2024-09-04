@@ -18426,6 +18426,12 @@
     "history": [
       [
         {
+          "timestamp": 1725458904486,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1725379905500,
           "price": 30,
           "formattedPrice": "¥30.00",
@@ -25316,6 +25322,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1725458904486,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        },
         {
           "timestamp": 1725379905500,
           "price": 48,
@@ -43933,6 +43948,18 @@
     "name": "旋转音律 Rotaeno",
     "history": [
       [
+        {
+          "timestamp": 1725458904486,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "510 星钻": "¥30.00",
+            "100 星钻": "¥6.00",
+            "1030 星钻": "¥60.00",
+            "300 星钻": "¥18.00",
+            "2080 星钻": "¥118.00"
+          }
+        },
         {
           "timestamp": 1725379905500,
           "price": 9,
