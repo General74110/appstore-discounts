@@ -41559,6 +41559,16 @@
     "history": [
       [
         {
+          "timestamp": 1725462560299,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "包月会员": "¥8.00",
+            "永久会员": "¥58.00",
+            "包年会员": "¥58.00"
+          }
+        },
+        {
           "timestamp": 1725379905500,
           "price": 0,
           "formattedPrice": "免费",
