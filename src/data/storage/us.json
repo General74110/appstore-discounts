@@ -4306,6 +4306,14 @@
     "history": [
       [
         {
+          "timestamp": 1725496928606,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remove advertisement": "$1.99"
+          }
+        },
+        {
           "timestamp": 1725423091271,
           "price": 5,
           "formattedPrice": "$5.00",
