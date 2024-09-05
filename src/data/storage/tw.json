@@ -2267,6 +2267,19 @@
     "history": [
       [
         {
+          "timestamp": 1725545308509,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$220.00",
+            "iCloud Sync Monthly": "$30.00",
+            "Cloud Backup Monthly": "$50.00",
+            "Cloud Backup Yearly": "$290.00",
+            "iCloud Sync Lifetime": "$1,190.00",
+            "Reset Password": "$30.00"
+          }
+        },
+        {
           "timestamp": 1725466261892,
           "price": 0,
           "formattedPrice": "免費",
@@ -3208,6 +3221,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1725545308509,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725466261892,
           "price": 390,
@@ -10610,6 +10629,12 @@
     "history": [
       [
         {
+          "timestamp": 1725545308509,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1725466261892,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -12019,6 +12044,12 @@
     "name": "電影精靈 - 專業視頻編輯和電影製作",
     "history": [
       [
+        {
+          "timestamp": 1725545308509,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725466261892,
           "price": 320,
@@ -28795,6 +28826,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1725545308509,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Premium Features": "$120.00",
+            "Value for Value": "$220.00"
+          }
+        },
         {
           "timestamp": 1725466261892,
           "price": 0,
