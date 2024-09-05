@@ -157,7 +157,7 @@
 |88|1547418803|Incredibox - 好玩的音乐盒|❌|❌|❌|❌|
 |89|1210251567|SleepTown 睡眠小镇|SleepTown 睡眠小鎮|SleepTown 睡眠小鎮|SleepTown 睡眠小鎮|SleepTown|
 |90|1080235640|CNU - 顶尖视觉精选|CNU - 顶尖视觉精选|CNU - 顶尖视觉精选|CNU - 顶尖视觉精选|CNU - 顶尖视觉精选|
-|91|1658579911|小特钥匙 - 手表隐私蓝牙钥匙|XIAOTE Watch key|XIAOTE Watch key|XIAOTE Watch key|XIAOTE Watch key|
+|91|1658579911|小特钥匙 - 手表隐私蓝牙钥匙|小特钥匙 - 手表隐私蓝牙钥匙|小特钥匙 - 手表隐私蓝牙钥匙|小特钥匙 - 手表隐私蓝牙钥匙|XIAOTE Watch key|
 |92|1152396902|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|凤凰新闻(专业版)-头条新闻阅读平台|
 |93|1633366918|Instant Lines|Instant Lines|Instant Lines|Instant Lines|Instant Lines|
 |94|6480159520|转录大师 - 录音转文字、实时离线转录|Whisper Pen - 語音轉文字|Whisper Pen - 語音轉文字|Whisper Pen - 語音轉文字|Whisper Pen - Speech to Text|
