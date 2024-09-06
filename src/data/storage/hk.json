@@ -3233,6 +3233,12 @@
     "history": [
       [
         {
+          "timestamp": 1725631706919,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1725552660593,
           "price": 0,
           "formattedPrice": "免費",
@@ -3575,6 +3581,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1725631706919,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "HK$ 288.00",
+            "Yearly Cloud Services": "HK$ 52.00",
+            "Monthly Cloud Services": "HK$ 18.00",
+            "Reset Password": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1725552660593,
           "price": 0,
@@ -12443,6 +12460,12 @@
     "name": "電影精靈 - 專業視頻編輯和電影製作",
     "history": [
       [
+        {
+          "timestamp": 1725631706919,
+          "price": 88,
+          "formattedPrice": "HK$ 88.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725552660593,
           "price": 0,
