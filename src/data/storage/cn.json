@@ -1818,6 +1818,23 @@
     "history": [
       [
         {
+          "timestamp": 1725603183530,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "iCloud Sync Lifetime": "¥298.00",
+            "Reset Password": "¥8.00",
+            "iCloud Sync Yearly": "¥52.00",
+            "iCloud Sync Monthly": "¥6.00",
+            "100 GB yearly": "¥398.00",
+            "100 GB monthly": "¥38.00",
+            "200 GB yearly": "¥698.00",
+            "1 TB yearly": "¥3,298.00",
+            "200 GB monthly": "¥68.00",
+            "1 TB monthly": "¥328.00"
+          }
+        },
+        {
           "timestamp": 1725552660593,
           "price": 28,
           "formattedPrice": "¥28.00",
