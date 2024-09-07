@@ -3504,6 +3504,12 @@
     "history": [
       [
         {
+          "timestamp": 1725678599531,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1725595862852,
           "price": 0,
           "formattedPrice": "Free",
@@ -3946,6 +3952,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1725678599531,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$34.99",
+            "Yearly Cloud Services": "$6.99",
+            "Monthly Cloud Services": "$1.99",
+            "Reset Password": "$0.99"
+          }
+        },
         {
           "timestamp": 1725595862852,
           "price": 0,
@@ -13111,6 +13128,12 @@
     "name": "MovieSpirit - Movie Maker Pro",
     "history": [
       [
+        {
+          "timestamp": 1725678599531,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1725595862852,
           "price": 0,
