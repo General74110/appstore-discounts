@@ -43680,6 +43680,15 @@
     "history": [
       [
         {
+          "timestamp": 1725718053988,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "订阅机器学习模型（按年）": "HK$ 8.00",
+            "订阅机器学习模型（按月）": "HK$ 5.00"
+          }
+        },
+        {
           "timestamp": 1725639030825,
           "price": 0,
           "formattedPrice": "免費",
