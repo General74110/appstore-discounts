@@ -11424,6 +11424,12 @@
     "history": [
       [
         {
+          "timestamp": 1725804506828,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1725725350283,
           "price": 0,
           "formattedPrice": "免費",

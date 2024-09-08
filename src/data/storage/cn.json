@@ -10241,6 +10241,12 @@
     "history": [
       [
         {
+          "timestamp": 1725804506828,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1725725350283,
           "price": 0,
           "formattedPrice": "免费",
@@ -41126,6 +41132,15 @@
     "name": "熊猫吃短信2 - 垃圾短信拦截",
     "history": [
       [
+        {
+          "timestamp": 1725804506828,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "订阅机器学习模型（按年）": "¥9.00",
+            "订阅机器学习模型（按月）": "¥1.00"
+          }
+        },
         {
           "timestamp": 1725725350283,
           "price": 0,
