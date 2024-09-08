@@ -44337,6 +44337,15 @@
     "history": [
       [
         {
+          "timestamp": 1725765090363,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "订阅机器学习模型（按年）": "$0.99",
+            "订阅机器学习模型（按月）": "$0.49"
+          }
+        },
+        {
           "timestamp": 1725682277839,
           "price": 0,
           "formattedPrice": "Free",
