@@ -3480,6 +3480,12 @@
     "history": [
       [
         {
+          "timestamp": 1725977351264,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1725898237350,
           "price": 0,
           "formattedPrice": "免费",
@@ -20631,6 +20637,23 @@
     "history": [
       [
         {
+          "timestamp": 1725977351264,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "¥38.00",
+            "Color Frame Pack": "¥8.00",
+            "Retro Frame Pack": "¥8.00",
+            "Stamp Frame Pack": "¥8.00",
+            "Stroke Frame Pack": "¥8.00",
+            "Purple Cam Film Pack": "¥8.00",
+            "Blue Cam Film Pack": "¥8.00",
+            "Black Cam Film Pack": "¥8.00",
+            "Red Cam Film Pack": "¥8.00",
+            "Green Cam Film Pack": "¥8.00"
+          }
+        },
+        {
           "timestamp": 1725898237350,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -23216,6 +23239,20 @@
     "name": "喵斯快跑",
     "history": [
       [
+        {
+          "timestamp": 1725977351264,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "无尽旋舞": "¥40.00",
+            "Let's 音游趴体！": "¥25.00",
+            "暮 色 電 台 ＦＭ１０５": "¥18.00",
+            "新手上路包": "¥18.00",
+            "CHUNITHM CLASS MUSE": "¥25.00",
+            "肥宅快乐包 Vol.19": "¥25.00",
+            "暮色斗士传奇": "¥25.00"
+          }
+        },
         {
           "timestamp": 1725898237350,
           "price": 18,
@@ -30696,6 +30733,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1725977351264,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        },
         {
           "timestamp": 1725898237350,
           "price": 0,

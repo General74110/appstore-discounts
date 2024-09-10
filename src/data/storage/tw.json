@@ -3747,6 +3747,12 @@
     "history": [
       [
         {
+          "timestamp": 1725977351264,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1725898237350,
           "price": 0,
           "formattedPrice": "免費",
@@ -22238,6 +22244,23 @@
     "history": [
       [
         {
+          "timestamp": 1725977351264,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$190.00",
+            "Retro Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Blue Cam Film Pack": "$30.00",
+            "Black Cam Film Pack": "$30.00",
+            "Purple Cam Film Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Green Cam Film Pack": "$30.00",
+            "Red Cam Film Pack": "$30.00"
+          }
+        },
+        {
           "timestamp": 1725898237350,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -33540,6 +33563,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1725977351264,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Premium Features": "$120.00",
+            "Value for Value": "$220.00"
+          }
+        },
         {
           "timestamp": 1725898237350,
           "price": 0,
