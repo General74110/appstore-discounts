@@ -1667,6 +1667,17 @@
     "history": [
       [
         {
+          "timestamp": 1726063703489,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "USD 34.99",
+            "Reset Password": "USD 0.99",
+            "Premium Cloud Service Yearly": "USD 6.99",
+            "Premium Cloud Service Monthly": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1725984622379,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -35798,6 +35809,19 @@
     "name": "沙盒星球",
     "history": [
       [
+        {
+          "timestamp": 1726063703489,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "120000 GP": "USD 19.99",
+            "200000 GP": "USD 29.99",
+            "25000 GP": "USD 5.99",
+            "50000 GP": "USD 9.99",
+            "5000 GP": "USD 1.99",
+            "Remove Ad": "USD 2.99"
+          }
+        },
         {
           "timestamp": 1725984622379,
           "price": 12,
