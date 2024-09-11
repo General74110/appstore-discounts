@@ -25487,6 +25487,20 @@
     "history": [
       [
         {
+          "timestamp": 1726056986281,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Endless Pirouette": "$5.99",
+            "Let's Rhythm Jam!": "$3.99",
+            "MUSE RADIO FM105": "$2.99",
+            "Novice Rider Pack": "$2.99",
+            "CHUNITHM COURSE MUSE": "$3.99",
+            "Happy Otaku Pack Vol.19": "$3.99",
+            "Legends of Muse Warriors": "$3.99"
+          }
+        },
+        {
           "timestamp": 1726027986271,
           "price": 2.99,
           "formattedPrice": "$2.99",
