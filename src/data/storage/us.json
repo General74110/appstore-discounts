@@ -1777,6 +1777,17 @@
     "history": [
       [
         {
+          "timestamp": 1726110609085,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$34.99",
+            "Premium Cloud Service Monthly": "$0.99",
+            "Premium Cloud Service Yearly": "$6.99",
+            "Reset Password": "$0.99"
+          }
+        },
+        {
           "timestamp": 1726027986271,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -28830,6 +28841,14 @@
     "history": [
       [
         {
+          "timestamp": 1726110609085,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "Card.Note Premiun": "$0.99"
+          }
+        },
+        {
           "timestamp": 1726027986271,
           "price": 0,
           "formattedPrice": "Free",
@@ -36454,6 +36473,12 @@
     "history": [
       [
         {
+          "timestamp": 1726110609085,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1726027986271,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -37285,6 +37310,19 @@
     "name": "Sandbox Planet",
     "history": [
       [
+        {
+          "timestamp": 1726110609085,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "5000 GP": "$1.99",
+            "25000 GP": "$5.99",
+            "50000 GP": "$9.99",
+            "Remove Ad": "$2.99",
+            "120000 GP": "$19.99",
+            "200000 GP": "$29.99"
+          }
+        },
         {
           "timestamp": 1726027986271,
           "price": 12,
