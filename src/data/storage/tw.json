@@ -2151,6 +2151,23 @@
     "history": [
       [
         {
+          "timestamp": 1726150177812,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "iCloud Sync Lifetime": "$1,290.00",
+            "iCloud Sync Yearly": "$290.00",
+            "Reset Password": "$30.00",
+            "iCloud Sync Monthly": "$30.00",
+            "10 GB monthly": "$90.00",
+            "10 GB yearly": "$990.00",
+            "1 TB monthly": "$1,490.00",
+            "200 GB monthly": "$320.00",
+            "1 TB yearly": "$15,000.00",
+            "200 GB yearly": "$2,990.00"
+          }
+        },
+        {
           "timestamp": 1726071056286,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -3967,6 +3984,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1726150177812,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726071056286,
           "price": 390,
@@ -19924,6 +19947,12 @@
     "history": [
       [
         {
+          "timestamp": 1726150177812,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1726071056286,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -23137,6 +23166,12 @@
     "name": "ICEY",
     "history": [
       [
+        {
+          "timestamp": 1726150177812,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726071056286,
           "price": 90,
@@ -28023,6 +28058,12 @@
     "history": [
       [
         {
+          "timestamp": 1726150177812,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1726071056286,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -32815,6 +32856,12 @@
     "name": "Juicy Realm",
     "history": [
       [
+        {
+          "timestamp": 1726150177812,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726071056286,
           "price": 90,
@@ -41113,6 +41160,12 @@
     "name": "籠中窺夢",
     "history": [
       [
+        {
+          "timestamp": 1726150177812,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726071056286,
           "price": 150,
@@ -49977,6 +50030,15 @@
     "name": "無處遁形：全網公敵",
     "history": [
       [
+        {
+          "timestamp": 1726150177812,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "甜蜜之家": "$30.00",
+            "Hello World!": "$30.00"
+          }
+        },
         {
           "timestamp": 1726071056286,
           "price": 150,

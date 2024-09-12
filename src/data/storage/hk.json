@@ -2057,6 +2057,23 @@
     "history": [
       [
         {
+          "timestamp": 1726150177812,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Reset Password": "HK$ 8.00",
+            "iCloud Sync Monthly": "HK$ 8.00",
+            "iCloud Sync Yearly": "HK$ 52.00",
+            "iCloud Sync Lifetime": "HK$ 288.00",
+            "10 GB monthly": "HK$ 22.00",
+            "10 GB yearly": "HK$ 228.00",
+            "1 TB monthly": "HK$ 388.00",
+            "200 GB monthly": "HK$ 88.00",
+            "1 TB yearly": "HK$ 3,888.00",
+            "200 GB yearly": "HK$ 788.00"
+          }
+        },
+        {
           "timestamp": 1726074462692,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -3890,6 +3907,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1726150177812,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726071056286,
           "price": 98,
@@ -20026,6 +20049,12 @@
     "history": [
       [
         {
+          "timestamp": 1726150177812,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1726071056286,
           "price": 38,
           "formattedPrice": "HK$ 38.00",
@@ -23255,6 +23284,12 @@
     "name": "ICEY",
     "history": [
       [
+        {
+          "timestamp": 1726150177812,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726071056286,
           "price": 22,
@@ -28010,6 +28045,12 @@
     "name": "手機帝國",
     "history": [
       [
+        {
+          "timestamp": 1726150177812,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726071056286,
           "price": 22,
@@ -32801,6 +32842,12 @@
     "name": "Juicy Realm",
     "history": [
       [
+        {
+          "timestamp": 1726150177812,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726071056286,
           "price": 22,
@@ -41441,6 +41488,12 @@
     "name": "籠中窺夢",
     "history": [
       [
+        {
+          "timestamp": 1726150177812,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726071056286,
           "price": 38,
@@ -50861,6 +50914,15 @@
     "name": "無處遁形：全網公敵",
     "history": [
       [
+        {
+          "timestamp": 1726150177812,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "甜蜜之家": "HK$ 8.00",
+            "Hello World!": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1726071056286,
           "price": 38,
