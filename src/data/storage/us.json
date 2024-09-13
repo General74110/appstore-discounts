@@ -2262,6 +2262,23 @@
     "history": [
       [
         {
+          "timestamp": 1726197045139,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$7.99",
+            "Reset Password": "$0.99",
+            "iCloud Sync Monthly": "$0.99",
+            "iCloud Sync Lifetime": "$39.99",
+            "100 GB monthly": "$5.99",
+            "200 GB monthly": "$9.99",
+            "100 GB yearly": "$59.99",
+            "10 GB monthly": "$2.99",
+            "10 GB yearly": "$29.99",
+            "1 TB monthly": "$47.99"
+          }
+        },
+        {
           "timestamp": 1726114323631,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -4144,6 +4161,12 @@
     "name": "RAIN RADAR °- sky weather NOAA",
     "history": [
       [
+        {
+          "timestamp": 1726197045139,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726114323631,
           "price": 12.99,
@@ -20440,6 +20463,12 @@
     "history": [
       [
         {
+          "timestamp": 1726197045139,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1726114323631,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -23873,6 +23902,12 @@
     "name": "ICEY",
     "history": [
       [
+        {
+          "timestamp": 1726197045139,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726114323631,
           "price": 2.99,
@@ -28481,6 +28516,12 @@
     "history": [
       [
         {
+          "timestamp": 1726197045139,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1726114323631,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -33044,6 +33085,12 @@
     "name": "Juicy Realm",
     "history": [
       [
+        {
+          "timestamp": 1726197045139,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726114323631,
           "price": 2.99,
@@ -42127,6 +42174,12 @@
     "name": "Moncage",
     "history": [
       [
+        {
+          "timestamp": 1726197045139,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726114323631,
           "price": 4.99,
@@ -51273,6 +51326,15 @@
     "name": "Cyber Manhunt",
     "history": [
       [
+        {
+          "timestamp": 1726197045139,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Home Sweet Home": "$0.99",
+            "Hello World!": "$0.99"
+          }
+        },
         {
           "timestamp": 1726114323631,
           "price": 4.99,
