@@ -3799,6 +3799,12 @@
     "history": [
       [
         {
+          "timestamp": 1726236498027,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1726157446639,
           "price": 0,
           "formattedPrice": "免费",
@@ -5084,6 +5090,14 @@
     "name": "夜星 (Night Stars)",
     "history": [
       [
+        {
+          "timestamp": 1726236498027,
+          "price": 38,
+          "formattedPrice": "¥38.00",
+          "inAppPurchases": {
+            "移除广告": "¥15.00"
+          }
+        },
         {
           "timestamp": 1726157446639,
           "price": 0,
@@ -23327,6 +23341,23 @@
     "history": [
       [
         {
+          "timestamp": 1726236498027,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "310 C.COIN": "¥30.00",
+            "710 C.COIN": "¥68.00",
+            "60 C.COIN": "¥6.00",
+            "1030 C.COIN": "¥63.00",
+            "解锁角色Miku": "¥68.00",
+            "解锁角色ConneR": "¥30.00",
+            "120 C.COIN": "¥12.00",
+            "解锁角色Xenon": "¥30.00",
+            "解锁角色Cherry": "¥30.00",
+            "解锁角色Joe": "¥30.00"
+          }
+        },
+        {
           "timestamp": 1726157446639,
           "price": 0,
           "formattedPrice": "免费",
@@ -33411,6 +33442,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1726236498027,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        },
         {
           "timestamp": 1726157446639,
           "price": 48,
@@ -56335,6 +56375,14 @@
     "name": "完蛋！我被美女包围了！",
     "history": [
       [
+        {
+          "timestamp": 1726236498027,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "本体1-6章": "¥32.00"
+          }
+        },
         {
           "timestamp": 1726157446639,
           "price": 1,
