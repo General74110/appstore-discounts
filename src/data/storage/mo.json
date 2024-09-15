@@ -35122,6 +35122,16 @@
     "history": [
       [
         {
+          "timestamp": 1726366533053,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "300次高精度海拔": "USD 3.99",
+            "100次高精度海拔查詢": "USD 2.99",
+            "MyTracks 高級版": "USD 9.99"
+          }
+        },
+        {
           "timestamp": 1726330192783,
           "price": 0.99,
           "formattedPrice": "USD 0.99",

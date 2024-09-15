@@ -32933,6 +32933,16 @@
     "history": [
       [
         {
+          "timestamp": 1726366533053,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "MyTracks 高级版": "¥68.00",
+            "300次高精度海拔查询": "¥28.00",
+            "100次高精度海拔查询": "¥22.00"
+          }
+        },
+        {
           "timestamp": 1726330192783,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -45813,6 +45823,12 @@
     "name": "iSleeper - 梦话鼾声记录与睡眠监测",
     "history": [
       [
+        {
+          "timestamp": 1726366533053,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726330192783,
           "price": 18,

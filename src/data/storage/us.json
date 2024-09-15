@@ -35472,6 +35472,16 @@
     "history": [
       [
         {
+          "timestamp": 1726366533053,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "MyTracks Premium": "$9.99",
+            "300 Altitude Query Times": "$3.99",
+            "100 Altitude Query Times": "$2.99"
+          }
+        },
+        {
           "timestamp": 1726287042913,
           "price": 0.99,
           "formattedPrice": "$0.99",
