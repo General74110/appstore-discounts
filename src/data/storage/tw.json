@@ -2327,6 +2327,23 @@
     "history": [
       [
         {
+          "timestamp": 1726409239334,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$290.00",
+            "Reset Password": "$30.00",
+            "iCloud Sync Lifetime": "$1,290.00",
+            "iCloud Sync Monthly": "$30.00",
+            "10 GB monthly": "$90.00",
+            "10 GB yearly": "$990.00",
+            "1 TB monthly": "$1,490.00",
+            "200 GB monthly": "$320.00",
+            "1 TB yearly": "$15,000.00",
+            "200 GB yearly": "$2,990.00"
+          }
+        },
+        {
           "timestamp": 1726330192783,
           "price": 0,
           "formattedPrice": "免費",
@@ -8249,6 +8266,12 @@
     "name": "FocusDots · 專注於當下",
     "history": [
       [
+        {
+          "timestamp": 1726409239334,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726330192783,
           "price": 60,
@@ -47535,6 +47558,14 @@
     "name": "Streets of Rage 4",
     "history": [
       [
+        {
+          "timestamp": 1726409239334,
+          "price": 290,
+          "formattedPrice": "$290.00",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$90.00"
+          }
+        },
         {
           "timestamp": 1726330192783,
           "price": 150,
