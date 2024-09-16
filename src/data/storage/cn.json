@@ -5497,6 +5497,14 @@
     "history": [
       [
         {
+          "timestamp": 1726455966470,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "移除广告": "¥15.00"
+          }
+        },
+        {
           "timestamp": 1726416588561,
           "price": 38,
           "formattedPrice": "¥38.00",
@@ -33760,6 +33768,16 @@
     "name": "我的足迹: GPS记录仪",
     "history": [
       [
+        {
+          "timestamp": 1726455966470,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "MyTracks 高级版": "¥68.00",
+            "300次高精度海拔查询": "¥28.00",
+            "100次高精度海拔查询": "¥22.00"
+          }
+        },
         {
           "timestamp": 1726416588561,
           "price": 0,

@@ -2438,6 +2438,23 @@
     "history": [
       [
         {
+          "timestamp": 1726455966470,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Reset Password": "$0.99",
+            "iCloud Sync Yearly": "$7.99",
+            "iCloud Sync Monthly": "$0.99",
+            "iCloud Sync Lifetime": "$39.99",
+            "100 GB monthly": "$5.99",
+            "200 GB monthly": "$9.99",
+            "100 GB yearly": "$59.99",
+            "10 GB monthly": "$2.99",
+            "10 GB yearly": "$29.99",
+            "1 TB monthly": "$47.99"
+          }
+        },
+        {
           "timestamp": 1726373449128,
           "price": 0,
           "formattedPrice": "Free",
@@ -5913,6 +5930,14 @@
     "history": [
       [
         {
+          "timestamp": 1726455966470,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Remove advertisement": "$1.99"
+          }
+        },
+        {
           "timestamp": 1726373449128,
           "price": 5,
           "formattedPrice": "$5.00",
@@ -8491,6 +8516,12 @@
     "name": "FocusDots · Focus What Matters",
     "history": [
       [
+        {
+          "timestamp": 1726455966470,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726373449128,
           "price": 1.99,
@@ -36319,6 +36350,16 @@
     "history": [
       [
         {
+          "timestamp": 1726455966470,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "MyTracks Premium": "$9.99",
+            "300 Altitude Query Times": "$3.99",
+            "100 Altitude Query Times": "$2.99"
+          }
+        },
+        {
           "timestamp": 1726373449128,
           "price": 0,
           "formattedPrice": "Free",
@@ -48504,6 +48545,14 @@
     "name": "Streets of Rage 4",
     "history": [
       [
+        {
+          "timestamp": 1726455966470,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "$2.99"
+          }
+        },
         {
           "timestamp": 1726373449128,
           "price": 4.99,
