@@ -4356,6 +4356,12 @@
     "history": [
       [
         {
+          "timestamp": 1726495733052,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1726416588561,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
@@ -8483,6 +8489,12 @@
     "name": "FocusDots · 專注於當下",
     "history": [
       [
+        {
+          "timestamp": 1726495733052,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726416588561,
           "price": 0,
@@ -47652,6 +47664,17 @@
     "name": "黄鸭证件照-最美求职考试证照制作神器",
     "history": [
       [
+        {
+          "timestamp": 1726495733052,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "HK$ 18.00",
+            "黄鸭证件照3元": "HK$ 8.00",
+            "黄鸭证件照-周度会员": "HK$ 8.00",
+            "黄鸭证件照1元": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1726416588561,
           "price": 0,
