@@ -4610,6 +4610,12 @@
     "history": [
       [
         {
+          "timestamp": 1726542562123,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1726459923152,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -8711,6 +8717,12 @@
     "name": "FocusDots · Focus What Matters",
     "history": [
       [
+        {
+          "timestamp": 1726542562123,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726459923152,
           "price": 0,
@@ -48247,6 +48259,17 @@
     "name": "黄鸭证件照-最美求职考试证照制作神器",
     "history": [
       [
+        {
+          "timestamp": 1726542562123,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "$1.99",
+            "黄鸭证件照3元": "$0.99",
+            "黄鸭证件照-周度会员": "$0.99",
+            "黄鸭证件照1元": "$0.99"
+          }
+        },
         {
           "timestamp": 1726459923152,
           "price": 0,
