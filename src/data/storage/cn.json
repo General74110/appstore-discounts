@@ -42885,6 +42885,14 @@
     "history": [
       [
         {
+          "timestamp": 1726533324211,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Fileball 高级版永久解锁": "¥48.00"
+          }
+        },
+        {
           "timestamp": 1726503104368,
           "price": 0,
           "formattedPrice": "免费",

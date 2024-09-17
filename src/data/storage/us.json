@@ -44605,6 +44605,14 @@
     "history": [
       [
         {
+          "timestamp": 1726533324211,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "$6.99"
+          }
+        },
+        {
           "timestamp": 1726459923152,
           "price": 0,
           "formattedPrice": "Free",
