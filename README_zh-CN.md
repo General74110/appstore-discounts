@@ -172,7 +172,7 @@
 |103|1633865171|獬豸 · 民法典|獬豸 · 民法典|獬豸 · 民法典|獬豸 · 民法典|獬豸 · 民法典|
 |104|1492395549|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|爱美剧-人人美剧天堂社区|
 |105|1661419573|atvTools|atvTools|atvTools|atvTools|atvTools|
-|106|6479683928|AMood|AMood|AMood|AMood|AMood|
+|106|6479683928|AMood|AMood|AMood - 追踪你的身心健康|AMood - 追踪你的身心健康|AMood - 追踪你的身心健康|
 |107|6443798663|敲木鱼 - 打节拍敲音效解压神器|敲木魚|敲木魚|敲木魚|MuYu|
 |108|373454750|随手记Pro–个人家庭生意记账|隨手記Pro–個人家庭生意記帳|隨手記Pro–個人家庭生意記帳|隨手記Pro–個人家庭生意記帳|随手记Pro|
 |109|916366645|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|Procreate Pocket|
