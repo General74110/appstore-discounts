@@ -3449,6 +3449,19 @@
     "history": [
       [
         {
+          "timestamp": 1726715515499,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "iCloud Sync Lifetime": "$34.99",
+            "Cloud Backup Monthly": "$1.49"
+          }
+        },
+        {
           "timestamp": 1726632733596,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -23606,6 +23619,12 @@
     "history": [
       [
         {
+          "timestamp": 1726715515499,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1726632733596,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -27531,6 +27550,12 @@
     "name": "ICEY",
     "history": [
       [
+        {
+          "timestamp": 1726715515499,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726632733596,
           "price": 1.99,
@@ -32810,6 +32835,12 @@
     "name": "Mobile Empire",
     "history": [
       [
+        {
+          "timestamp": 1726715515499,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726632733596,
           "price": 1.99,
@@ -38121,6 +38152,12 @@
     "history": [
       [
         {
+          "timestamp": 1726715515499,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1726632733596,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -41754,6 +41791,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1726715515499,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
         {
           "timestamp": 1726632733596,
           "price": 6.99,
@@ -46656,6 +46702,14 @@
     "history": [
       [
         {
+          "timestamp": 1726715515499,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "$9.99"
+          }
+        },
+        {
           "timestamp": 1726632733596,
           "price": 0,
           "formattedPrice": "Free",
@@ -48594,6 +48648,12 @@
     "name": "Moncage",
     "history": [
       [
+        {
+          "timestamp": 1726715515499,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1726632733596,
           "price": 3.99,
