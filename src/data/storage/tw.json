@@ -42056,6 +42056,15 @@
     "history": [
       [
         {
+          "timestamp": 1726754918784,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Premium Features": "$120.00",
+            "Value for Value": "$220.00"
+          }
+        },
+        {
           "timestamp": 1726675901372,
           "price": 0,
           "formattedPrice": "免費",
