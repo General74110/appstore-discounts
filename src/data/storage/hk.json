@@ -5286,6 +5286,17 @@
     "history": [
       [
         {
+          "timestamp": 1726841371631,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "HK$ 288.00",
+            "Yearly Cloud Services": "HK$ 52.00",
+            "Monthly Cloud Services": "HK$ 18.00",
+            "Reset Password": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1726762263201,
           "price": 0,
           "formattedPrice": "免費",
@@ -30807,6 +30818,22 @@
     "history": [
       [
         {
+          "timestamp": 1726841371631,
+          "price": 23,
+          "formattedPrice": "HK$ 23.00",
+          "inAppPurchases": {
+            "unlockall_0": "HK$ 218.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "Miku in Museland": "HK$ 68.00",
+            "unlockall_29": "HK$ 268.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "MSR特選曲目組合包": "HK$ 48.00",
+            "Rin·Len's Mirrorland": "HK$ 48.00"
+          }
+        },
+        {
           "timestamp": 1726762263201,
           "price": 23,
           "formattedPrice": "HK$ 23.00",
@@ -42014,6 +42041,20 @@
     "name": "Pascal's Wager",
     "history": [
       [
+        {
+          "timestamp": 1726841371631,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "遺忘之潮": "HK$ 22.00",
+            "追加內容·「深入黑霧」": "HK$ 8.00",
+            "泰倫斯先驅者套裝": "HK$ 8.00",
+            "成人禮": "HK$ 8.00",
+            "睡美人套裝": "HK$ 8.00",
+            "皇座之舞": "HK$ 18.00",
+            "秘靈": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1726762263201,
           "price": 38,

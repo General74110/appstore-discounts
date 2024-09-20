@@ -5363,6 +5363,17 @@
     "history": [
       [
         {
+          "timestamp": 1726841371631,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$1,190.00",
+            "Yearly Cloud Services": "$220.00",
+            "Monthly Cloud Services": "$50.00",
+            "Reset Password": "$30.00"
+          }
+        },
+        {
           "timestamp": 1726762263201,
           "price": 0,
           "formattedPrice": "免費",
@@ -41488,6 +41499,20 @@
     "name": "Pascal's Wager",
     "history": [
       [
+        {
+          "timestamp": 1726841371631,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "追加內容·「深入黑霧」": "$30.00",
+            "遺忘之潮": "$90.00",
+            "皇座之舞": "$60.00",
+            "泰倫斯先驅者套裝": "$30.00",
+            "成人禮": "$30.00",
+            "睡美人套裝": "$30.00",
+            "秘靈": "$30.00"
+          }
+        },
         {
           "timestamp": 1726762263201,
           "price": 150,
