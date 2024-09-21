@@ -5674,6 +5674,17 @@
     "history": [
       [
         {
+          "timestamp": 1726888242622,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$34.99",
+            "Yearly Cloud Services": "$6.99",
+            "Monthly Cloud Services": "$1.99",
+            "Reset Password": "$0.99"
+          }
+        },
+        {
           "timestamp": 1726805479877,
           "price": 0,
           "formattedPrice": "Free",
@@ -42084,6 +42095,20 @@
     "name": "Pascal's Wager",
     "history": [
       [
+        {
+          "timestamp": 1726888242622,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Deep into the Dark Mist": "$0.99",
+            "The Tides of Oblivion": "$2.99",
+            "Herald outfit for Terrence": "$0.99",
+            "Dance of the Throne": "$1.99",
+            "Sleeping Beauty": "$0.99",
+            "Initiation Rite": "$0.99",
+            "Enigma": "$0.99"
+          }
+        },
         {
           "timestamp": 1726805479877,
           "price": 4.99,

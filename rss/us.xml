@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2024-09-19T03:17:32.205Z</updated>
+    <updated>2024-09-21T03:17:00.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,95 +18,97 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-09-19T03:17:32.206Z</updated>
+        <updated>2024-09-21T03:17:00.065Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Safety Note+ Pro]]></title>
-        <id>Safety Note+ Pro-1726715515499</id>
-        <link href="https://apps.apple.com/us/app/safety-note-pro/id460661291?uo=4"/>
-        <updated>2024-09-19T03:11:55.499Z</updated>
-        <summary type="html"><![CDATA[Price: $3.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/safety-note-pro/id460661291?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a8/5c/50/a85c5058-3cc5-c47d-7751-62727f40feff/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Pascal's Wager]]></title>
+        <id>Pascal's Wager-1726888242622</id>
+        <link href="https://apps.apple.com/us/app/pascals-wager/id1476649036?uo=4"/>
+        <updated>2024-09-21T03:10:42.622Z</updated>
+        <summary type="html"><![CDATA[Price: $4.99 → $3.99]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/pascals-wager/id1476649036?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2a/36/3f/2a363f52-9a00-0f7c-5d1d-d4138875446a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>$3.99</span> → <b>
-  <strong>Free</strong>
+  Discount Information（Price：<span>$4.99</span> → <b>
+  <strong>$3.99</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  Introducing Safety Note+: Keep Your Most Private Notes Secure
+  August 19th, 2022
+Newest add-on content, Dance of the Throne, is now available!
+The Soul of Obsession carrying the will of all Demiurges has been summoned to Solas again, and it's here for revenge!
+The leader of Demiurge, Elena, will be arriving as a playable character in this mode. Dance in a flurry of dual blades and experience a completely new challenge in Solas.
 
-Have you ever experienced the frustration of lending someone your phone, only to have them intrude on your personal information? We understand the discomfort that comes with it. That's why we created Safety Note+. With this powerful app, you can now safeguard your private notes from unauthorized access effortlessly.
+20th Aug 2020
+"The Tides of Oblivion" DLC is available!
+New story, maps and playable character.
+Adventure with Jerold to explore the cursed Ichthyosauria!
 
-Key Features:
+■ Devices support:
 
-• Advanced security system: Utilizing state-of-the-art technology to protect your notes
-• Passcode protection: Quickly and easily secure your most private and sensitive notes with a passcode only known to you
-• Biometric support: Unlock the app using TouchID or FaceID for added convenience
-• Intruder report: Capture photos of unauthorized individuals attempting to access your app
-• Decoy password: Conceal your real privacy with a decoy password
-• Folder-specific passcode locking: Enhance security by applying passcode protection to individual folders
-• Dot pattern lock style: Opt for a higher level of security with the dot pattern lock style
-• Multiple lock designs: Choose from three stylish and user-friendly lock designs without compromising security
-• Intuitive interface: Selectable themes and an easy-to-use interface make managing your notes a breeze
-• Note organization: Create, sort, move, and copy notes within folders
-• Backup and sharing options: Back up notes to your computer via iTunes file sharing or iCloud, and share notes between iOS devices with Safety Note+ installed via Bluetooth or Wi-Fi
-• Additional features: Auto-save, note search, email notes, and full orientation support
-• Universal compatibility: Developed for both iPhone and iPad, requiring a single purchase
+- System run iOS 9 and above
 
-Your privacy matters. With Safety Note+, you can confidently secure your personal information. Customize your passcode style, protect individual folders, and experience the peace of mind that comes with complete control over your private notes.
+- iPhone 6s and above
 
-Download Safety Note+ now and ensure that what goes into Safety Note+ remains for your eyes only.
+- iPad models with 2G RAM or more
 
-Visit us at:
-Website: https://sixbytes.io
-Twitter: https://twitter.com/SixbytesApp
-Facebook: https://www.facebook.com/sixbytesapp
 
-For more information, please refer to our Terms of Service and Privacy Policy:
-Terms of service: https://sixbytes.io/assets/terms-of-service.pdf
-Privacy policy: https://sixbytes.io/assets/privacy-policy.pdf
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/9b/ec/329bec07-06b0-616d-a0ef-469100d60caf/48ef49cf-d737-45c7-800a-40d960458f41_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/df/f4/32dff459-3fd7-d49e-8ca1-e5c65737d4c0/7a2f8d74-5471-4f4b-a547-b00f01d4dbe6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/19/d4/6119d4ec-a67d-d31d-0432-31448f74bde8/d6f23d4c-bdc4-488d-9412-c0def307671b_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/c7/4e/7cc74ea0-c474-fd63-87f5-13d4b698e21f/f9d87e43-32ba-46ed-8509-cc5948831914_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/56/11/8f56118b-c480-f65f-8bd5-faa27992306f/daafb7d9-15bb-4511-a6fc-643c7cb3f247_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/64/6c/20646c3f-2562-4870-38aa-2d09a2ccbfd6/7506752e-c878-478b-a21e-cc98d15a9fd5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/9e/5b/969e5b5e-6a53-1a89-27d2-63ec91584d4a/9445e5b4-e396-4d04-9335-2a7ee164253e_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/c5/fc/21c5fc25-ebee-5bb4-f315-595d5c237148/e9e762d2-3f5d-4ef3-a7ab-33124ec0623d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/68/1f/97681fed-10a5-5708-f2e8-f28e8f69b1c7/b199c8f7-ac75-47b4-b15c-031d8e4bbcce_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/f8/b6/9ef8b68a-1f63-bce6-0b66-4ed1e601dca8/ee0a1e60-9a81-4ea8-a713-72f9236fea62_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/46/3d/3c463d0c-7832-84e3-b633-b1bebbe1fda3/c142eebe-bb19-4fa7-82ec-08a39105662f_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/e3/a4/e0e3a471-7eb7-d520-d9cf-53806cfc3b34/5bd71368-68c5-4cd2-ad48-6817f8275746_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/ee/67/40ee672e-6051-6ed0-cd1d-f36f5dd7fbdc/bdc2003c-2e32-4926-8587-6e282cea9254_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/c7/7a/55c77a62-b27b-707c-e837-65f8ec28aad5/59ca110a-c0fa-4dc7-b261-efcad496eba6_7.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Juice Watch]]></title>
-        <id>Juice Watch-1726715515499</id>
-        <link href="https://apps.apple.com/us/app/juice-watch/id1485101937?uo=4"/>
-        <updated>2024-09-19T03:11:55.499Z</updated>
-        <summary type="html"><![CDATA[Price: $6.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/juice-watch/id1485101937?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/e8/99/1fe89909-69fa-0fbd-030b-9067f4666502/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  Discount Information（Price：<span>$6.99</span> → <b>
-  <strong>Free</strong>
-</b>）
-</h2><h2>Application Description</h2><p>
-  Monitor your iPhone battery level from your wrist.
+■ Description
 
-Juice Watch is a simple app designed to do two things well:
+Pascal's Wager is an action role playing game with the style of dark fantasy. The game provides its players with top-notch picture quality and a feast for the senses that the mobile platform has never had before. In the game, the world is shrouded by dark mist, where light is dim and mysterious. People there become lunatic, and nobody knows the secrets behind that.
+ 
+Players can play multiple characters to experience the strong storyline and reveal various hidden areas of the map. Along the way, they will fight unbelievable enemies, confront epic bosses, and embrace overwhelming death and truth. All the while, they'll be engrossed by a magnificent soundtrack performed by a world-class orchestra.
 
-• Show the battery level of the paired iPhone in a complication on Apple Watch
 
-• Deliver a notification on your iPhone when your Apple Watch is charging and gets above 90% (or whatever level you choose, from 50% to 100%)
+■ Features
 
-Just glance at your wrist to monitor the charge of your iPhone throughout the day. Or, keep tabs on the battery level of your iPhone while it is plugged in and charging in another room.
+- An incredibly Rich and Deep story, 20 or more hours of content
 
-You can see both your iPhone and Apple Watch battery levels on the same complication.
+- Four operable characters, with different combat modes and skill trees
 
-You can also get a notification on your Apple Watch when the paired iPhone is charging and reaches at least 80% (or whatever level you choose, from 50% to 100%).
+- Dozens of different enemies, bringing extensive experience of hectic battles
 
-You can set up low battery notifications, to get notifications when your Apple Watch or iPhone battery is low.
+- Diversified NPCs, responding to independent subplots
 
-Juice Watch is available for a wide variety of complications, so you can use it on your favorite watch faces.
+- Three-dimensional map with multiple layers
 
-You can also use this app to check your Apple Watch battery level from your paired iPhone. This can be useful while your Apple Watch is charging somewhere else.
+- Cinematic performance and storytelling, fully voiced dialog
 
-Keep in mind that the iPhone battery level shown on Apple Watch is not real-time. It is refreshed periodically, about every 5–60 minutes. The Apple Watch battery level shown on the paired iPhone refreshes at approximately the same rate.
+- Powerfully attractive soundtracks, performed by a world-famous symphony orchestra
 
-As of iOS 17 and watchOS 10, Juice Watch reports battery levels rounded to the nearest 5% since that's now the granularity that Apple makes available to apps.
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e7/79/05/e77905fd-8531-93f9-7e63-b31ba9d738fd/85dc5c23-12a5-430e-be68-dbbb2066cdfa_5.5_inch_-_1_-_en.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/f6/e1/e5/f6e1e581-ac55-46a4-6a3d-eeabe3789c9f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a2/b1/d9/a2b1d958-8649-bd40-7c70-9de4cc49a09a/pr_source.png/392x696bb.png" />]]></content>
+- Full controller support to ensure the best possible gameplay experience
+
+- Substantial post-launch DLC adding to the story and characters
+
+
+■ Story
+
+In ancient times, a natural disaster brought the Sun from high in the Sky to the depths of the Ocean, allowing a mysterious dark fog to blanket the World. 
+ 
+Simultaneously, Colossi, beings that were revered by descendants, roamed the lands for the very first time. 
+ 
+These Colossi, which emit the sparks of light that disperse the black fog, bring the only hope to mankind. 
+ 
+Thousands of years later, humanity has long grown accustomed to following in the footsteps of these revered beings as they travel through the black fog. 
+ 
+However, just as how the Sun was mysteriously brought down from the Sky, these Colossi have also began to fall mysteriously...
+ 
+Terrence, a courier whom was expelled by the Church, has learned that his long estranged wife Teresa, may have some connection to the recent fall of the Colossi. 
+ 
+Setting forth on a journey filled with anguish, deception and possible redemption, Terrence seeks to find his wife and the truth behind their World.
+
+
+◆ SNS ◆
+
+- Facebook: @PascalsWagerGame 
+- Youtube: Pascal's Wager  
+- Twitter: @PascalsWager_  
+- Instagram: @pascalswagergame
+- Reddit: https://reddit.com/r/PascalsWagerGame
+- Discord: https://discord.gg/aXxxENu
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/fc/0c/87/fc0c872a-c6ea-84bb-6bf9-2eb90ed32fd3/bda34336-89b9-43b8-9030-7d3f91212ac5_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/6d/41/36/6d413641-6b8e-3a38-5874-471cc842450c/55c60ef9-68ac-4cf5-8bf0-adf516593e2a_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/e0/24/89e024b0-b896-2afe-3461-145d43a08404/dfcd1a19-2bb4-4583-b9da-1fe2049e089e__U7ef4_U5965_U62c9EN.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/86/90/33/8690336b-3fe1-d1a0-1575-b9dcfd68a10d/c2d9b29b-657a-4324-bd9d-888e37edb01c__U8d1d_U59ae_U5854EN.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/21/1d/3c/211d3c77-f5fc-c24b-86d0-2fbf347e98e9/2d9bc11c-9e47-4a6b-9984-a2a8cc1591cd_The-Tides-of-Oblivion_2_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/0c/ff/950cff42-4fc4-e1f4-d6a8-a9949ad1427a/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/32/ee/3c32eedd-1cbf-7e26-9357-b524b316182d/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/aa/05/ff/aa05ff7d-c9c5-3f83-7ad1-47d35e814f37/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/af/a8/c8afa825-5d91-3c00-7f09-b61c51e0c4be/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/99/56/5c/99565c5f-2a5d-4b79-e5d3-819a591ae6d7/pr_source.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/70/30/63/70306357-b726-3f36-4659-e136948ad43a/410bac4a-2d64-4eaa-bfc8-fd067cae21ac_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/69/66/a9/6966a964-c1c2-508a-214d-2d0724f52022/2ce32443-8c34-4af4-94d7-afa93591b323_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/7d/ef/da7def15-5af5-2fbe-9b46-f8f1ea980adf/02da05ab-4afd-4b1a-b706-6c8cbf552a95__U7ef4_U5965_U62c9EN.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/a2/10/bda210cf-e4a6-3b93-251a-8d9eeb1d3248/9c4742dd-0d10-487e-9fdf-b527845caeee__U8d1d_U59ae_U5854EN.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/31/74/793174b5-54c8-f2c9-4bbf-aca38d64f813/3e4d3697-09d1-4764-b24c-2386094565f0_The-Tides-of-Oblivion_2-2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/11/bd/0a/11bd0a76-1453-a08d-01df-0d50dc18d757/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b5/ee/9f/b5ee9f91-5d93-5827-e5b2-2ca7a7203564/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/08/38/ec/0838ecee-e48e-a51a-17d7-2ab27186573b/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/b5/b2/3cb5b2c0-28c2-9dd6-8e59-1113eb34cdbe/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e9/a3/20/e9a32083-23f2-d43b-d79b-2d6c408f683d/pr_source.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
