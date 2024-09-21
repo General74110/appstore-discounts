@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2024-09-21T03:17:00.063Z</updated>
+    <updated>2024-09-21T19:12:20.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,97 +18,53 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-09-21T03:17:00.065Z</updated>
+        <updated>2024-09-21T19:12:20.627Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pascal's Wager]]></title>
-        <id>Pascal's Wager-1726888242622</id>
-        <link href="https://apps.apple.com/us/app/pascals-wager/id1476649036?uo=4"/>
-        <updated>2024-09-21T03:10:42.622Z</updated>
-        <summary type="html"><![CDATA[Price: $4.99 → $3.99]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/pascals-wager/id1476649036?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/2a/36/3f/2a363f52-9a00-0f7c-5d1d-d4138875446a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[aTimeLogger Time Tracker]]></title>
+        <id>aTimeLogger Time Tracker-1726945588919</id>
+        <link href="https://apps.apple.com/us/app/atimelogger-time-tracker/id576718804?uo=4"/>
+        <updated>2024-09-21T19:06:28.919Z</updated>
+        <summary type="html"><![CDATA[Price: $4.99 → Free]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/atimelogger-time-tracker/id576718804?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/48/fc/f3/48fcf383-5380-2052-40bc-b5b60cacc6a6/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
 </a><h2>
   Discount Information（Price：<span>$4.99</span> → <b>
-  <strong>$3.99</strong>
+  <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  August 19th, 2022
-Newest add-on content, Dance of the Throne, is now available!
-The Soul of Obsession carrying the will of all Demiurges has been summoned to Solas again, and it's here for revenge!
-The leader of Demiurge, Elena, will be arriving as a playable character in this mode. Dance in a flurry of dual blades and experience a completely new challenge in Solas.
+  Track your time with single touch in aTimeLogger 2!
 
-20th Aug 2020
-"The Tides of Oblivion" DLC is available!
-New story, maps and playable character.
-Adventure with Jerold to explore the cursed Ichthyosauria!
+Spending only a few minutes a day on this app you will get daily, weekly and monthly statistics in the form of diagrams and graphs. Using this data you'll be able to control and manage your time. 
 
-■ Devices support:
+aTimeLogger is the right solution for: 
+• Track tasks and projects at Work
+• Track Studies and Homework
+• Track Sport exercises
+• Track Sleeping
+• Track Baby or Child daily activities
+• Or any activities people want to track and control
 
-- System run iOS 9 and above
-
-- iPhone 6s and above
-
-- iPad models with 2G RAM or more
-
-
-■ Description
-
-Pascal's Wager is an action role playing game with the style of dark fantasy. The game provides its players with top-notch picture quality and a feast for the senses that the mobile platform has never had before. In the game, the world is shrouded by dark mist, where light is dim and mysterious. People there become lunatic, and nobody knows the secrets behind that.
- 
-Players can play multiple characters to experience the strong storyline and reveal various hidden areas of the map. Along the way, they will fight unbelievable enemies, confront epic bosses, and embrace overwhelming death and truth. All the while, they'll be engrossed by a magnificent soundtrack performed by a world-class orchestra.
-
-
-■ Features
-
-- An incredibly Rich and Deep story, 20 or more hours of content
-
-- Four operable characters, with different combat modes and skill trees
-
-- Dozens of different enemies, bringing extensive experience of hectic battles
-
-- Diversified NPCs, responding to independent subplots
-
-- Three-dimensional map with multiple layers
-
-- Cinematic performance and storytelling, fully voiced dialog
-
-- Powerfully attractive soundtracks, performed by a world-famous symphony orchestra
-
-- Full controller support to ensure the best possible gameplay experience
-
-- Substantial post-launch DLC adding to the story and characters
-
-
-■ Story
-
-In ancient times, a natural disaster brought the Sun from high in the Sky to the depths of the Ocean, allowing a mysterious dark fog to blanket the World. 
- 
-Simultaneously, Colossi, beings that were revered by descendants, roamed the lands for the very first time. 
- 
-These Colossi, which emit the sparks of light that disperse the black fog, bring the only hope to mankind. 
- 
-Thousands of years later, humanity has long grown accustomed to following in the footsteps of these revered beings as they travel through the black fog. 
- 
-However, just as how the Sun was mysteriously brought down from the Sky, these Colossi have also began to fall mysteriously...
- 
-Terrence, a courier whom was expelled by the Church, has learned that his long estranged wife Teresa, may have some connection to the recent fall of the Colossi. 
- 
-Setting forth on a journey filled with anguish, deception and possible redemption, Terrence seeks to find his wife and the truth behind their World.
-
-
-◆ SNS ◆
-
-- Facebook: @PascalsWagerGame 
-- Youtube: Pascal's Wager  
-- Twitter: @PascalsWager_  
-- Instagram: @pascalswagergame
-- Reddit: https://reddit.com/r/PascalsWagerGame
-- Discord: https://discord.gg/aXxxENu
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/fc/0c/87/fc0c872a-c6ea-84bb-6bf9-2eb90ed32fd3/bda34336-89b9-43b8-9030-7d3f91212ac5_2.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/6d/41/36/6d413641-6b8e-3a38-5874-471cc842450c/55c60ef9-68ac-4cf5-8bf0-adf516593e2a_1.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/89/e0/24/89e024b0-b896-2afe-3461-145d43a08404/dfcd1a19-2bb4-4583-b9da-1fe2049e089e__U7ef4_U5965_U62c9EN.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/86/90/33/8690336b-3fe1-d1a0-1575-b9dcfd68a10d/c2d9b29b-657a-4324-bd9d-888e37edb01c__U8d1d_U59ae_U5854EN.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/21/1d/3c/211d3c77-f5fc-c24b-86d0-2fbf347e98e9/2d9bc11c-9e47-4a6b-9984-a2a8cc1591cd_The-Tides-of-Oblivion_2_2208x1242.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/95/0c/ff/950cff42-4fc4-e1f4-d6a8-a9949ad1427a/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/32/ee/3c32eedd-1cbf-7e26-9357-b524b316182d/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/aa/05/ff/aa05ff7d-c9c5-3f83-7ad1-47d35e814f37/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/c8/af/a8/c8afa825-5d91-3c00-7f09-b61c51e0c4be/pr_source.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/99/56/5c/99565c5f-2a5d-4b79-e5d3-819a591ae6d7/pr_source.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/70/30/63/70306357-b726-3f36-4659-e136948ad43a/410bac4a-2d64-4eaa-bfc8-fd067cae21ac_2.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/69/66/a9/6966a964-c1c2-508a-214d-2d0724f52022/2ce32443-8c34-4af4-94d7-afa93591b323_2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/da/7d/ef/da7def15-5af5-2fbe-9b46-f8f1ea980adf/02da05ab-4afd-4b1a-b706-6c8cbf552a95__U7ef4_U5965_U62c9EN.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/bd/a2/10/bda210cf-e4a6-3b93-251a-8d9eeb1d3248/9c4742dd-0d10-487e-9fdf-b527845caeee__U8d1d_U59ae_U5854EN.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/79/31/74/793174b5-54c8-f2c9-4bbf-aca38d64f813/3e4d3697-09d1-4764-b24c-2386094565f0_The-Tides-of-Oblivion_2-2732x2048.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/11/bd/0a/11bd0a76-1453-a08d-01df-0d50dc18d757/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b5/ee/9f/b5ee9f91-5d93-5827-e5b2-2ca7a7203564/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/08/38/ec/0838ecee-e48e-a51a-17d7-2ab27186573b/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/3c/b5/b2/3cb5b2c0-28c2-9dd6-8e59-1113eb34cdbe/pr_source.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/e9/a3/20/e9a32083-23f2-d43b-d79b-2d6c408f683d/pr_source.jpg/552x414bb.jpg" />]]></content>
+Some of the key features include: 
+• Start and Stop is done with just one tap
+• Easy and intuitive interface 
+• iOS widget for quick start/stop activities
+• Customisation of activities with a set of unique icons to choose from. You can also upload your own icon
+• Pause and resume activities 
+• Simultaneous activities (enable them in Settings)
+• Many statistics available in form of graphs and pie charts 
+• Reports in different formats (CSV and HTML) 
+• Goals
+• Groups
+• Backup and restore 
+• Apple Watch integration
+• Siri Shortcuts
+• Account registration for automatic sync between multiple devices
+• the best support :-)
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c1/3d/bd/c13dbd27-f71c-2252-d4f9-b5226e674321/mzl.imwlcxtl.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/94/b3/aa/94b3aa02-79b0-cfb2-a81b-698007ae487e/mzl.imgxafsp.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8e/37/73/8e377369-b7e9-fdc1-fbaa-986d7e2cb565/mzl.qkaytuix.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/06/2e/04/062e0426-b4b6-09aa-0742-8170dcf8df1b/mzl.vhkbqnbj.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/38/fd/02/38fd0285-93fc-5e46-03b6-a2e639b4801e/mzl.uqaoqtwu.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/2c/b5/322cb5c0-51f3-0d28-8553-d9c982a8af6f/mzl.lzyeqlrx.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/5c/be/45/5cbe453e-554f-af9e-b329-971c7373dee1/mzl.ikgmlbcn.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0c/2a/58/0c2a58c0-507f-8e23-b942-8efee3923c8d/mzl.qxvgsrsw.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7e/8a/a9/7e8aa99c-d18a-3aea-ae21-c5f402b5632f/mzl.wduinwsv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/03/4d/97/034d97d5-2336-a4f3-b3ba-9efb01c7c0a3/mzl.wucwzpdh.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1b/19/e9/1b19e9b5-546c-8769-6f34-42d669376c00/mzl.xdtgwsmf.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
