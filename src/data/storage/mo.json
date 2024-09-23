@@ -5182,6 +5182,12 @@
     "history": [
       [
         {
+          "timestamp": 1727100535612,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727021379669,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
@@ -45237,6 +45243,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1727100535612,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "USD 3.99",
+            "Value for Value": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1727021379669,
           "price": 6.99,
