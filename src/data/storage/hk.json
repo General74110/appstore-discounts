@@ -5222,6 +5222,12 @@
     "history": [
       [
         {
+          "timestamp": 1727186891562,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727107849764,
           "price": 0,
           "formattedPrice": "免費",
@@ -47332,6 +47338,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1727186891562,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Premium Features": "HK$ 32.00",
+            "Value for Value": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1727107849764,
           "price": 0,

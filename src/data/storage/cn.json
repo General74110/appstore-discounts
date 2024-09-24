@@ -4920,6 +4920,12 @@
     "history": [
       [
         {
+          "timestamp": 1727186891562,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727107849764,
           "price": 0,
           "formattedPrice": "免费",
@@ -43170,6 +43176,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1727186891562,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        },
         {
           "timestamp": 1727107849764,
           "price": 0,
