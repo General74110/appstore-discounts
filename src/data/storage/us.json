@@ -5510,6 +5510,12 @@
     "history": [
       [
         {
+          "timestamp": 1727234232418,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727151105930,
           "price": 0,
           "formattedPrice": "Free",
@@ -34159,6 +34165,21 @@
     "history": [
       [
         {
+          "timestamp": 1727234232418,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Rin·Len's Mirrorland": "$8.99",
+            "Miku in Museland": "$8.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "cyTus": "$5.99",
+            "Let's GROOVE": "$3.99"
+          }
+        },
+        {
           "timestamp": 1727165599991,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -47383,6 +47404,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1727234232418,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
         {
           "timestamp": 1727151105930,
           "price": 0,
