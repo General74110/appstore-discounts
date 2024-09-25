@@ -7024,6 +7024,14 @@
     "history": [
       [
         {
+          "timestamp": 1727273345391,
+          "price": 5,
+          "formattedPrice": "USD 5.00",
+          "inAppPurchases": {
+            "移除廣告": "USD 1.99"
+          }
+        },
+        {
           "timestamp": 1727194283670,
           "price": 0,
           "formattedPrice": "免費",
