@@ -5114,6 +5114,12 @@
     "history": [
       [
         {
+          "timestamp": 1727359659519,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727280693188,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -6391,6 +6397,12 @@
     "name": "水平仪 HD",
     "history": [
       [
+        {
+          "timestamp": 1727359659519,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727280693188,
           "price": 8,
@@ -41106,6 +41118,12 @@
     "history": [
       [
         {
+          "timestamp": 1727359659519,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727280693188,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -44902,6 +44920,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1727359659519,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        },
         {
           "timestamp": 1727280693188,
           "price": 48,
@@ -54377,6 +54404,12 @@
     "name": "笼中窥梦",
     "history": [
       [
+        {
+          "timestamp": 1727359659519,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727280693188,
           "price": 25,

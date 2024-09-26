@@ -5466,6 +5466,12 @@
     "history": [
       [
         {
+          "timestamp": 1727359659519,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727280693188,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
@@ -6689,6 +6695,12 @@
     "name": "水準管 HD",
     "history": [
       [
+        {
+          "timestamp": 1727359659519,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727280693188,
           "price": 8,
@@ -49258,6 +49270,15 @@
     "history": [
       [
         {
+          "timestamp": 1727359659519,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "HK$ 32.00",
+            "Value for Value": "HK$ 58.00"
+          }
+        },
+        {
           "timestamp": 1727280693188,
           "price": 58,
           "formattedPrice": "HK$ 58.00",
@@ -56962,6 +56983,12 @@
     "name": "籠中窺夢",
     "history": [
       [
+        {
+          "timestamp": 1727359659519,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727280693188,
           "price": 38,

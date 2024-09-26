@@ -5497,6 +5497,12 @@
     "history": [
       [
         {
+          "timestamp": 1727359659519,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727280693188,
           "price": 12.99,
           "formattedPrice": "USD 12.99",
@@ -6720,6 +6726,12 @@
     "name": "水準管 HD",
     "history": [
       [
+        {
+          "timestamp": 1727359659519,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727280693188,
           "price": 0.99,
@@ -48072,6 +48084,15 @@
     "history": [
       [
         {
+          "timestamp": 1727359659519,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "USD 3.99",
+            "Value for Value": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1727280693188,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -55808,6 +55829,12 @@
     "name": "籠中窺夢",
     "history": [
       [
+        {
+          "timestamp": 1727359659519,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727280693188,
           "price": 4.99,
