@@ -8023,6 +8023,12 @@
     "history": [
       [
         {
+          "timestamp": 1727363378473,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727323924493,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -63249,6 +63255,12 @@
     "name": "iSleeper: Sleep Tracker",
     "history": [
       [
+        {
+          "timestamp": 1727363378473,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727323924493,
           "price": 2.99,

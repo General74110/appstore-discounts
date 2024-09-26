@@ -7685,6 +7685,12 @@
     "history": [
       [
         {
+          "timestamp": 1727363378473,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727280693188,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -62404,6 +62410,12 @@
     "name": "iSleeper - 夢話鼾聲記錄與睡眠監測",
     "history": [
       [
+        {
+          "timestamp": 1727363378473,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727280693188,
           "price": 90,
