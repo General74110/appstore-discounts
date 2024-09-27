@@ -5720,6 +5720,12 @@
     "history": [
       [
         {
+          "timestamp": 1727406923424,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727323924493,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -7056,6 +7062,12 @@
     "name": "Level HD.",
     "history": [
       [
+        {
+          "timestamp": 1727406923424,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727323924493,
           "price": 0.99,
@@ -49256,6 +49268,15 @@
     "history": [
       [
         {
+          "timestamp": 1727406923424,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
+        {
           "timestamp": 1727323924493,
           "price": 6.99,
           "formattedPrice": "$6.99",
@@ -57259,6 +57280,12 @@
     "name": "Moncage",
     "history": [
       [
+        {
+          "timestamp": 1727406923424,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727323924493,
           "price": 4.99,
