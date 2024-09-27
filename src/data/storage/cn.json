@@ -33917,6 +33917,14 @@
     "history": [
       [
         {
+          "timestamp": 1727474921264,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "蜡烛人完整版": "¥30.00"
+          }
+        },
+        {
           "timestamp": 1727453459505,
           "price": 30,
           "formattedPrice": "¥30.00",
