@@ -7123,6 +7123,12 @@
     "history": [
       [
         {
+          "timestamp": 1727618873481,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727539804938,
           "price": 0,
           "formattedPrice": "免費",
@@ -47339,6 +47345,12 @@
     "history": [
       [
         {
+          "timestamp": 1727618873481,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727539804938,
           "price": 10,
           "formattedPrice": "$10.00",
@@ -60233,6 +60245,21 @@
     "name": "瓦爾登 - 終極個人管理工具",
     "history": [
       [
+        {
+          "timestamp": 1727618873481,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime Membership": "$320.00",
+            "Yearly Membership": "$120.00",
+            "Quarterly Membership": "$60.00",
+            "Lifetime - Education": "$320.00",
+            "Monthly Membership": "$30.00",
+            "年度会员升级终身会员": "$320.00",
+            "年度会员": "$120.00",
+            "月度会员": "$30.00"
+          }
+        },
         {
           "timestamp": 1727539804938,
           "price": 0,

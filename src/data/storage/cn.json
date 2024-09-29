@@ -6758,6 +6758,12 @@
     "history": [
       [
         {
+          "timestamp": 1727618873481,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727539804938,
           "price": 0,
           "formattedPrice": "免费",
@@ -42311,6 +42317,12 @@
     "history": [
       [
         {
+          "timestamp": 1727618873481,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727539804938,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -58529,6 +58541,19 @@
     "name": "瓦尔登 - 日程管理，一个就够",
     "history": [
       [
+        {
+          "timestamp": 1727618873481,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "终身会员": "¥68.00",
+            "年度会员": "¥28.00",
+            "月度会员": "¥8.00",
+            "季度会员": "¥12.00",
+            "终身会员 - 教育版": "¥78.00",
+            "年度会员升级终身会员": "¥78.00"
+          }
+        },
         {
           "timestamp": 1727539804938,
           "price": 0,
