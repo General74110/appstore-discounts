@@ -52501,6 +52501,15 @@
     "history": [
       [
         {
+          "timestamp": 1727673015475,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Value for Value": "$90.00",
+            "Premium Features": "$120.00"
+          }
+        },
+        {
           "timestamp": 1727626206584,
           "price": 220,
           "formattedPrice": "$220.00",
