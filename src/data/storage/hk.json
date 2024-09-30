@@ -8230,6 +8230,12 @@
     "history": [
       [
         {
+          "timestamp": 1727702369279,
+          "price": 38,
+          "formattedPrice": "HK$ 38.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727626206584,
           "price": 0,
           "formattedPrice": "免費",
