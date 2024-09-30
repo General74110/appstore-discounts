@@ -37621,6 +37621,20 @@
     "history": [
       [
         {
+          "timestamp": 1727687483030,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "花雨合奏秘聞": "HK$ 23.00",
+            "無盡旋舞": "HK$ 28.00",
+            "Let's 音游趴體！": "HK$ 28.00",
+            "暮 色 電 台 ＦＭ１０５": "HK$ 23.00",
+            "新手上路包": "HK$ 23.00",
+            "CHUNITHM CLASS MUSE": "HK$ 28.00",
+            "肥宅快樂包 Vol.19": "HK$ 28.00"
+          }
+        },
+        {
           "timestamp": 1727662601463,
           "price": 0,
           "formattedPrice": "免費",
