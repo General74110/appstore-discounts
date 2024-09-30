@@ -57719,6 +57719,14 @@
     "history": [
       [
         {
+          "timestamp": 1727666435853,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "USD 6.99"
+          }
+        },
+        {
           "timestamp": 1727626206584,
           "price": 0,
           "formattedPrice": "免費",

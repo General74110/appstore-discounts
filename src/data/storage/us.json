@@ -7447,6 +7447,12 @@
     "history": [
       [
         {
+          "timestamp": 1727666435853,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727583083928,
           "price": 0,
           "formattedPrice": "Free",
@@ -47104,6 +47110,12 @@
     "history": [
       [
         {
+          "timestamp": 1727666435853,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727583083928,
           "price": 0.29,
           "formattedPrice": "$0.29",
@@ -58052,6 +58064,14 @@
     "history": [
       [
         {
+          "timestamp": 1727666435853,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "$6.99"
+          }
+        },
+        {
           "timestamp": 1727583083928,
           "price": 0,
           "formattedPrice": "Free",
@@ -60977,6 +60997,21 @@
     "name": "Walden - Calendar/ToDo/Notes",
     "history": [
       [
+        {
+          "timestamp": 1727666435853,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Membership": "$9.99",
+            "Yearly Membership": "$3.99",
+            "Lifetime - Education": "$9.99",
+            "Monthly Membership": "$0.99",
+            "月度会员": "$0.99",
+            "Quarterly Membership": "$1.99",
+            "年度会员升级终身会员": "$9.99",
+            "年度会员": "$3.99"
+          }
+        },
         {
           "timestamp": 1727583083928,
           "price": 0,
