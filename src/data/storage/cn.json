@@ -6157,6 +6157,17 @@
     "history": [
       [
         {
+          "timestamp": 1727705369360,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "¥228.00",
+            "Yearly Cloud Services": "¥48.00",
+            "Monthly Cloud Services": "¥15.00",
+            "Reset Password": "¥8.00"
+          }
+        },
+        {
           "timestamp": 1727626206584,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -21250,6 +21261,23 @@
     "history": [
       [
         {
+          "timestamp": 1727705369360,
+          "price": 98,
+          "formattedPrice": "¥98.00",
+          "inAppPurchases": {
+            "SVIP 连续包月": "¥9.00",
+            "SVIP 连续包年": "¥90.00",
+            "年度 SVIP": "¥90.00",
+            "连续包月 SVIP": "¥9.00",
+            "50次加量包": "¥8.00",
+            "150次加量包": "¥23.00",
+            "250次加量包": "¥36.00",
+            "500次加量包": "¥68.00",
+            "连续包年 SVIP": "¥90.00",
+            "1年SVIP": "¥88.00"
+          }
+        },
+        {
           "timestamp": 1727626206584,
           "price": 98,
           "formattedPrice": "¥98.00",
@@ -26486,6 +26514,12 @@
     "history": [
       [
         {
+          "timestamp": 1727705369360,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727626206584,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -26895,6 +26929,12 @@
     "history": [
       [
         {
+          "timestamp": 1727705369360,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727626206584,
           "price": 6,
           "formattedPrice": "¥6.00",
@@ -27303,6 +27343,12 @@
     "name": "去月球-To the Moon",
     "history": [
       [
+        {
+          "timestamp": 1727705369360,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727626206584,
           "price": 30,
@@ -31887,6 +31933,12 @@
     "name": "艾希 - ICEY",
     "history": [
       [
+        {
+          "timestamp": 1727705369360,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727626206584,
           "price": 18,
@@ -38298,6 +38350,12 @@
     "history": [
       [
         {
+          "timestamp": 1727705369360,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727626206584,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -43598,6 +43656,12 @@
     "name": "恶果之地",
     "history": [
       [
+        {
+          "timestamp": 1727705369360,
+          "price": 12,
+          "formattedPrice": "¥12.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727626206584,
           "price": 18,
@@ -51774,6 +51838,18 @@
     "name": "重生细胞",
     "history": [
       [
+        {
+          "timestamp": 1727705369360,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "解锁《坏种》DLC": "¥8.00",
+            "解锁《致命坠落》DLC": "¥8.00",
+            "解锁《王后与海》DLC": "¥6.00",
+            "解锁《重返恶魔城》DLC": "¥16.00",
+            "解锁《一路向海》DLC捆绑包": "¥18.00"
+          }
+        },
         {
           "timestamp": 1727626206584,
           "price": 30,
@@ -61006,6 +61082,17 @@
     "name": "黄鸭证件照-最美求职考试证照制作神器",
     "history": [
       [
+        {
+          "timestamp": 1727705369360,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "¥15.00",
+            "黄鸭证件照3元": "¥3.00",
+            "黄鸭证件照-周度会员": "¥6.00",
+            "黄鸭证件照1元": "¥1.00"
+          }
+        },
         {
           "timestamp": 1727626206584,
           "price": 2.8,
@@ -74771,6 +74858,12 @@
     "history": [
       [
         {
+          "timestamp": 1727705369360,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727626206584,
           "price": 20,
           "formattedPrice": "¥20.00",
@@ -83108,6 +83201,18 @@
     "name": "旋转音律 Rotaeno",
     "history": [
       [
+        {
+          "timestamp": 1727705369360,
+          "price": 9,
+          "formattedPrice": "¥9.00",
+          "inAppPurchases": {
+            "510 星钻": "¥30.00",
+            "100 星钻": "¥6.00",
+            "1030 星钻": "¥60.00",
+            "300 星钻": "¥18.00",
+            "2080 星钻": "¥118.00"
+          }
+        },
         {
           "timestamp": 1727626206584,
           "price": 18,
