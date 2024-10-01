@@ -6841,6 +6841,17 @@
     "history": [
       [
         {
+          "timestamp": 1727753045982,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$34.99",
+            "Yearly Cloud Services": "$6.99",
+            "Monthly Cloud Services": "$1.99",
+            "Reset Password": "$0.99"
+          }
+        },
+        {
           "timestamp": 1727669534960,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -29771,6 +29782,12 @@
     "history": [
       [
         {
+          "timestamp": 1727753045982,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727669534960,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -34674,6 +34691,12 @@
     "name": "ICEY",
     "history": [
       [
+        {
+          "timestamp": 1727753045982,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727669534960,
           "price": 2.99,
@@ -41572,6 +41595,12 @@
     "history": [
       [
         {
+          "timestamp": 1727753045982,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727669534960,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -48357,6 +48386,12 @@
     "name": "Juicy Realm",
     "history": [
       [
+        {
+          "timestamp": 1727753045982,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727669534960,
           "price": 2.99,
@@ -63982,6 +64017,17 @@
     "name": "黄鸭证件照-最美求职考试证照制作神器",
     "history": [
       [
+        {
+          "timestamp": 1727753045982,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "$1.99",
+            "黄鸭证件照3元": "$0.99",
+            "黄鸭证件照-周度会员": "$0.99",
+            "黄鸭证件照1元": "$0.99"
+          }
+        },
         {
           "timestamp": 1727669534960,
           "price": 0.99,
