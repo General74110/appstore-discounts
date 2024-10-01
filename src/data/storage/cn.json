@@ -81243,6 +81243,12 @@
     "history": [
       [
         {
+          "timestamp": 1727777414391,
+          "price": 3,
+          "formattedPrice": "¥3.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727712699184,
           "price": 6,
           "formattedPrice": "¥6.00",
