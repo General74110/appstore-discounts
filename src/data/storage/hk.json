@@ -4204,6 +4204,19 @@
     "history": [
       [
         {
+          "timestamp": 1727791745348,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "HK$ 52.00",
+            "Cloud Backup Yearly": "HK$ 68.00",
+            "Reset Password": "HK$ 8.00",
+            "iCloud Sync Lifetime": "HK$ 288.00",
+            "Cloud Backup Monthly": "HK$ 12.00",
+            "iCloud Sync Monthly": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1727712699184,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -5990,6 +6003,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1727791745348,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727712699184,
           "price": 98,
@@ -35431,6 +35450,23 @@
     "history": [
       [
         {
+          "timestamp": 1727791745348,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "HK$ 48.00",
+            "Retro Frame Pack": "HK$ 8.00",
+            "Color Frame Pack": "HK$ 8.00",
+            "Stroke Frame Pack": "HK$ 8.00",
+            "Blue Cam Film Pack": "HK$ 8.00",
+            "Design Frame Package": "HK$ 8.00",
+            "Black Frame Pack": "HK$ 8.00",
+            "Stamp Frame Pack": "HK$ 8.00",
+            "Social Frame Package": "HK$ 8.00",
+            "Magazine Frame Package": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1727712699184,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -38307,6 +38343,23 @@
     "name": "MuseDash",
     "history": [
       [
+        {
+          "timestamp": 1727791745348,
+          "price": 3,
+          "formattedPrice": "HK$ 3.00",
+          "inAppPurchases": {
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_3": "HK$ 163.00",
+            "unlockall_0": "HK$ 218.00",
+            "無盡旋舞": "HK$ 28.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "unlockall_29": "HK$ 163.00",
+            "新手上路包": "HK$ 8.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "Miku in Museland": "HK$ 48.00"
+          }
+        },
         {
           "timestamp": 1727770386702,
           "price": 0,
@@ -69015,6 +69068,12 @@
     "name": "照片同步-備份相冊照片視頻",
     "history": [
       [
+        {
+          "timestamp": 1727791745348,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727712699184,
           "price": 8,

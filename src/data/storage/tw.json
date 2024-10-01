@@ -4247,6 +4247,19 @@
     "history": [
       [
         {
+          "timestamp": 1727791745348,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$220.00",
+            "iCloud Sync Monthly": "$30.00",
+            "Cloud Backup Monthly": "$50.00",
+            "Cloud Backup Yearly": "$290.00",
+            "iCloud Sync Lifetime": "$1,190.00",
+            "Reset Password": "$30.00"
+          }
+        },
+        {
           "timestamp": 1727712699184,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -6033,6 +6046,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1727791745348,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727712699184,
           "price": 390,
@@ -35415,6 +35434,23 @@
     "history": [
       [
         {
+          "timestamp": 1727791745348,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$190.00",
+            "Retro Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Blue Cam Film Pack": "$30.00",
+            "Black Cam Film Pack": "$30.00",
+            "Purple Cam Film Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Green Cam Film Pack": "$30.00",
+            "Red Cam Film Pack": "$30.00"
+          }
+        },
+        {
           "timestamp": 1727712699184,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -38291,6 +38327,22 @@
     "name": "MuseDash",
     "history": [
       [
+        {
+          "timestamp": 1727791745348,
+          "price": 20,
+          "formattedPrice": "$20.00",
+          "inAppPurchases": {
+            "unlockall_0": "$930.00",
+            "cyTus": "$190.00",
+            "unlockall_3": "$690.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "unlockall_29": "$690.00",
+            "Miku in Museland": "$290.00",
+            "Rin·Len's Mirrorland": "$190.00",
+            "放棄治療 Vol.3": "$130.00",
+            "MSR特選曲目組合包": "$190.00"
+          }
+        },
         {
           "timestamp": 1727712699184,
           "price": 0,
@@ -67635,6 +67687,12 @@
     "name": "照片同步-備份相冊照片視頻",
     "history": [
       [
+        {
+          "timestamp": 1727791745348,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727712699184,
           "price": 30,
