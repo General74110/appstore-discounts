@@ -74089,6 +74089,16 @@
     "history": [
       [
         {
+          "timestamp": 1727871465122,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro(Lifetime)": "$320.00",
+            "Pro (Yearly)": "$220.00",
+            "Pro (Monthly)": "$50.00"
+          }
+        },
+        {
           "timestamp": 1727799089434,
           "price": 0,
           "formattedPrice": "免費",

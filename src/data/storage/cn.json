@@ -70008,6 +70008,16 @@
     "history": [
       [
         {
+          "timestamp": 1727871465122,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Pro高级版(永久)": "¥68.00",
+            "Pro (年度)": "¥48.00",
+            "Pro (月度 )": "¥8.00"
+          }
+        },
+        {
           "timestamp": 1727799089434,
           "price": 0,
           "formattedPrice": "免费",
