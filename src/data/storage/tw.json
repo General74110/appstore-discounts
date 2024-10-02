@@ -6152,6 +6152,12 @@
     "history": [
       [
         {
+          "timestamp": 1727878140308,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727799089434,
           "price": 0,
           "formattedPrice": "免費",
@@ -14942,6 +14948,12 @@
     "name": "时间轴-全球历史",
     "history": [
       [
+        {
+          "timestamp": 1727878140308,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727799089434,
           "price": 120,
@@ -24521,6 +24533,12 @@
     "name": "Stream Music Player",
     "history": [
       [
+        {
+          "timestamp": 1727878140308,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727799089434,
           "price": 60,
@@ -54473,6 +54491,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1727878140308,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "$120.00",
+            "Value for Value": "$220.00"
+          }
+        },
         {
           "timestamp": 1727799089434,
           "price": 220,
