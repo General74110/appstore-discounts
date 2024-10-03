@@ -39706,6 +39706,20 @@
     "history": [
       [
         {
+          "timestamp": 1727943169759,
+          "price": 3,
+          "formattedPrice": "HK$ 3.00",
+          "inAppPurchases": {
+            "花雨合奏秘聞": "HK$ 23.00",
+            "無盡旋舞": "HK$ 28.00",
+            "Let's 音游趴體！": "HK$ 28.00",
+            "暮 色 電 台 ＦＭ１０５": "HK$ 23.00",
+            "新手上路包": "HK$ 23.00",
+            "CHUNITHM CLASS MUSE": "HK$ 28.00",
+            "肥宅快樂包 Vol.19": "HK$ 28.00"
+          }
+        },
+        {
           "timestamp": 1727925335492,
           "price": 3,
           "formattedPrice": "HK$ 3.00",
@@ -77559,6 +77573,16 @@
     "history": [
       [
         {
+          "timestamp": 1727943169759,
+          "price": 308,
+          "formattedPrice": "HK$ 308.00",
+          "inAppPurchases": {
+            "可下載內容包": "HK$ 79.00",
+            "通行證": "HK$ 15.00",
+            "Street Wolf 裝束": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1727885489207,
           "price": 308,
           "formattedPrice": "HK$ 308.00",
@@ -90197,6 +90221,17 @@
     "history": [
       [
         {
+          "timestamp": 1727943169759,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "HK$ 123.00",
+            "通行證": "HK$ 15.00",
+            "可下載內容包": "HK$ 79.00",
+            "Street Wolf 裝束": "HK$ 18.00"
+          }
+        },
+        {
           "timestamp": 1727885489207,
           "price": 0,
           "formattedPrice": "免費",
@@ -91011,6 +91046,23 @@
     "name": "Resident Evil 4",
     "history": [
       [
+        {
+          "timestamp": 1727943169759,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "逆命殊途": "HK$ 78.00",
+            "遊戲本體": "HK$ 219.00",
+            "額外內容擴充包": "HK$ 118.00",
+            "武器專屬強化券 x5 (A)": "HK$ 58.00",
+            "武器專屬強化券 x3 (D)": "HK$ 41.00",
+            "武器專屬強化券 x3 (C)": "HK$ 41.00",
+            "武器專屬強化券 x3 (A)": "HK$ 41.00",
+            "武器專屬強化券 x1 (A)": "HK$ 17.00",
+            "武器專屬強化券 x3 (B)": "HK$ 41.00",
+            "武器專屬強化券 x1 (D)": "HK$ 17.00"
+          }
+        },
         {
           "timestamp": 1727939377291,
           "price": 0,
