@@ -76931,6 +76931,16 @@
     "history": [
       [
         {
+          "timestamp": 1727946600912,
+          "price": 15.99,
+          "formattedPrice": "$15.99",
+          "inAppPurchases": {
+            "DLC pack": "$9.99",
+            "All Access Voucher": "$1.99",
+            "Street Wolf Outfit": "$2.29"
+          }
+        },
+        {
           "timestamp": 1727943169759,
           "price": 39.99,
           "formattedPrice": "$39.99",

@@ -39706,6 +39706,23 @@
     "history": [
       [
         {
+          "timestamp": 1727946600912,
+          "price": 3,
+          "formattedPrice": "HK$ 3.00",
+          "inAppPurchases": {
+            "無盡旋舞": "HK$ 28.00",
+            "東方暮樂團 -壹-": "HK$ 28.00",
+            "unlockall_3": "HK$ 163.00",
+            "unlockall_0": "HK$ 218.00",
+            "Let's GROOVE": "HK$ 28.00",
+            "暮 色 電 台 FM101": "HK$ 28.00",
+            "cyTus": "HK$ 48.00",
+            "unlockall_29": "HK$ 163.00",
+            "東方暮樂團 -贰-": "HK$ 28.00",
+            "Miku in Museland": "HK$ 48.00"
+          }
+        },
+        {
           "timestamp": 1727943169759,
           "price": 3,
           "formattedPrice": "HK$ 3.00",
@@ -77572,6 +77589,16 @@
     "name": "Resident Evil Village for Mac",
     "history": [
       [
+        {
+          "timestamp": 1727946600912,
+          "price": 123,
+          "formattedPrice": "HK$ 123.00",
+          "inAppPurchases": {
+            "可下載內容包": "HK$ 79.00",
+            "通行證": "HK$ 15.00",
+            "Street Wolf 裝束": "HK$ 18.00"
+          }
+        },
         {
           "timestamp": 1727943169759,
           "price": 308,

@@ -76150,6 +76150,16 @@
     "history": [
       [
         {
+          "timestamp": 1727946600912,
+          "price": 445,
+          "formattedPrice": "$445.00",
+          "inAppPurchases": {
+            "可下載內容包": "$280.00",
+            "通行證": "$60.00",
+            "Street Wolf 裝束": "$69.00"
+          }
+        },
+        {
           "timestamp": 1727943169759,
           "price": 1120,
           "formattedPrice": "$1,120.00",
