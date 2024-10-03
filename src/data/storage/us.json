@@ -6363,6 +6363,12 @@
     "history": [
       [
         {
+          "timestamp": 1727925335492,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1727842304132,
           "price": 0,
           "formattedPrice": "Free",
@@ -15270,6 +15276,12 @@
     "name": "Timeline - World history",
     "history": [
       [
+        {
+          "timestamp": 1727925335492,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727842304132,
           "price": 3.99,
@@ -25115,6 +25127,12 @@
     "name": "Stream Music Player",
     "history": [
       [
+        {
+          "timestamp": 1727925335492,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1727842304132,
           "price": 1.99,
@@ -54890,6 +54908,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1727925335492,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
         {
           "timestamp": 1727842304132,
           "price": 6.99,
