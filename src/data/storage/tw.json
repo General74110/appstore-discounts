@@ -6480,6 +6480,12 @@
     "history": [
       [
         {
+          "timestamp": 1728137268764,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728058318341,
           "price": 0,
           "formattedPrice": "免費",
@@ -25806,6 +25812,12 @@
     "history": [
       [
         {
+          "timestamp": 1728137268764,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728058318341,
           "price": 0,
           "formattedPrice": "免費",
@@ -41013,6 +41025,23 @@
     "name": "MuseDash",
     "history": [
       [
+        {
+          "timestamp": 1728137268764,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "unlockall_3": "$690.00",
+            "unlockall_0": "$930.00",
+            "無盡旋舞": "$190.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "cyTus": "$190.00",
+            "unlockall_29": "$1,120.00",
+            "新手上路包": "$33.00",
+            "Miku in Museland": "$190.00",
+            "放棄治療 Vol.3": "$130.00",
+            "MSR特選曲目組合包": "$190.00"
+          }
+        },
         {
           "timestamp": 1728098021394,
           "price": 20,
@@ -81964,6 +81993,16 @@
     "name": "VidHub -Video Library & Player",
     "history": [
       [
+        {
+          "timestamp": 1728137268764,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生命周期": "$990.00",
+            "年方案": "$150.00",
+            "月方案": "$50.00"
+          }
+        },
         {
           "timestamp": 1728134046218,
           "price": 0,

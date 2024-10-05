@@ -6013,6 +6013,12 @@
     "history": [
       [
         {
+          "timestamp": 1728137268764,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728058318341,
           "price": 0,
           "formattedPrice": "免费",
@@ -22780,6 +22786,12 @@
     "name": "Stream Music Player",
     "history": [
       [
+        {
+          "timestamp": 1728137268764,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728058318341,
           "price": 0,
@@ -40079,6 +40091,23 @@
     "name": "喵斯快跑",
     "history": [
       [
+        {
+          "timestamp": 1728137268764,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "无尽旋舞": "¥40.00",
+            "新手上路包": "¥8.00",
+            "unlockall_3": "¥138.00",
+            "东方暮乐团 -壹-": "¥25.00",
+            "unlockall_0": "¥188.00",
+            "MSR特选曲目组合包": "¥40.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "Let's GROOVE": "¥25.00",
+            "Nyanya Universe!": "¥25.00",
+            "cyTus": "¥40.00"
+          }
+        },
         {
           "timestamp": 1728058318341,
           "price": 3,

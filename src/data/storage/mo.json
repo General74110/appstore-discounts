@@ -6468,6 +6468,12 @@
     "history": [
       [
         {
+          "timestamp": 1728137268764,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728058318341,
           "price": 0,
           "formattedPrice": "免費",
@@ -25391,6 +25397,12 @@
     "history": [
       [
         {
+          "timestamp": 1728137268764,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728058318341,
           "price": 0,
           "formattedPrice": "免費",
@@ -40536,6 +40548,22 @@
     "name": "MuseDash",
     "history": [
       [
+        {
+          "timestamp": 1728137268764,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "unlockall_0": "USD 27.99",
+            "unlockall_29": "USD 33.99",
+            "cyTus": "USD 5.99",
+            "東方暮樂團 -壹-": "USD 3.99",
+            "暮 色 電 台 FM101": "USD 3.99",
+            "Miku in Museland": "USD 8.99",
+            "Let's GROOVE": "USD 3.99",
+            "肥宅快樂包 Vol.3": "USD 3.99",
+            "Rin·Len's Mirrorland": "USD 5.99"
+          }
+        },
         {
           "timestamp": 1728058318341,
           "price": 0.49,
