@@ -81965,6 +81965,16 @@
     "history": [
       [
         {
+          "timestamp": 1728134046218,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生命周期": "$390.00",
+            "月方案": "$50.00",
+            "年方案": "$150.00"
+          }
+        },
+        {
           "timestamp": 1728058318341,
           "price": 0,
           "formattedPrice": "免費",
