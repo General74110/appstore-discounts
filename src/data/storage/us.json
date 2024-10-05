@@ -4633,6 +4633,19 @@
     "history": [
       [
         {
+          "timestamp": 1728098021394,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "Reset Password": "$0.99",
+            "iCloud Sync Lifetime": "$34.99",
+            "Cloud Backup Monthly": "$1.49"
+          }
+        },
+        {
           "timestamp": 1728015109865,
           "price": 0,
           "formattedPrice": "Free",
@@ -68514,6 +68527,17 @@
     "name": "黄鸭证件照-最美求职考试证照制作神器",
     "history": [
       [
+        {
+          "timestamp": 1728098021394,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "$1.99",
+            "黄鸭证件照3元": "$0.99",
+            "黄鸭证件照-周度会员": "$0.99",
+            "黄鸭证件照1元": "$0.99"
+          }
+        },
         {
           "timestamp": 1728015109865,
           "price": 0,
