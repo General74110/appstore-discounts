@@ -6678,6 +6678,12 @@
     "history": [
       [
         {
+          "timestamp": 1728310153326,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728230988537,
           "price": 0,
           "formattedPrice": "免費",
@@ -32847,6 +32853,12 @@
     "history": [
       [
         {
+          "timestamp": 1728310153326,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728230988537,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -38109,6 +38121,12 @@
     "name": "ICEY",
     "history": [
       [
+        {
+          "timestamp": 1728310153326,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728230988537,
           "price": 1.99,
@@ -45239,6 +45257,12 @@
     "name": "手機帝國",
     "history": [
       [
+        {
+          "timestamp": 1728310153326,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728230988537,
           "price": 1.99,
@@ -53402,6 +53426,12 @@
     "history": [
       [
         {
+          "timestamp": 1728310153326,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728230988537,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -58483,6 +58513,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1728310153326,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "USD 3.99",
+            "Value for Value": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1728230988537,
           "price": 6.99,
@@ -65063,6 +65102,14 @@
     "name": "Fileball",
     "history": [
       [
+        {
+          "timestamp": 1728310153326,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "USD 9.99"
+          }
+        },
         {
           "timestamp": 1728230988537,
           "price": 0,

@@ -6207,6 +6207,12 @@
     "history": [
       [
         {
+          "timestamp": 1728310153326,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728230988537,
           "price": 0,
           "formattedPrice": "免费",
@@ -29901,6 +29907,12 @@
     "history": [
       [
         {
+          "timestamp": 1728310153326,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728230988537,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -30372,6 +30384,12 @@
     "history": [
       [
         {
+          "timestamp": 1728310153326,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728230988537,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -30842,6 +30860,12 @@
     "name": "去月球-To the Moon",
     "history": [
       [
+        {
+          "timestamp": 1728310153326,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728230988537,
           "price": 12,
@@ -35985,6 +36009,12 @@
     "name": "艾希 - ICEY",
     "history": [
       [
+        {
+          "timestamp": 1728310153326,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728230988537,
           "price": 12,
@@ -43288,6 +43318,12 @@
     "history": [
       [
         {
+          "timestamp": 1728310153326,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728230988537,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -49315,6 +49351,12 @@
     "history": [
       [
         {
+          "timestamp": 1728310153326,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728230988537,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -54920,6 +54962,15 @@
     "history": [
       [
         {
+          "timestamp": 1728310153326,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        },
+        {
           "timestamp": 1728230988537,
           "price": 48,
           "formattedPrice": "¥48.00",
@@ -58487,6 +58538,18 @@
     "name": "重生细胞",
     "history": [
       [
+        {
+          "timestamp": 1728310153326,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "解锁《坏种》DLC": "¥8.00",
+            "解锁《致命坠落》DLC": "¥8.00",
+            "解锁《王后与海》DLC": "¥6.00",
+            "解锁《重返恶魔城》DLC": "¥16.00",
+            "解锁《一路向海》DLC捆绑包": "¥18.00"
+          }
+        },
         {
           "timestamp": 1728230988537,
           "price": 15,
@@ -63419,6 +63482,14 @@
     "name": "Fileball",
     "history": [
       [
+        {
+          "timestamp": 1728310153326,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Fileball 高级版永久解锁": "¥68.00"
+          }
+        },
         {
           "timestamp": 1728230988537,
           "price": 0,
@@ -84359,6 +84430,12 @@
     "history": [
       [
         {
+          "timestamp": 1728310153326,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728230988537,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -93737,6 +93814,18 @@
     "name": "旋转音律 Rotaeno",
     "history": [
       [
+        {
+          "timestamp": 1728310153326,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "510 星钻": "¥30.00",
+            "100 星钻": "¥6.00",
+            "1030 星钻": "¥60.00",
+            "300 星钻": "¥18.00",
+            "2080 星钻": "¥118.00"
+          }
+        },
         {
           "timestamp": 1728230988537,
           "price": 9,
