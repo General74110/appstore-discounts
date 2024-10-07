@@ -6796,6 +6796,12 @@
     "history": [
       [
         {
+          "timestamp": 1728271091775,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728187914765,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -56562,6 +56568,20 @@
     "name": "Pascal's Wager",
     "history": [
       [
+        {
+          "timestamp": 1728271091775,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {
+            "Deep into the Dark Mist": "$0.99",
+            "The Tides of Oblivion": "$2.99",
+            "Herald outfit for Terrence": "$0.99",
+            "Dance of the Throne": "$1.99",
+            "Sleeping Beauty": "$0.99",
+            "Initiation Rite": "$0.99",
+            "Enigma": "$0.99"
+          }
+        },
         {
           "timestamp": 1728187914765,
           "price": 3.99,

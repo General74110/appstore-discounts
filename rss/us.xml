@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2024-10-04T03:20:40.713Z</updated>
+    <updated>2024-10-07T03:23:53.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,7 +18,7 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-10-04T03:20:40.715Z</updated>
+        <updated>2024-10-07T03:23:53.784Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -26,9 +26,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[RAIN RADAR °- sky weather NOAA]]></title>
-        <id>RAIN RADAR °- sky weather NOAA-1728011720626</id>
+        <id>RAIN RADAR °- sky weather NOAA-1728271091775</id>
         <link href="https://apps.apple.com/us/app/rain-radar-sky-weather-noaa/id488674899?uo=4"/>
-        <updated>2024-10-04T03:15:20.626Z</updated>
+        <updated>2024-10-07T03:18:11.775Z</updated>
         <summary type="html"><![CDATA[Price: $12.99 → Free]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/rain-radar-sky-weather-noaa/id488674899?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/a6/eb/44a6ebc2-0045-22bb-5c81-8cbfcc93bfb0/AppIcon-Full-0-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
