@@ -6901,6 +6901,12 @@
     "history": [
       [
         {
+          "timestamp": 1728357478756,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728274331083,
           "price": 0,
           "formattedPrice": "Free",
@@ -33407,6 +33413,12 @@
     "history": [
       [
         {
+          "timestamp": 1728357478756,
+          "price": 4.99,
+          "formattedPrice": "$4.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728274331083,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -38883,6 +38895,12 @@
     "name": "ICEY",
     "history": [
       [
+        {
+          "timestamp": 1728357478756,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728274331083,
           "price": 1.99,
@@ -46704,6 +46722,12 @@
     "history": [
       [
         {
+          "timestamp": 1728357478756,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728274331083,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -54356,6 +54380,12 @@
     "history": [
       [
         {
+          "timestamp": 1728357478756,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728274331083,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -59549,6 +59579,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1728357478756,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
         {
           "timestamp": 1728274331083,
           "price": 6.99,
@@ -66346,6 +66385,14 @@
     "name": "Fileball",
     "history": [
       [
+        {
+          "timestamp": 1728357478756,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "$9.99"
+          }
+        },
         {
           "timestamp": 1728274331083,
           "price": 0,
