@@ -6452,6 +6452,12 @@
     "history": [
       [
         {
+          "timestamp": 1728482940132,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1728403914309,
           "price": 88,
           "formattedPrice": "¥88.00",
@@ -10304,6 +10310,23 @@
     "name": "Kingdom Rush Frontiers 塔防史诗冒险",
     "history": [
       [
+        {
+          "timestamp": 1728482940132,
+          "price": 15,
+          "formattedPrice": "¥15.00",
+          "inAppPurchases": {
+            "波恩哈特": "¥48.00",
+            "阿什比特": "¥48.00",
+            "大型英雄包 2": "¥88.00",
+            "纽维斯": "¥8.00",
+            "沙塔尔": "¥22.00",
+            "但丁": "¥38.00",
+            "黑棘船长": "¥8.00",
+            "英雄包 1": "¥15.00",
+            "英雄包 3": "¥15.00",
+            "德得尔": "¥8.00"
+          }
+        },
         {
           "timestamp": 1728461561073,
           "price": 15,
