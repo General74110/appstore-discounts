@@ -2905,6 +2905,17 @@
     "history": [
       [
         {
+          "timestamp": 1728569347913,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "¥228.00",
+            "Premium Cloud Service Monthly": "¥7.00",
+            "Premium Cloud Service Yearly": "¥48.00",
+            "Reset Password": "¥8.00"
+          }
+        },
+        {
           "timestamp": 1728490267917,
           "price": 28,
           "formattedPrice": "¥28.00",
@@ -20471,6 +20482,12 @@
     "name": "DayCost",
     "history": [
       [
+        {
+          "timestamp": 1728569347913,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728490267917,
           "price": 22,
@@ -43513,6 +43530,23 @@
     "history": [
       [
         {
+          "timestamp": 1728569347913,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "无尽旋舞": "¥40.00",
+            "新手上路包": "¥8.00",
+            "东方暮乐团 -壹-": "¥25.00",
+            "unlockall_0": "¥188.00",
+            "unlockall_3": "¥138.00",
+            "MSR特选曲目组合包": "¥40.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "Let's GROOVE": "¥25.00",
+            "Nyanya Universe!": "¥25.00",
+            "unlockall_29": "¥228.00"
+          }
+        },
+        {
           "timestamp": 1728490267917,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -52835,6 +52869,12 @@
     "name": "人类跌落梦境",
     "history": [
       [
+        {
+          "timestamp": 1728569347913,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728490267917,
           "price": 12,
@@ -69655,6 +69695,12 @@
     "name": "笼中窥梦",
     "history": [
       [
+        {
+          "timestamp": 1728569347913,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728490267917,
           "price": 18,
