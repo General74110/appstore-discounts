@@ -3776,6 +3776,23 @@
     "history": [
       [
         {
+          "timestamp": 1728655751373,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Reset Password": "¥8.00",
+            "iCloud Sync Yearly": "¥52.00",
+            "iCloud Sync Lifetime": "¥298.00",
+            "iCloud Sync Monthly": "¥6.00",
+            "100 GB monthly": "¥38.00",
+            "10 GB monthly": "¥22.00",
+            "10 GB yearly": "¥198.00",
+            "1 TB monthly": "¥328.00",
+            "200 GB monthly": "¥68.00",
+            "1 TB yearly": "¥3,298.00"
+          }
+        },
+        {
           "timestamp": 1728576659336,
           "price": 0,
           "formattedPrice": "免费",
@@ -6656,6 +6673,12 @@
     "name": "雨雷達-實時天氣圖。 亞洲和中國。°",
     "history": [
       [
+        {
+          "timestamp": 1728655751373,
+          "price": 88,
+          "formattedPrice": "¥88.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728576659336,
           "price": 0,
