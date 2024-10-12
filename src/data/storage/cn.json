@@ -16463,6 +16463,22 @@
     "history": [
       [
         {
+          "timestamp": 1728698911463,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "一盒阳光菁华": "¥15.00",
+            "一瓶阳光菁华": "¥8.00",
+            "一铲子宝石": "¥8.00",
+            "一小盆宝石": "¥38.00",
+            "一大袋宝石": "¥78.00",
+            "一推车宝石": "¥148.00",
+            "Gem Pack - Special Offer 3": "¥148.00",
+            "Gem Pack - Special Offer 1": "¥38.00",
+            "Gem Pack - Special Offer 2": "¥78.00"
+          }
+        },
+        {
           "timestamp": 1728663066327,
           "price": 25,
           "formattedPrice": "¥25.00",
@@ -44857,6 +44873,23 @@
     "history": [
       [
         {
+          "timestamp": 1728698911463,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {
+            "无尽旋舞": "¥40.00",
+            "新手上路包": "¥8.00",
+            "东方暮乐团 -壹-": "¥25.00",
+            "unlockall_0": "¥188.00",
+            "MSR特选曲目组合包": "¥40.00",
+            "暮 色 電 台 FM101": "¥25.00",
+            "unlockall_3": "¥138.00",
+            "Let's GROOVE": "¥25.00",
+            "Nyanya Universe!": "¥25.00",
+            "cyTus": "¥40.00"
+          }
+        },
+        {
           "timestamp": 1728677410203,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -47893,6 +47926,14 @@
     "name": "Card.Note - 多彩卡片笔记",
     "history": [
       [
+        {
+          "timestamp": 1728698911463,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Card.Note Premiun": "¥8.00"
+          }
+        },
         {
           "timestamp": 1728663066327,
           "price": 3,

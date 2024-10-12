@@ -18635,6 +18635,22 @@
     "history": [
       [
         {
+          "timestamp": 1728698911463,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Box of Sunshine Elixir": "$1.99",
+            "Bottle of Sunshine Elixir": "$0.99",
+            "Small pot of Crystal": "$4.99",
+            "Large bag of Crystal": "$10.99",
+            "Shovelful of Crystal": "$0.99",
+            "Cartful of Crystal": "$21.99",
+            "Gem Pack - Special Offer 3": "$21.99",
+            "Gem Pack - Special Offer 1": "$4.99",
+            "Gem Pack - Special Offer 2": "$10.99"
+          }
+        },
+        {
           "timestamp": 1728619901147,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -45454,6 +45470,23 @@
     "history": [
       [
         {
+          "timestamp": 1728698911463,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_0": "$27.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Endless Pirouette": "$5.99",
+            "Valentine Stage": "$3.99",
+            "Miku in Museland": "$8.99",
+            "unlockall_3": "$20.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$8.99"
+          }
+        },
+        {
           "timestamp": 1728688138328,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -51622,6 +51655,14 @@
     "name": "Card.Note - 多彩卡片笔记",
     "history": [
       [
+        {
+          "timestamp": 1728698911463,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Card.Note Premiun": "$0.99"
+          }
+        },
         {
           "timestamp": 1728619901147,
           "price": 0.99,
