@@ -53732,6 +53732,17 @@
     "history": [
       [
         {
+          "timestamp": 1728713527983,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "A stack of gold coins": "$0.99",
+            "A gold coin": "$0.99",
+            "A bundle of gold coins": "$1.99",
+            "A large number of gold coins": "$3.99"
+          }
+        },
+        {
           "timestamp": 1728706283006,
           "price": 1.99,
           "formattedPrice": "$1.99",

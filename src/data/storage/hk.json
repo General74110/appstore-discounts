@@ -53665,6 +53665,17 @@
     "history": [
       [
         {
+          "timestamp": 1728713527983,
+          "price": 18,
+          "formattedPrice": "HK$ 18.00",
+          "inAppPurchases": {
+            "A bundle of gold coins": "HK$ 18.00",
+            "A stack of gold coins": "HK$ 8.00",
+            "A large number of gold coins": "HK$ 32.00",
+            "A gold coin": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1728663066327,
           "price": 18,
           "formattedPrice": "HK$ 18.00",
