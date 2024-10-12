@@ -3913,6 +3913,23 @@
     "history": [
       [
         {
+          "timestamp": 1728702768342,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "Reset Password": "$0.99",
+            "iCloud Sync Yearly": "$7.99",
+            "iCloud Sync Monthly": "$0.99",
+            "iCloud Sync Lifetime": "$39.99",
+            "100 GB monthly": "$5.99",
+            "200 GB monthly": "$9.99",
+            "10 GB yearly": "$29.99",
+            "100 GB yearly": "$59.99",
+            "10 GB monthly": "$2.99",
+            "1 TB monthly": "$47.99"
+          }
+        },
+        {
           "timestamp": 1728619901147,
           "price": 0,
           "formattedPrice": "Free",
@@ -7348,6 +7365,12 @@
     "name": "RAIN RADAR °- sky weather NOAA",
     "history": [
       [
+        {
+          "timestamp": 1728702768342,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728619901147,
           "price": 0,
