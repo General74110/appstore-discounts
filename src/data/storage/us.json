@@ -42542,6 +42542,23 @@
     "history": [
       [
         {
+          "timestamp": 1728789473685,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$5.99",
+            "Color Frame Pack": "$0.99",
+            "Retro Frame Pack": "$0.99",
+            "Blue Cam Film Pack": "$0.99",
+            "Stroke Frame Pack": "$0.99",
+            "Black Cam Film Pack": "$0.99",
+            "Purple Cam Film Pack": "$0.99",
+            "Green Cam Film Pack": "$0.99",
+            "Stamp Frame Pack": "$0.99",
+            "Red Cam Film Pack": "$0.99"
+          }
+        },
+        {
           "timestamp": 1728706283006,
           "price": 1.99,
           "formattedPrice": "$1.99",
@@ -46142,6 +46159,23 @@
     "name": "MuseDash",
     "history": [
       [
+        {
+          "timestamp": 1728789473685,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "Endless Pirouette": "$5.99",
+            "unlockall_29": "$33.99",
+            "Valentine Stage": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Touhou Mugakudan -Ⅱ-": "$3.99",
+            "Rin·Len's Mirrorland": "$8.99"
+          }
+        },
         {
           "timestamp": 1728709755801,
           "price": 2.99,
@@ -64341,6 +64375,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1728789473685,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
         {
           "timestamp": 1728706283006,
           "price": 6.99,
