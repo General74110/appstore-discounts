@@ -3031,6 +3031,17 @@
     "history": [
       [
         {
+          "timestamp": 1728828461096,
+          "price": 28,
+          "formattedPrice": "¥28.00",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "¥228.00",
+            "Premium Cloud Service Monthly": "¥7.00",
+            "Premium Cloud Service Yearly": "¥48.00",
+            "Reset Password": "¥8.00"
+          }
+        },
+        {
           "timestamp": 1728749396038,
           "price": 0,
           "formattedPrice": "免费",
@@ -6867,6 +6878,12 @@
     "name": "雨雷達-實時天氣圖。 亞洲和中國。°",
     "history": [
       [
+        {
+          "timestamp": 1728828461096,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728749396038,
           "price": 88,
@@ -21436,6 +21453,12 @@
     "name": "DayCost",
     "history": [
       [
+        {
+          "timestamp": 1728828461096,
+          "price": 22,
+          "formattedPrice": "¥22.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728749396038,
           "price": 0,
@@ -41943,6 +41966,23 @@
     "history": [
       [
         {
+          "timestamp": 1728828461096,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "310 C.COIN": "¥30.00",
+            "710 C.COIN": "¥68.00",
+            "1030 C.COIN": "¥78.00",
+            "60 C.COIN": "¥6.00",
+            "解锁角色Miku": "¥68.00",
+            "解锁角色ConneR": "¥30.00",
+            "120 C.COIN": "¥12.00",
+            "解锁角色Xenon": "¥30.00",
+            "解锁角色Cherry": "¥30.00",
+            "解锁角色Joe": "¥30.00"
+          }
+        },
+        {
           "timestamp": 1728749396038,
           "price": 0,
           "formattedPrice": "免费",
@@ -60429,6 +60469,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1728828461096,
+          "price": 48,
+          "formattedPrice": "¥48.00",
+          "inAppPurchases": {
+            "Premium Features": "¥28.00",
+            "Value for Value": "¥48.00"
+          }
+        },
         {
           "timestamp": 1728749396038,
           "price": 0,
@@ -85889,6 +85938,15 @@
     "name": "无处遁形：全网公敌",
     "history": [
       [
+        {
+          "timestamp": 1728828461096,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        },
         {
           "timestamp": 1728749396038,
           "price": 18,

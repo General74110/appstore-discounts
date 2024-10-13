@@ -3057,6 +3057,17 @@
     "history": [
       [
         {
+          "timestamp": 1728828461096,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$1,190.00",
+            "Premium Cloud Service Monthly": "$30.00",
+            "Premium Cloud Service Yearly": "$220.00",
+            "Reset Password": "$30.00"
+          }
+        },
+        {
           "timestamp": 1728749396038,
           "price": 0,
           "formattedPrice": "免費",
@@ -7398,6 +7409,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1728828461096,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728749396038,
           "price": 390,
@@ -24142,6 +24159,12 @@
     "name": "DayCost Pro - Personal Finance",
     "history": [
       [
+        {
+          "timestamp": 1728828461096,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1728749396038,
           "price": 0,
@@ -65082,6 +65105,15 @@
     "history": [
       [
         {
+          "timestamp": 1728828461096,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Premium Features": "$120.00",
+            "Value for Value": "$220.00"
+          }
+        },
+        {
           "timestamp": 1728749396038,
           "price": 0,
           "formattedPrice": "免費",
@@ -91460,6 +91492,15 @@
     "name": "無處遁形：全網公敵",
     "history": [
       [
+        {
+          "timestamp": 1728828461096,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "Hello World!": "$30.00",
+            "甜蜜之家": "$30.00"
+          }
+        },
         {
           "timestamp": 1728749396038,
           "price": 90,
