@@ -47517,6 +47517,23 @@
     "history": [
       [
         {
+          "timestamp": 1728958425531,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "unlockall_0": "$27.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Endless Pirouette": "$5.99",
+            "Valentine Stage": "$3.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "MUSE RADIO FM104": "$3.99",
+            "Rin·Len's Mirrorland": "$8.99"
+          }
+        },
+        {
           "timestamp": 1728879130097,
           "price": 2.99,
           "formattedPrice": "$2.99",
