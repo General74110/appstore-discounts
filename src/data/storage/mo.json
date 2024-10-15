@@ -4,6 +4,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
@@ -519,6 +527,25 @@
   "373454750": {
     "name": "隨手記Pro–個人家庭生意記帳",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "连续包年": "USD 39.99",
+            "连续包季": "USD 9.99",
+            "通用型套餐-25元": "USD 3.99",
+            "通用型套餐-159元": "USD 22.99",
+            "通用型套餐-318元": "USD 49.99",
+            "通用型套餐-718元": "USD 99.99",
+            "通用型套餐-468元": "USD 69.99",
+            "通用型套餐-408元": "USD 59.99",
+            "通用型套餐-329元": "USD 49.99",
+            "免广告会员十二个月15元": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -1970,6 +1997,21 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "掃描全能王高級帳戶": "USD 49.99",
+            "一頁傳真": "USD 0.99",
+            "3000 cp + Six chance to Draw": "USD 4.99",
+            "600 cp + One chance to Draw": "USD 0.99",
+            "3000 C-Points": "USD 4.99",
+            "十頁傳真": "USD 8.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -3095,6 +3137,19 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "USD 34.99",
+            "Reset Password": "USD 0.99",
+            "Premium Cloud Service Yearly": "USD 6.99",
+            "Premium Cloud Service Monthly": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -3985,6 +4040,25 @@
   "456637671": {
     "name": "安全監控照片+視頻Pro",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "Reset Password": "USD 0.99",
+            "10 GB monthly": "USD 2.99",
+            "10 GB yearly": "USD 29.99",
+            "1 TB monthly": "USD 47.99",
+            "200 GB monthly": "USD 9.99",
+            "1 TB yearly": "USD 479.99",
+            "200 GB yearly": "USD 99.99",
+            "100 GB monthly": "USD 5.99",
+            "100 GB yearly": "USD 59.99",
+            "iCloud Sync Monthly": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -5327,6 +5401,21 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Cloud Backup Monthly": "USD 1.49",
+            "Cloud Backup Yearly": "USD 8.99",
+            "iCloud Sync Lifetime": "USD 34.99",
+            "iCloud Sync Monthly": "USD 0.99",
+            "iCloud Sync Yearly": "USD 6.99",
+            "Reset Password": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1729001344413,
           "price": 0,
           "formattedPrice": "免費",
@@ -6409,6 +6498,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -6998,6 +7095,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -7585,6 +7690,14 @@
   "488674899": {
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1729001344413,
@@ -8372,6 +8485,19 @@
   "505904421": {
     "name": "AirDisk Pro",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Yearly Cloud Services": "USD 6.99",
+            "Lifetime Cloud Services": "USD 34.99",
+            "Monthly Cloud Services": "USD 1.99",
+            "Reset Password": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -9310,6 +9436,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -9909,6 +10043,16 @@
   "533055404": {
     "name": "夜星 (Night Stars)",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 5,
+          "formattedPrice": "USD 5.00",
+          "inAppPurchases": {
+            "移除廣告": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -10604,6 +10748,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -11149,6 +11301,14 @@
   "578665578": {
     "name": "《Threema》- 安全即時通訊工具",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -11738,6 +11898,25 @@
   "598581396": {
     "name": "Kingdom Rush Frontiers 塔防生存戰爭",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "黑龍灰霸齒": "USD 6.99",
+            "骷心巫龍": "USD 6.99",
+            "英雄包 5": "USD 4.99",
+            "倪浮世": "USD 0.99",
+            "一箱寶石": "USD 9.99",
+            "帝娥翠": "USD 0.99",
+            "特別優惠大聖": "USD 2.99",
+            "但丁": "USD 4.99",
+            "庫紹": "USD 2.99",
+            "崗牢": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -12995,6 +13174,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -13584,6 +13771,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -14099,6 +14294,14 @@
   "703265535": {
     "name": "FocusDots · 專注於當下",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -14700,6 +14903,16 @@
   "728293409": {
     "name": "紀念碑谷",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "被遺忘的海岸": "USD 1.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -15449,6 +15662,23 @@
   "730712409": {
     "name": "ProCam - 專業相機",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "4K Ultra HD 視訊影片": "USD 4.99",
+            "大師系列": "USD 1.99",
+            "城市系列": "USD 0.99",
+            "ZERO: 直接感測器擷取": "USD 3.99",
+            "8K Max 延時攝影": "USD 7.99",
+            "批量相片處理": "USD 0.00",
+            "4K Ultra HD 延時攝影": "USD 2.99",
+            "基本系列": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -16696,6 +16926,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -17283,6 +17521,14 @@
   "768160271": {
     "name": "航旅纵横PRO-官方机票、值机火车票接送机免税酒店",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -17874,6 +18120,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -18427,6 +18681,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -18942,6 +19204,24 @@
   "866450515": {
     "name": "Forest 專注森林 - 讀書專注番茄鐘",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "一盒陽光菁華": "USD 1.99",
+            "一瓶陽光菁華": "USD 0.99",
+            "一小盆寶石": "USD 4.99",
+            "一推車寶石": "USD 21.99",
+            "一鏟子寶石": "USD 0.99",
+            "一大袋寶石": "USD 10.99",
+            "Gem Pack - Special Offer 3": "USD 21.99",
+            "Gem Pack - Special Offer 1": "USD 4.99",
+            "Gem Pack - Special Offer 2": "USD 10.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -20088,6 +20368,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 10,
+          "formattedPrice": "USD 10.00",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 10,
           "formattedPrice": "USD 10.00",
@@ -20603,6 +20891,14 @@
   "886561127": {
     "name": "INSIDE by Playdead",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -21192,6 +21488,19 @@
   "898876435": {
     "name": "Planit巧攝專業版：风光攝影計劃神器",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "3D Model (A Year)": "USD 5.99",
+            "3D Model (A Month)": "USD 0.99",
+            "Location Explorer (Month)": "USD 4.99",
+            "Location Explorer (A Year)": "USD 29.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -22148,6 +22457,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -22735,6 +23052,14 @@
   "904237743": {
     "name": "Things 3",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -23326,6 +23651,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -23915,6 +24248,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 34.99,
+          "formattedPrice": "USD 34.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 34.99,
           "formattedPrice": "USD 34.99",
@@ -24430,6 +24771,14 @@
   "931188326": {
     "name": "DayCost Pro - Personal Finance",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -24971,6 +25320,14 @@
   "932747118": {
     "name": "Shadowrocket",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -25562,6 +25919,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -26097,6 +26462,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -26612,6 +26985,14 @@
   "966489322": {
     "name": "生辰 — 桌面时间小组件",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -27203,6 +27584,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -27792,6 +28181,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -28331,6 +28728,16 @@
   "1054505347": {
     "name": "zFuse - 視頻播放器",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "去除廣告": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -29076,6 +29483,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -29665,6 +30080,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -30192,6 +30615,25 @@
   "1067198688": {
     "name": "彩云天气Pro",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {
+            "連續包月 SVIP": "USD 1.49",
+            "年度 SVIP": "USD 13.49",
+            "SVIP 連續包年": "USD 12.99",
+            "雨季特惠 100 天 SVIP": "USD 2.99",
+            "季度SVIP": "USD 2.99",
+            "1年SVIP": "USD 12.99",
+            "連續包年 SVIP": "USD 12.99",
+            "500次加量包": "USD 9.99",
+            "250次加量包": "USD 4.99",
+            "150次加量包": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -31603,6 +32045,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -32190,6 +32640,21 @@
   "1085114709": {
     "name": "Parallels Desktop",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #4": "USD 99.99",
+            "Parallels Desktop for Mac": "USD 99.99",
+            "訂閱 (1 年)": "USD 99.99",
+            "Parallels Desktop for Mac #2": "USD 99.99",
+            "Parallels Desktop for Mac #5": "USD 99.99",
+            "Parallels Desktop for Mac #3": "USD 99.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -33292,6 +33757,18 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "Patient Education Animations": "USD 19.99",
+            "Advanced Animations": "USD 9.99",
+            "3D Dental Anatomy": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
@@ -34171,6 +34648,20 @@
   "1136220934": {
     "name": "Infuse - 智能視頻播放器",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Infuse Pro - 月方案": "USD 1.99",
+            "Infuse Pro - 年方案": "USD 12.99",
+            "杜比音效": "USD 0.00",
+            "DTS 音效": "USD 0.00",
+            "Infuse Pro - 生命週期": "USD 98.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -35198,6 +35689,25 @@
   "1152396902": {
     "name": "凤凰新闻(专业版)-头条新闻阅读平台",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "私信付费1元": "USD 0.99",
+            "私信付费8元": "USD 0.99",
+            "私信付费6元": "USD 0.99",
+            "私信付费3元": "USD 0.99",
+            "998元": "USD 149.99",
+            "618元": "USD 94.99",
+            "488元": "USD 74.99",
+            "218元": "USD 31.99",
+            "118元": "USD 17.99",
+            "50元": "USD 7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -36592,6 +37102,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -37107,6 +37625,14 @@
   "1159700098": {
     "name": "去月球-To the Moon",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -37726,6 +38252,25 @@
   "1163515895": {
     "name": "鲨鱼记账Pro-3秒钟快速记账",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {
+            "128财富币": "USD 19.99",
+            "88财富币": "USD 12.99",
+            "198财富币": "USD 29.99",
+            "168财富币": "USD 24.99",
+            "1998财富币": "USD 299.99",
+            "1598财富币": "USD 229.99",
+            "898财富币": "USD 129.99",
+            "418财富币": "USD 59.99",
+            "98财富币": "USD 14.99",
+            "998财富币": "USD 149.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -39120,6 +39665,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -39707,6 +40260,18 @@
   "1197275827": {
     "name": "金十数据专业版-为交易而生",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "VIP会员  1年": "USD 599.99",
+            "VIP会员  3个月": "USD 149.99",
+            "VIP会员  1个月": "USD 59.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -40590,6 +41155,16 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "《INSIDE》完整版": "USD 6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0,
           "formattedPrice": "免費",
@@ -41331,6 +41906,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -41920,6 +42503,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -42435,6 +43026,14 @@
   "1261944766": {
     "name": "Alook瀏覽器 - 8倍速",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -43024,6 +43623,14 @@
   "1271620263": {
     "name": "ICEY",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -43637,6 +44244,25 @@
   "1309638846": {
     "name": "Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "Design Frame Package": "USD 0.99",
+            "Social Frame Package": "USD 0.99",
+            "Magazine Frame Package": "USD 0.99",
+            "Black Frame Pack": "USD 0.99",
+            "Geometric Frame Pack": "USD 0.99",
+            "Stamp Frame Pack": "USD 0.99",
+            "Retro Frame Pack": "USD 0.99",
+            "Stroke Frame Pack": "USD 0.99",
+            "Color Frame Pack": "USD 0.99",
+            "Upgrade Deluxe Edition": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -44979,6 +45605,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -45494,6 +46128,14 @@
   "1319191852": {
     "name": "熊猫吃短信 - 垃圾短信过滤",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -46083,6 +46725,25 @@
   "1358237203": {
     "name": "時間膠囊-寄往未來的信",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "纸短情长-纸质信纸尊享版": "USD 5.99",
+            "纸短情长-纸质信纸普通版": "USD 1.99",
+            "时间胶囊-永久去广告": "USD 0.99",
+            "时间胶囊-年度超级会员": "USD 2.99",
+            "纸短情长-纸质信纸升级版": "USD 3.99",
+            "时间胶囊-月度超级会员服务": "USD 0.99",
+            "时间胶囊超级会员": "USD 5.99",
+            "给你的Ta寄一封三行情书": "USD 0.99",
+            "给未来寄一封带照片的信": "USD 0.99",
+            "获取不限字数的信纸": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -47304,6 +47965,24 @@
   "1361473095": {
     "name": "MuseDash",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "unlockall_29": "USD 33.99",
+            "unlockall_0": "USD 27.99",
+            "東方暮樂團 -壹-": "USD 3.99",
+            "cyTus": "USD 5.99",
+            "暮 色 電 台 FM101": "USD 3.99",
+            "Miku in Museland": "USD 8.99",
+            "Let's GROOVE": "USD 3.99",
+            "肥宅快樂包 Vol.3": "USD 3.99",
+            "Rin·Len's Mirrorland": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -48719,6 +49398,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -49306,6 +49993,14 @@
   "1371965583": {
     "name": "The Gardens Between",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -49897,6 +50592,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 5.99,
+          "formattedPrice": "USD 5.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -50484,6 +51187,14 @@
   "1373575045": {
     "name": "The Gardens Between",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -51075,6 +51786,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -51614,6 +52333,19 @@
   "1389752090": {
     "name": "Dead Cells",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "Return to Castlevania": "USD 6.99",
+            "The Bad Seed": "USD 3.99",
+            "Fatal Falls": "USD 3.99",
+            "The Queen and the Sea": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -52570,6 +53302,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -53097,6 +53837,16 @@
   "1400032769": {
     "name": "Card.Note - 多彩卡片笔记",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Card.Note Premiun": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -53800,6 +54550,16 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {
+            "Notes Writer Pro AI Assistant": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -54443,6 +55203,19 @@
   "1436481293": {
     "name": "ISOLAND 3 Dust of the Universe",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "A large number of gold coins": "USD 3.99",
+            "A bundle of gold coins": "USD 1.99",
+            "A stack of gold coins": "USD 0.99",
+            "A gold coin": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -55293,6 +56066,18 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "異象號": "USD 1.99",
+            "邪惡病房": "USD 2.99",
+            "偉大的統治": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -56074,6 +56859,21 @@
   "1439723850": {
     "name": "Countdown! Reminders and Timer",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "永久會員": "USD 3.99",
+            "包年會員": "USD 3.49",
+            "包月會員": "USD 0.49",
+            "桌面透明小組件": "USD 0.00",
+            "Unlock all Tools": "USD 0.99",
+            "解鎖所有動態壁紙": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -57176,6 +57976,17 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Surge Pro": "USD 49.99",
+            "Feature Subscription": "USD 14.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0,
           "formattedPrice": "免費",
@@ -57984,6 +58795,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
@@ -58573,6 +59392,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -59160,6 +59987,16 @@
   "1449020025": {
     "name": "不玩手机-自律习惯养成记",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "不玩手机永久会员": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -59807,6 +60644,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.39,
+          "formattedPrice": "USD 0.39",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.39,
           "formattedPrice": "USD 0.39",
@@ -60340,6 +61185,14 @@
   "1453808408": {
     "name": "Juicy Realm",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -60881,6 +61734,16 @@
   "1459076631": {
     "name": "隐形守护者",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {
+            "解锁剩余九个章节": "USD 3.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -61616,6 +62479,18 @@
   "1464666446": {
     "name": "我的足跡: GPS記錄儀",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "300次高精度海拔": "USD 3.99",
+            "100次高精度海拔查詢": "USD 2.99",
+            "MyTracks 高級版": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -62411,6 +63286,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -62998,6 +63881,16 @@
   "1467880680": {
     "name": "LEDot",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Advanced Features": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -63741,6 +64634,22 @@
   "1476649036": {
     "name": "Pascal's Wager",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "遺忘之潮": "USD 2.99",
+            "追加內容·「深入黑霧」": "USD 0.99",
+            "泰倫斯先驅者套裝": "USD 0.99",
+            "睡美人套裝": "USD 0.99",
+            "成人禮": "USD 0.99",
+            "皇座之舞": "USD 1.99",
+            "秘靈": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -64964,6 +65873,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -65479,6 +66396,14 @@
   "1484181693": {
     "name": "截图超人 - 微商专用的营销助手截图神器",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -66068,6 +66993,17 @@
   "1485101937": {
     "name": "Juice Watch",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "USD 3.99",
+            "Value for Value": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1729001344413,
@@ -67458,6 +68394,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -67975,6 +68919,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 1.99,
           "formattedPrice": "USD 1.99",
@@ -68490,6 +69442,20 @@
   "1522215205": {
     "name": "拒之-骚扰电话批量拦截助手",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "698包野果": "USD 96.99",
+            "98包野果": "USD 14.99",
+            "30包野果": "USD 4.99",
+            "12包野果": "USD 1.99",
+            "6包野果": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -69519,6 +70485,21 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 12,
+          "formattedPrice": "USD 12.00",
+          "inAppPurchases": {
+            "120000 GP": "USD 19.99",
+            "200000 GP": "USD 29.99",
+            "25000 GP": "USD 5.99",
+            "50000 GP": "USD 9.99",
+            "5000 GP": "USD 1.99",
+            "Remove Ad": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 12,
           "formattedPrice": "USD 12.00",
@@ -70523,6 +71504,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -71112,6 +72101,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -71699,6 +72696,19 @@
   "1548711022": {
     "name": "Barbee - Hide Menu Bar Items",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "終身版": "USD 3.99",
+            "免費試用": "USD 0.00",
+            "年付VIP": "USD 2.99",
+            "內測獎勵": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -72655,6 +73665,17 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "PasteNow Free Trial": "USD 0.00",
+            "PasteNow Pro": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0,
           "formattedPrice": "免費",
@@ -73463,6 +74484,16 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "USD 9.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0,
           "formattedPrice": "免費",
@@ -74246,6 +75277,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -74767,6 +75806,16 @@
   "1575588022": {
     "name": "MenubarX - 強大的選單列瀏覽器",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "MenubarX Pro": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -75518,6 +76567,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 9.99,
           "formattedPrice": "USD 9.99",
@@ -76059,6 +77116,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -76574,6 +77639,14 @@
   "1587860402": {
     "name": "籠中窺夢",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -77187,6 +78260,23 @@
   "1595313870": {
     "name": "瓦爾登 - 終極個人管理工具",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Quarterly Membership": "USD 1.99",
+            "Lifetime - Education": "USD 9.99",
+            "年度会员升级终身会员": "USD 9.99",
+            "Yearly Membership": "USD 3.99",
+            "Monthly Membership": "USD 0.99",
+            "年度会员": "USD 3.99",
+            "月度会员": "USD 0.99",
+            "Lifetime Membership": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -78297,6 +79387,16 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Cheat Codes": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -78994,6 +80094,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -79581,6 +80689,19 @@
   "1596406400": {
     "name": "黄鸭证件照-最美求职考试证照制作神器",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "黄鸭证件照永久VIP": "USD 1.99",
+            "黄鸭证件照-周度会员": "USD 0.99",
+            "黄鸭证件照1元": "USD 0.99",
+            "黄鸭证件照3元": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -80484,6 +81605,25 @@
   "1598130789": {
     "name": "Company of Heroes Collection",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {
+            "《Opposing Fronts》火線對決": "USD 0.00",
+            "所有內容": "USD 0.00",
+            "《Tales of Valor》": "USD 0.00",
+            "西班牙語音頻": "USD 0.00",
+            "戰役任務 11-15": "USD 0.00",
+            "俄語音頻": "USD 0.00",
+            "Opposing Fronts - Russian": "USD 0.00",
+            "2 vs 2 獨立戰役地圖": "USD 0.00",
+            "戰役任務 2-5": "USD 0.00",
+            "1 vs 1 獨立戰役地圖": "USD 0.00"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -81878,6 +83018,21 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "6800 炭币": "USD 9.99",
+            "5000 炭币": "USD 6.99",
+            "3000 炭币": "USD 3.99",
+            "1800 炭币": "USD 2.99",
+            "600炭币": "USD 0.99",
+            "100炭币": "USD 0.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -82978,6 +84133,16 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {
+            "Mr. X Nightmare DLC": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 7.99,
           "formattedPrice": "USD 7.99",
@@ -83729,6 +84894,16 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 6.99,
+          "formattedPrice": "USD 6.99",
+          "inAppPurchases": {
+            "1.99美元禮包": "USD 1.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 6.99,
           "formattedPrice": "USD 6.99",
@@ -84464,6 +85639,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -85003,6 +86186,14 @@
   "1620883955": {
     "name": "Little Nightmares",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -85592,6 +86783,14 @@
   "1622341132": {
     "name": "iSleeper - 夢話鼾聲記錄與睡眠監測",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -86189,6 +87388,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -86776,6 +87983,18 @@
   "1630034110": {
     "name": "Bob - 翻译和 OCR 工具",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Bob Free Trial": "USD 0.00",
+            "Bob Pro": "USD 8.99",
+            "Bob Pro Original": "USD 8.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -87659,6 +88878,16 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "APTV Pro": "USD 3.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0,
           "formattedPrice": "免費",
@@ -88408,6 +89637,16 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "Buy Pro Version": "USD 2.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -89053,6 +90292,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 14.99,
+          "formattedPrice": "USD 14.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 14.99,
           "formattedPrice": "USD 14.99",
@@ -89640,6 +90887,14 @@
   "1633366918": {
     "name": "Instant Lines",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -90231,6 +91486,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -90818,6 +92081,18 @@
   "1636719674": {
     "name": "鎖屏啟動 - 萬能桌面小組件&靈動島一鍵快捷指令手機捷徑佈局",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro(Lifetime)": "USD 9.99",
+            "Pro (Monthly)": "USD 1.49",
+            "Pro (Yearly)": "USD 6.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -91709,6 +92984,18 @@
   "1640627334": {
     "name": "Resident Evil Village for Mac",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 15.99,
+          "formattedPrice": "USD 15.99",
+          "inAppPurchases": {
+            "通行證": "USD 1.99",
+            "可下載內容包": "USD 9.99",
+            "Street Wolf 裝束": "USD 2.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -92612,6 +93899,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -93199,6 +94494,17 @@
   "1642682818": {
     "name": "熊猫吃短信2 - 垃圾短信拦截",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "订阅机器学习模型（按年）": "USD 0.99",
+            "订阅机器学习模型（按月）": "USD 0.49"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -94016,6 +95322,17 @@
   "1644917705": {
     "name": "無處遁形：全網公敵",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {
+            "甜蜜之家": "USD 0.99",
+            "Hello World!": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -94853,6 +96170,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 3.99,
+          "formattedPrice": "USD 3.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 3.99,
           "formattedPrice": "USD 3.99",
@@ -95452,6 +96777,18 @@
   "1659622164": {
     "name": "VidHub -Video Library & Player",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "月方案": "USD 1.49",
+            "生命周期": "USD 29.99",
+            "年方案": "USD 4.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -96341,6 +97678,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -96928,6 +98273,14 @@
   "6479307181": {
     "name": "靈體偵測器",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -97583,6 +98936,18 @@
   "6476010032": {
     "name": "拦截猫-垃圾短信电话拦截",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "拦截猫股东会员": "USD 19.99",
+            "连续包年订阅": "USD 6.99",
+            "连续包月订阅": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -98466,6 +99831,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 4.99,
+          "formattedPrice": "USD 4.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 4.99,
           "formattedPrice": "USD 4.99",
@@ -99055,6 +100428,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 2.99,
           "formattedPrice": "USD 2.99",
@@ -99642,6 +101023,21 @@
   "6476963352": {
     "name": "万能生成器",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "季卡": "USD 1.99",
+            "月度卡": "USD 0.99",
+            "周度卡": "USD 0.99",
+            "月卡": "USD 0.99",
+            "周卡": "USD 0.99",
+            "终身会员": "USD 2.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -100744,6 +102140,19 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "季度会员": "USD 7.99",
+            "年度会员": "USD 12.99",
+            "周度会员": "USD 3.99",
+            "月度会员": "USD 6.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -101698,6 +103107,18 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "永久会员": "USD 7.99",
+            "包月会员": "USD 0.99",
+            "包年会员": "USD 7.99"
+          }
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0,
           "formattedPrice": "免費",
@@ -102599,6 +104020,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -103186,6 +104615,14 @@
   "6447023668": {
     "name": "爱韩剧 - 韩剧TV大全",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -103777,6 +105214,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
@@ -104364,6 +105809,14 @@
   "6468845173": {
     "name": "GTA: Vice City – Definitive",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -104955,6 +106408,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 19.99,
+          "formattedPrice": "USD 19.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 19.99,
           "formattedPrice": "USD 19.99",
@@ -105542,6 +107003,16 @@
   "6450262949": {
     "name": "Longshot - Screenshot & OCR",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Pro version lifetime": "USD 7.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -106279,6 +107750,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 29.99,
+          "formattedPrice": "USD 29.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 29.99,
           "formattedPrice": "USD 29.99",
@@ -106866,6 +108345,19 @@
   "6450980545": {
     "name": "Resident Evil Village",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "USD 15.99",
+            "通行證": "USD 1.99",
+            "Street Wolf 裝束": "USD 2.29",
+            "可下載內容包": "USD 9.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -107831,6 +109323,25 @@
   "6462360082": {
     "name": "Resident Evil 4",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "遊戲本體": "USD 29.99",
+            "逆命殊途": "USD 9.99",
+            "額外內容擴充包": "USD 15.00",
+            "武器專屬強化券 x5 (A)": "USD 7.49",
+            "武器專屬強化券 x3 (A)": "USD 5.29",
+            "武器專屬強化券 x3 (D)": "USD 5.29",
+            "武器專屬強化券 x3 (C)": "USD 5.29",
+            "武器專屬強化券 x1 (F)": "USD 2.29",
+            "武器專屬強化券 x1 (E)": "USD 2.29",
+            "武器專屬強化券 x1 (A)": "USD 2.29"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -109293,6 +110804,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -109880,6 +111399,16 @@
   "6499125531": {
     "name": "完蛋！我被美女包围了！",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {
+            "本体1-6章": "USD 5.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -110519,6 +112048,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -111036,6 +112573,14 @@
     "history": [
       [
         {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
+      [
+        {
           "timestamp": 1728922255602,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
@@ -111551,6 +113096,17 @@
   "6449383791": {
     "name": "GIF Recorder-ImproveEfficiency",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {
+            "Monthly": "USD 0.99",
+            "Yearly": "USD 0.99"
+          }
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
@@ -112260,6 +113816,14 @@
   "6449930220": {
     "name": "手表浏览器  Wafari",
     "history": [
+      [
+        {
+          "timestamp": 1729008693861,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        }
+      ],
       [
         {
           "timestamp": 1728922255602,
