@@ -32230,6 +32230,20 @@
     "history": [
       [
         {
+          "timestamp": 1729192105762,
+          "price": 14.99,
+          "formattedPrice": "$14.99",
+          "inAppPurchases": {
+            "SVIP auto-renew annually": "$12.99",
+            "SVIP auto-renew yearly": "$12.99",
+            "Quarterly SVIP": "$2.99",
+            "100 Days SVIP": "$2.99",
+            "1-Year SVIP": "$12.99",
+            "545 Days SVIP": "$12.99",
+            "3-Year SVIP": "$24.99"
+          }
+        },
+        {
           "timestamp": 1729138330883,
           "price": 14.99,
           "formattedPrice": "$14.99",
