@@ -7336,6 +7336,12 @@
     "history": [
       [
         {
+          "timestamp": 1729134950879,
+          "price": 0.99,
+          "formattedPrice": "$0.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1729051940738,
           "price": 9.99,
           "formattedPrice": "$9.99",
@@ -7948,6 +7954,12 @@
     "name": "RAIN RADAR °- sky weather NOAA",
     "history": [
       [
+        {
+          "timestamp": 1729134950879,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1729051940738,
           "price": 0,
@@ -8843,6 +8855,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1729134950879,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$34.99",
+            "Yearly Cloud Services": "$6.99",
+            "Monthly Cloud Services": "$1.99",
+            "Reset Password": "$0.99"
+          }
+        },
         {
           "timestamp": 1729051940738,
           "price": 2.99,
@@ -31232,6 +31255,12 @@
     "name": "Stream Music Player",
     "history": [
       [
+        {
+          "timestamp": 1729134950879,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1729051940738,
           "price": 1.99,
@@ -68226,6 +68255,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1729134950879,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
         {
           "timestamp": 1729051940738,
           "price": 0,
