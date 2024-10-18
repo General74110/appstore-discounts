@@ -5546,6 +5546,19 @@
     "history": [
       [
         {
+          "timestamp": 1729260542146,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "HK$ 52.00",
+            "Cloud Backup Yearly": "HK$ 68.00",
+            "Reset Password": "HK$ 8.00",
+            "iCloud Sync Lifetime": "HK$ 288.00",
+            "Cloud Backup Monthly": "HK$ 12.00",
+            "iCloud Sync Monthly": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1729181518278,
           "price": 0,
           "formattedPrice": "免費",
@@ -7898,6 +7911,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1729260542146,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1729181518278,
           "price": 98,
@@ -64099,6 +64118,12 @@
     "name": "Vostok — 创建美丽快拍页面",
     "history": [
       [
+        {
+          "timestamp": 1729260542146,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1729181518278,
           "price": 2,
