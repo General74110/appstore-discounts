@@ -8227,6 +8227,12 @@
     "history": [
       [
         {
+          "timestamp": 1729519767034,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1729440608437,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
@@ -19910,6 +19916,12 @@
     "name": "时间轴-全球历史",
     "history": [
       [
+        {
+          "timestamp": 1729519767034,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1729440608437,
           "price": 32,
@@ -73486,6 +73498,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1729519767034,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "HK$ 32.00",
+            "Value for Value": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1729440608437,
           "price": 58,

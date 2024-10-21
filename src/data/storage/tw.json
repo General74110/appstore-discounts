@@ -8276,6 +8276,12 @@
     "history": [
       [
         {
+          "timestamp": 1729519767034,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1729440608437,
           "price": 390,
           "formattedPrice": "$390.00",
@@ -19902,6 +19908,12 @@
     "name": "时间轴-全球历史",
     "history": [
       [
+        {
+          "timestamp": 1729519767034,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1729440608437,
           "price": 120,
@@ -72768,6 +72780,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1729519767034,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Features": "$120.00",
+            "Value for Value": "$220.00"
+          }
+        },
         {
           "timestamp": 1729440608437,
           "price": 220,
