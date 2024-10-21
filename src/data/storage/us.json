@@ -79252,6 +79252,19 @@
     "history": [
       [
         {
+          "timestamp": 1729523421596,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime": "$3.99",
+            "Free Trial": "$0.00",
+            "Yearly VIP": "$2.99",
+            "Community VIP": "$0.00",
+            "Education VIP - 2024": "$0.00",
+            "Tester Award": "$0.00"
+          }
+        },
+        {
           "timestamp": 1729483935502,
           "price": 0,
           "formattedPrice": "Free",
