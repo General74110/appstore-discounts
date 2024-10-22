@@ -3403,6 +3403,17 @@
     "history": [
       [
         {
+          "timestamp": 1729606141195,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "HK$ 288.00",
+            "Premium Cloud Service Monthly": "HK$ 8.00",
+            "Premium Cloud Service Yearly": "HK$ 52.00",
+            "Reset Password": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1729527083247,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -8365,6 +8376,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1729606141195,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1729527083247,
           "price": 0,
@@ -20281,6 +20298,12 @@
     "name": "时间轴-全球历史",
     "history": [
       [
+        {
+          "timestamp": 1729606141195,
+          "price": 32,
+          "formattedPrice": "HK$ 32.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1729527083247,
           "price": 0,
@@ -67670,6 +67693,12 @@
     "history": [
       [
         {
+          "timestamp": 1729606141195,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1729527083247,
           "price": 0,
           "formattedPrice": "免費",
@@ -74540,6 +74569,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1729606141195,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Premium Features": "HK$ 32.00",
+            "Value for Value": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1729527083247,
           "price": 0,

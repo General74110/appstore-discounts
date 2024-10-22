@@ -3435,6 +3435,17 @@
     "history": [
       [
         {
+          "timestamp": 1729606141195,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$1,190.00",
+            "Premium Cloud Service Monthly": "$30.00",
+            "Premium Cloud Service Yearly": "$220.00",
+            "Reset Password": "$30.00"
+          }
+        },
+        {
           "timestamp": 1729527083247,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -8380,6 +8391,12 @@
     "name": "雨雷達 ° -實時天氣圖",
     "history": [
       [
+        {
+          "timestamp": 1729606141195,
+          "price": 390,
+          "formattedPrice": "$390.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1729527083247,
           "price": 0,
@@ -20154,6 +20171,12 @@
     "name": "时间轴-全球历史",
     "history": [
       [
+        {
+          "timestamp": 1729606141195,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1729527083247,
           "price": 0,
@@ -52650,6 +52673,23 @@
     "history": [
       [
         {
+          "timestamp": 1729606141195,
+          "price": 100,
+          "formattedPrice": "$100.00",
+          "inAppPurchases": {
+            "unlockall_0": "$930.00",
+            "unlockall_29": "$1,120.00",
+            "cyTus": "$190.00",
+            "東方暮樂團 -壹-": "$130.00",
+            "放棄治療 Vol.3": "$130.00",
+            "MSR特選曲目組合包": "$190.00",
+            "Miku in Museland": "$290.00",
+            "Let's GROOVE": "$130.00",
+            "暮 色 電 台 FM101": "$130.00",
+            "新手上路包": "$33.00"
+          }
+        },
+        {
           "timestamp": 1729527083247,
           "price": 100,
           "formattedPrice": "$100.00",
@@ -67628,6 +67668,12 @@
     "history": [
       [
         {
+          "timestamp": 1729606141195,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1729527083247,
           "price": 0,
           "formattedPrice": "免費",
@@ -73693,6 +73739,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1729606141195,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Premium Features": "$120.00",
+            "Value for Value": "$220.00"
+          }
+        },
         {
           "timestamp": 1729527083247,
           "price": 0,
