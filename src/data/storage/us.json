@@ -3567,6 +3567,17 @@
     "history": [
       [
         {
+          "timestamp": 1729653353210,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Premium Cloud Service Lifetime": "$34.99",
+            "Premium Cloud Service Monthly": "$0.99",
+            "Premium Cloud Service Yearly": "$6.99",
+            "Reset Password": "$0.99"
+          }
+        },
+        {
           "timestamp": 1729570373737,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -8597,6 +8608,12 @@
     "name": "RAIN RADAR °- sky weather NOAA",
     "history": [
       [
+        {
+          "timestamp": 1729653353210,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1729570373737,
           "price": 0,
@@ -20611,6 +20628,12 @@
     "name": "Timeline - World history",
     "history": [
       [
+        {
+          "timestamp": 1729653353210,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1729570373737,
           "price": 0,
@@ -67007,6 +67030,12 @@
     "history": [
       [
         {
+          "timestamp": 1729653353210,
+          "price": 0.39,
+          "formattedPrice": "$0.39",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1729570373737,
           "price": 0,
           "formattedPrice": "Free",
@@ -74017,6 +74046,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1729653353210,
+          "price": 6.99,
+          "formattedPrice": "$6.99",
+          "inAppPurchases": {
+            "Premium Features": "$3.99",
+            "Value for Value": "$24.99"
+          }
+        },
         {
           "timestamp": 1729570373737,
           "price": 0,
