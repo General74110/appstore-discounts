@@ -37506,6 +37506,18 @@
     "history": [
       [
         {
+          "timestamp": 1729789707129,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac #5": "HK$ 748.00",
+            "Parallels Desktop for Mac #4": "HK$ 748.00",
+            "Parallels Desktop for Mac #3": "HK$ 748.00",
+            "Parallels Desktop for Mac": "HK$ 748.00",
+            "Parallels Desktop for Mac #2": "HK$ 748.00"
+          }
+        },
+        {
           "timestamp": 1729786275965,
           "price": 0,
           "formattedPrice": "免費",
