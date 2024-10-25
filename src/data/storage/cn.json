@@ -123650,6 +123650,12 @@
     "history": [
       [
         {
+          "timestamp": 1729887055546,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1729872693436,
           "price": 3,
           "formattedPrice": "¥3.00",
