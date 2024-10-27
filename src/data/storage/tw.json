@@ -4715,6 +4715,23 @@
     "history": [
       [
         {
+          "timestamp": 1730038142210,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "Reset Password": "$30.00",
+            "iCloud Sync Monthly": "$30.00",
+            "iCloud Sync Yearly": "$290.00",
+            "iCloud Sync Lifetime": "$1,290.00",
+            "10 GB monthly": "$90.00",
+            "10 GB yearly": "$990.00",
+            "1 TB monthly": "$1,490.00",
+            "200 GB monthly": "$320.00",
+            "1 TB yearly": "$15,000.00",
+            "200 GB yearly": "$2,990.00"
+          }
+        },
+        {
           "timestamp": 1729959001503,
           "price": 0,
           "formattedPrice": "免費",
@@ -62430,6 +62447,17 @@
     "history": [
       [
         {
+          "timestamp": 1730038142210,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {
+            "The Bad Seed": "$120.00",
+            "Fatal Falls": "$120.00",
+            "The Queen and the Sea": "$120.00",
+            "Return to Castlevania": "$220.00"
+          }
+        },
+        {
           "timestamp": 1729959001503,
           "price": 290,
           "formattedPrice": "$290.00",
@@ -78517,6 +78545,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1730038142210,
+          "price": 220,
+          "formattedPrice": "$220.00",
+          "inAppPurchases": {
+            "Premium Features": "$120.00",
+            "Value for Value": "$220.00"
+          }
+        },
         {
           "timestamp": 1729959001503,
           "price": 0,
@@ -99683,6 +99720,12 @@
     "name": "Little Nightmares",
     "history": [
       [
+        {
+          "timestamp": 1730038142210,
+          "price": 190,
+          "formattedPrice": "$190.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1729959001503,
           "price": 290,
