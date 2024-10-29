@@ -6450,6 +6450,19 @@
     "history": [
       [
         {
+          "timestamp": 1730210983990,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Cloud Backup Yearly": "HK$ 68.00",
+            "iCloud Sync Yearly": "HK$ 52.00",
+            "Reset Password": "HK$ 8.00",
+            "iCloud Sync Lifetime": "HK$ 288.00",
+            "Cloud Backup Monthly": "HK$ 12.00",
+            "iCloud Sync Monthly": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1730131908725,
           "price": 32,
           "formattedPrice": "HK$ 32.00",
@@ -14173,6 +14186,23 @@
     "name": "Kingdom Rush Frontiers 塔防生存戰爭",
     "history": [
       [
+        {
+          "timestamp": 1730210983990,
+          "price": 8,
+          "formattedPrice": "HK$ 8.00",
+          "inAppPurchases": {
+            "骷心巫龍": "HK$ 58.00",
+            "黑龍灰霸齒": "HK$ 58.00",
+            "大型英雄包 2": "HK$ 98.00",
+            "倪浮世": "HK$ 8.00",
+            "剎陀羅": "HK$ 22.00",
+            "但丁": "HK$ 38.00",
+            "帝娥翠": "HK$ 8.00",
+            "庫紹": "HK$ 22.00",
+            "一箱寶石": "HK$ 88.00",
+            "黑棘船長": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1730175149968,
           "price": 18,
@@ -34156,6 +34186,12 @@
     "name": "電影精靈 - 專業視頻編輯和電影製作",
     "history": [
       [
+        {
+          "timestamp": 1730210983990,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730131908725,
           "price": 88,
@@ -81428,6 +81464,15 @@
     "name": "Juice Watch",
     "history": [
       [
+        {
+          "timestamp": 1730210983990,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {
+            "Premium Features": "HK$ 32.00",
+            "Value for Value": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1730131908725,
           "price": 0,
