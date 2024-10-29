@@ -90287,6 +90287,12 @@
     "history": [
       [
         {
+          "timestamp": 1730193029040,
+          "price": 10,
+          "formattedPrice": "$10.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730131908725,
           "price": 30,
           "formattedPrice": "$30.00",

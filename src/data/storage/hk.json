@@ -39457,6 +39457,19 @@
     "history": [
       [
         {
+          "timestamp": 1730193029040,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Parallels Desktop for Mac": "HK$ 748.00",
+            "Parallels Desktop for Mac #4": "HK$ 748.00",
+            "訂閱 (1 年)": "HK$ 748.00",
+            "Parallels Desktop for Mac #2": "HK$ 748.00",
+            "Parallels Desktop for Mac #3": "HK$ 748.00",
+            "Parallels Desktop for Mac #5": "HK$ 748.00"
+          }
+        },
+        {
           "timestamp": 1730189603037,
           "price": 0,
           "formattedPrice": "免費",
@@ -91158,6 +91171,12 @@
     "name": "算法導論.助手",
     "history": [
       [
+        {
+          "timestamp": 1730193029040,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730131908725,
           "price": 8,
