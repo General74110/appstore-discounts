@@ -66790,6 +66790,14 @@
     "history": [
       [
         {
+          "timestamp": 1730301015488,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Card.Note Premiun": "HK$ 8.00"
+          }
+        },
+        {
           "timestamp": 1730218310646,
           "price": 8,
           "formattedPrice": "HK$ 8.00",

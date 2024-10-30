@@ -64613,6 +64613,14 @@
     "history": [
       [
         {
+          "timestamp": 1730301015488,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Card.Note Premiun": "USD 0.99"
+          }
+        },
+        {
           "timestamp": 1730218310646,
           "price": 0.99,
           "formattedPrice": "USD 0.99",
