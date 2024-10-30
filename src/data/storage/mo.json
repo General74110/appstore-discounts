@@ -9244,6 +9244,12 @@
     "history": [
       [
         {
+          "timestamp": 1730297371955,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730218310646,
           "price": 0,
           "formattedPrice": "免費",
@@ -10198,6 +10204,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1730297371955,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Yearly Cloud Services": "USD 6.99",
+            "Lifetime Cloud Services": "USD 34.99",
+            "Monthly Cloud Services": "USD 1.99",
+            "Reset Password": "USD 0.99"
+          }
+        },
         {
           "timestamp": 1730218310646,
           "price": 2.99,
@@ -33921,6 +33938,12 @@
     "history": [
       [
         {
+          "timestamp": 1730297371955,
+          "price": 9.99,
+          "formattedPrice": "USD 9.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730218310646,
           "price": 0,
           "formattedPrice": "免費",
@@ -53072,6 +53095,23 @@
     "name": "Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影",
     "history": [
       [
+        {
+          "timestamp": 1730297371955,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {
+            "Design Frame Package": "USD 0.99",
+            "Social Frame Package": "USD 0.99",
+            "Magazine Frame Package": "USD 0.99",
+            "Black Frame Pack": "USD 0.99",
+            "Geometric Frame Pack": "USD 0.99",
+            "Stamp Frame Pack": "USD 0.99",
+            "Retro Frame Pack": "USD 0.99",
+            "Stroke Frame Pack": "USD 0.99",
+            "Color Frame Pack": "USD 0.99",
+            "Upgrade Deluxe Edition": "USD 5.99"
+          }
+        },
         {
           "timestamp": 1730218310646,
           "price": 2.99,
@@ -72744,6 +72784,12 @@
     "history": [
       [
         {
+          "timestamp": 1730297371955,
+          "price": 0.99,
+          "formattedPrice": "USD 0.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730218310646,
           "price": 0.39,
           "formattedPrice": "USD 0.39",
@@ -78992,6 +79038,12 @@
     "name": "BreatheIn: Calm Breathing",
     "history": [
       [
+        {
+          "timestamp": 1730297371955,
+          "price": 1.99,
+          "formattedPrice": "USD 1.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730218310646,
           "price": 0.59,
