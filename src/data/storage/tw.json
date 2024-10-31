@@ -46364,6 +46364,12 @@
     "history": [
       [
         {
+          "timestamp": 1730383773218,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730304728243,
           "price": 150,
           "formattedPrice": "$150.00",
@@ -53570,6 +53576,12 @@
     "name": "ICEY",
     "history": [
       [
+        {
+          "timestamp": 1730383773218,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730304728243,
           "price": 90,
@@ -64884,6 +64896,12 @@
     "name": "手機帝國",
     "history": [
       [
+        {
+          "timestamp": 1730383773218,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730304728243,
           "price": 90,
@@ -76359,6 +76377,12 @@
     "name": "Juicy Realm",
     "history": [
       [
+        {
+          "timestamp": 1730383773218,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730304728243,
           "price": 90,
@@ -103992,6 +104016,12 @@
     "name": "照片同步-備份相冊照片視頻",
     "history": [
       [
+        {
+          "timestamp": 1730383773218,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730304728243,
           "price": 30,
