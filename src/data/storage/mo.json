@@ -138453,5 +138453,18 @@
         }
       ]
     ]
+  },
+  "6443812780": {
+    "name": "我的水世界求生",
+    "history": [
+      [
+        {
+          "timestamp": 1730355212976,
+          "price": 2.99,
+          "formattedPrice": "USD 2.99",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
   }
 }

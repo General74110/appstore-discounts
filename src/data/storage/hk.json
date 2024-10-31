@@ -141075,5 +141075,18 @@
         }
       ]
     ]
+  },
+  "6443812780": {
+    "name": "我的水世界求生",
+    "history": [
+      [
+        {
+          "timestamp": 1730355212976,
+          "price": 22,
+          "formattedPrice": "HK$ 22.00",
+          "inAppPurchases": {}
+        }
+      ]
+    ]
   }
 }
