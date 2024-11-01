@@ -8873,6 +8873,12 @@
     "history": [
       [
         {
+          "timestamp": 1730431512490,
+          "price": 9.99,
+          "formattedPrice": "$9.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730347983695,
           "price": 0.99,
           "formattedPrice": "$0.99",
@@ -31272,6 +31278,12 @@
     "history": [
       [
         {
+          "timestamp": 1730431512490,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730347983695,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -46234,6 +46246,12 @@
     "history": [
       [
         {
+          "timestamp": 1730431512490,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730347983695,
           "price": 4.99,
           "formattedPrice": "$4.99",
@@ -53660,6 +53678,12 @@
     "name": "ICEY",
     "history": [
       [
+        {
+          "timestamp": 1730431512490,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730347983695,
           "price": 2.99,
@@ -64812,6 +64836,12 @@
     "history": [
       [
         {
+          "timestamp": 1730431512490,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730347983695,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -75469,6 +75499,12 @@
     "name": "Juicy Realm",
     "history": [
       [
+        {
+          "timestamp": 1730431512490,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730347983695,
           "price": 2.99,
@@ -91875,6 +91911,14 @@
     "history": [
       [
         {
+          "timestamp": 1730431512490,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "$6.99"
+          }
+        },
+        {
           "timestamp": 1730347983695,
           "price": 0,
           "formattedPrice": "Free",
@@ -104415,6 +104459,12 @@
     "name": "PhotoSync-Backup your photos",
     "history": [
       [
+        {
+          "timestamp": 1730431512490,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730347983695,
           "price": 0.99,

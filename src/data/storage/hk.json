@@ -31262,6 +31262,12 @@
     "history": [
       [
         {
+          "timestamp": 1730431512490,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730391120751,
           "price": 22,
           "formattedPrice": "HK$ 22.00",
@@ -93624,6 +93630,14 @@
     "name": "Fileball",
     "history": [
       [
+        {
+          "timestamp": 1730431512490,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "HK$ 58.00"
+          }
+        },
         {
           "timestamp": 1730391120751,
           "price": 0,

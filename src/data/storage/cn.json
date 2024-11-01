@@ -27729,6 +27729,12 @@
     "history": [
       [
         {
+          "timestamp": 1730431512490,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730391120751,
           "price": 22,
           "formattedPrice": "¥22.00",
@@ -40526,6 +40532,21 @@
     "name": "凤凰新闻(专业版)-头条新闻阅读平台",
     "history": [
       [
+        {
+          "timestamp": 1730431512490,
+          "price": 8,
+          "formattedPrice": "¥8.00",
+          "inAppPurchases": {
+            "50元": "¥58.00",
+            "118元": "¥128.00",
+            "218元": "¥228.00",
+            "488元": "¥498.00",
+            "私信付费1元": "¥8.00",
+            "私信付费8元": "¥8.00",
+            "私信付费6元": "¥8.00",
+            "私信付费3元": "¥8.00"
+          }
+        },
         {
           "timestamp": 1730391120751,
           "price": 8,
@@ -89504,6 +89525,14 @@
     "name": "Fileball",
     "history": [
       [
+        {
+          "timestamp": 1730431512490,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Fileball 高级版永久解锁": "¥48.00"
+          }
+        },
         {
           "timestamp": 1730391120751,
           "price": 0,
