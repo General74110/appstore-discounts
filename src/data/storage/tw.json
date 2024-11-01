@@ -6687,6 +6687,19 @@
     "history": [
       [
         {
+          "timestamp": 1730470153474,
+          "price": 120,
+          "formattedPrice": "$120.00",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$220.00",
+            "iCloud Sync Monthly": "$30.00",
+            "Cloud Backup Monthly": "$50.00",
+            "Cloud Backup Yearly": "$290.00",
+            "iCloud Sync Lifetime": "$1,190.00",
+            "Reset Password": "$30.00"
+          }
+        },
+        {
           "timestamp": 1730391120751,
           "price": 0,
           "formattedPrice": "免費",
@@ -12415,6 +12428,14 @@
     "name": "夜星 (Night Stars)",
     "history": [
       [
+        {
+          "timestamp": 1730470153474,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "移除廣告": "$60.00"
+          }
+        },
         {
           "timestamp": 1730391120751,
           "price": 150,
@@ -105215,6 +105236,12 @@
     "name": "照片同步-備份相冊照片視頻",
     "history": [
       [
+        {
+          "timestamp": 1730470153474,
+          "price": 30,
+          "formattedPrice": "$30.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730391120751,
           "price": 0,
