@@ -9841,6 +9841,12 @@
     "history": [
       [
         {
+          "timestamp": 1730604015964,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730520702879,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -10925,6 +10931,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1730604015964,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$34.99",
+            "Yearly Cloud Services": "$6.99",
+            "Monthly Cloud Services": "$1.99",
+            "Reset Password": "$0.99"
+          }
+        },
         {
           "timestamp": 1730520702879,
           "price": 0,
@@ -23570,6 +23587,12 @@
     "name": "Timeline - World history",
     "history": [
       [
+        {
+          "timestamp": 1730604015964,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730520702879,
           "price": 3.99,
