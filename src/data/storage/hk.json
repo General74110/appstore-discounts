@@ -9813,6 +9813,12 @@
     "history": [
       [
         {
+          "timestamp": 1730733034248,
+          "price": 98,
+          "formattedPrice": "HK$ 98.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730650247182,
           "price": 0,
           "formattedPrice": "免費",
@@ -68844,6 +68850,17 @@
     "history": [
       [
         {
+          "timestamp": 1730733034248,
+          "price": 68,
+          "formattedPrice": "HK$ 68.00",
+          "inAppPurchases": {
+            "The Bad Seed": "HK$ 32.00",
+            "Fatal Falls": "HK$ 32.00",
+            "Return to Castlevania": "HK$ 58.00",
+            "The Queen and the Sea": "HK$ 32.00"
+          }
+        },
+        {
           "timestamp": 1730650247182,
           "price": 48,
           "formattedPrice": "HK$ 48.00",
@@ -111888,6 +111905,12 @@
     "name": "Little Nightmares",
     "history": [
       [
+        {
+          "timestamp": 1730733034248,
+          "price": 58,
+          "formattedPrice": "HK$ 58.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730650247182,
           "price": 48,

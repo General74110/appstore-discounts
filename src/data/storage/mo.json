@@ -9816,6 +9816,12 @@
     "history": [
       [
         {
+          "timestamp": 1730733034248,
+          "price": 12.99,
+          "formattedPrice": "USD 12.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730650247182,
           "price": 0,
           "formattedPrice": "免費",
@@ -66526,6 +66532,17 @@
     "history": [
       [
         {
+          "timestamp": 1730733034248,
+          "price": 8.99,
+          "formattedPrice": "USD 8.99",
+          "inAppPurchases": {
+            "The Bad Seed": "USD 3.99",
+            "Fatal Falls": "USD 3.99",
+            "The Queen and the Sea": "USD 3.99",
+            "Return to Castlevania": "USD 6.99"
+          }
+        },
+        {
           "timestamp": 1730650247182,
           "price": 5.99,
           "formattedPrice": "USD 5.99",
@@ -109449,6 +109466,12 @@
     "name": "Little Nightmares",
     "history": [
       [
+        {
+          "timestamp": 1730733034248,
+          "price": 7.99,
+          "formattedPrice": "USD 7.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730650247182,
           "price": 5.99,
