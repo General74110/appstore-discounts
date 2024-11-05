@@ -10051,6 +10051,12 @@
     "history": [
       [
         {
+          "timestamp": 1730779919683,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730697048933,
           "price": 0,
           "formattedPrice": "Free",
@@ -61808,6 +61814,22 @@
     "history": [
       [
         {
+          "timestamp": 1730779919683,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Valentine Stage": "$3.99",
+            "Let's GROOVE": "$3.99"
+          }
+        },
+        {
           "timestamp": 1730726380916,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -68453,6 +68475,17 @@
     "name": "Dead Cells",
     "history": [
       [
+        {
+          "timestamp": 1730779919683,
+          "price": 8.99,
+          "formattedPrice": "$8.99",
+          "inAppPurchases": {
+            "The Bad Seed": "$3.99",
+            "Fatal Falls": "$3.99",
+            "The Queen and the Sea": "$3.99",
+            "Return to Castlevania": "$6.99"
+          }
+        },
         {
           "timestamp": 1730697048933,
           "price": 5.99,
@@ -109886,6 +109919,12 @@
     "name": "Little Nightmares",
     "history": [
       [
+        {
+          "timestamp": 1730779919683,
+          "price": 7.99,
+          "formattedPrice": "$7.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730697048933,
           "price": 6.99,
