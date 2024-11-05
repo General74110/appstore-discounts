@@ -119875,6 +119875,16 @@
     "history": [
       [
         {
+          "timestamp": 1730797807406,
+          "price": 39.99,
+          "formattedPrice": "$39.99",
+          "inAppPurchases": {
+            "DLC pack": "$19.99",
+            "All Access Voucher": "$4.99",
+            "Street Wolf Outfit": "$2.99"
+          }
+        },
+        {
           "timestamp": 1730783380303,
           "price": 15.99,
           "formattedPrice": "$15.99",
@@ -139723,6 +139733,17 @@
     "history": [
       [
         {
+          "timestamp": 1730797807406,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$39.99",
+            "All Access Voucher": "$4.99",
+            "DLC pack": "$19.99",
+            "Street Wolf Outfit": "$2.99"
+          }
+        },
+        {
           "timestamp": 1730783380303,
           "price": 0,
           "formattedPrice": "Free",
@@ -140986,6 +141007,23 @@
     "name": "Resident Evil 4",
     "history": [
       [
+        {
+          "timestamp": 1730797807406,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Base Game": "$59.99",
+            "Separate Ways": "$9.99",
+            "Extra DLC Pack": "$19.99",
+            "Weapon Upgrade Ticket x5 (A)": "$9.99",
+            "Weapon Upgrade Ticket x3 (A)": "$6.99",
+            "Attaché Case: 'Gold'": "$0.99",
+            "Weapon Upgrade Ticket x1 (A)": "$2.99",
+            "Charm: 'Green Herb'": "$0.99",
+            "Charm: 'Handgun Ammo'": "$0.99",
+            "Attaché Case: 'Classic'": "$0.99"
+          }
+        },
         {
           "timestamp": 1730794381528,
           "price": 0,
