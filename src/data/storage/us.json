@@ -10295,6 +10295,12 @@
     "history": [
       [
         {
+          "timestamp": 1730952689703,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730869776884,
           "price": 0,
           "formattedPrice": "Free",
@@ -63155,6 +63161,22 @@
     "name": "MuseDash",
     "history": [
       [
+        {
+          "timestamp": 1730952689703,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "cyTus": "$5.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Give Up TREATMENT Vol.3": "$3.99"
+          }
+        },
         {
           "timestamp": 1730945419304,
           "price": 2.99,
