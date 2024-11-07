@@ -23193,6 +23193,22 @@
     "history": [
       [
         {
+          "timestamp": 1730992168668,
+          "price": 25,
+          "formattedPrice": "¥25.00",
+          "inAppPurchases": {
+            "一盒阳光菁华": "¥15.00",
+            "一瓶阳光菁华": "¥8.00",
+            "一铲子宝石": "¥6.00",
+            "一小盆宝石": "¥30.00",
+            "一大袋宝石": "¥67.00",
+            "一推车宝石": "¥133.00",
+            "超值豪华宝石包": "¥91.00",
+            "超值入门宝石包": "¥9.00",
+            "超值进阶宝石包": "¥42.00"
+          }
+        },
+        {
           "timestamp": 1730909497132,
           "price": 25,
           "formattedPrice": "¥25.00",
@@ -45332,6 +45348,12 @@
     "history": [
       [
         {
+          "timestamp": 1730992168668,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730909497132,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -46063,6 +46085,12 @@
     "history": [
       [
         {
+          "timestamp": 1730992168668,
+          "price": 6,
+          "formattedPrice": "¥6.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730909497132,
           "price": 3,
           "formattedPrice": "¥3.00",
@@ -46793,6 +46821,12 @@
     "name": "去月球-To the Moon",
     "history": [
       [
+        {
+          "timestamp": 1730992168668,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730909497132,
           "price": 12,
@@ -54397,6 +54431,12 @@
     "name": "艾希 - ICEY",
     "history": [
       [
+        {
+          "timestamp": 1730992168668,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730909497132,
           "price": 12,
@@ -65504,6 +65544,12 @@
     "history": [
       [
         {
+          "timestamp": 1730992168668,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730909497132,
           "price": 12,
           "formattedPrice": "¥12.00",
@@ -74789,6 +74835,12 @@
     "name": "恶果之地",
     "history": [
       [
+        {
+          "timestamp": 1730992168668,
+          "price": 18,
+          "formattedPrice": "¥18.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730909497132,
           "price": 12,
@@ -126797,6 +126849,12 @@
     "name": "画中世界",
     "history": [
       [
+        {
+          "timestamp": 1730992168668,
+          "price": 20,
+          "formattedPrice": "¥20.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730909497132,
           "price": 15,

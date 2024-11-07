@@ -26027,6 +26027,22 @@
     "history": [
       [
         {
+          "timestamp": 1730992168668,
+          "price": 130,
+          "formattedPrice": "$130.00",
+          "inAppPurchases": {
+            "一盒陽光菁華": "$60.00",
+            "一瓶陽光菁華": "$30.00",
+            "一小盆寶石": "$150.00",
+            "一大袋寶石": "$330.00",
+            "一鏟子寶石": "$30.00",
+            "一推車寶石": "$670.00",
+            "超值豪華寶石包": "$450.00",
+            "超值入門寶石包": "$45.00",
+            "超值進階寶石包": "$210.00"
+          }
+        },
+        {
           "timestamp": 1730909497132,
           "price": 130,
           "formattedPrice": "$130.00",
@@ -50215,6 +50231,12 @@
     "history": [
       [
         {
+          "timestamp": 1730992168668,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730909497132,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -57994,6 +58016,12 @@
     "name": "ICEY",
     "history": [
       [
+        {
+          "timestamp": 1730992168668,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730909497132,
           "price": 60,
@@ -70139,6 +70167,12 @@
     "name": "手機帝國",
     "history": [
       [
+        {
+          "timestamp": 1730992168668,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730909497132,
           "price": 60,
@@ -82569,6 +82603,12 @@
     "name": "Juicy Realm",
     "history": [
       [
+        {
+          "timestamp": 1730992168668,
+          "price": 90,
+          "formattedPrice": "$90.00",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1730909497132,
           "price": 60,
