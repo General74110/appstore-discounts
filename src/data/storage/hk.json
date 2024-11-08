@@ -82940,6 +82940,12 @@
     "history": [
       [
         {
+          "timestamp": 1731053557669,
+          "price": 2,
+          "formattedPrice": "HK$ 2.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1730995882429,
           "price": 8,
           "formattedPrice": "HK$ 8.00",

@@ -81708,6 +81708,12 @@
     "history": [
       [
         {
+          "timestamp": 1731053557669,
+          "price": 0.29,
+          "formattedPrice": "$0.29",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1731042576184,
           "price": 0.99,
           "formattedPrice": "$0.99",
