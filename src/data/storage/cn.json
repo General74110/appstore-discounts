@@ -62783,6 +62783,14 @@
     "history": [
       [
         {
+          "timestamp": 1731312802303,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "蜡烛人完整版": "¥18.00"
+          }
+        },
+        {
           "timestamp": 1731254987823,
           "price": 18,
           "formattedPrice": "¥18.00",
