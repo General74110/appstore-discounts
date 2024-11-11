@@ -7461,6 +7461,19 @@
     "history": [
       [
         {
+          "timestamp": 1731337783913,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$220.00",
+            "iCloud Sync Monthly": "$30.00",
+            "Cloud Backup Monthly": "$50.00",
+            "Cloud Backup Yearly": "$290.00",
+            "iCloud Sync Lifetime": "$1,190.00",
+            "Reset Password": "$30.00"
+          }
+        },
+        {
           "timestamp": 1731254987823,
           "price": 120,
           "formattedPrice": "$120.00",
@@ -103174,6 +103187,14 @@
     "name": "Fileball",
     "history": [
       [
+        {
+          "timestamp": 1731337783913,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "$320.00"
+          }
+        },
         {
           "timestamp": 1731254987823,
           "price": 0,

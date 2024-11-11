@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2024-11-11T10:13:19.138Z</updated>
+    <updated>2024-11-11T15:12:06.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,78 +18,60 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-11-11T10:13:19.140Z</updated>
+        <updated>2024-11-11T15:12:06.509Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[瓦尔登 - 日程管理，一个就够]]></title>
-        <id>瓦尔登 - 日程管理，一个就够-1731319856492</id>
-        <link href="https://apps.apple.com/cn/app/%E7%93%A6%E5%B0%94%E7%99%BB-%E6%97%A5%E7%A8%8B%E7%AE%A1%E7%90%86-%E4%B8%80%E4%B8%AA%E5%B0%B1%E5%A4%9F/id1595313870?uo=4"/>
-        <updated>2024-11-11T10:10:56.492Z</updated>
-        <summary type="html"><![CDATA[年度会员: ¥30.00 → ¥28.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%93%A6%E5%B0%94%E7%99%BB-%E6%97%A5%E7%A8%8B%E7%AE%A1%E7%90%86-%E4%B8%80%E4%B8%AA%E5%B0%B1%E5%A4%9F/id1595313870?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/39/54/e3/3954e353-691e-871c-acac-aa1cc9464aea/AppIcon-0-0-1x_U007emarketing-0-11-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>年度会员：</strong><span>¥30.00</span> → <b>
-  <strong>¥28.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  瓦尔登 是一款专为个人打造的日程管理应用，它包含了待办事项，目标进度管理，以及笔记备忘录功能，得到了众多用户的喜爱，并且获得了 App Store 官方编辑推荐、PriceTag等知名自媒体的推荐，为了获得最佳体验，我们专门为 iPhone、iPad、Mac 做了适配，希望你会喜欢这款简洁却强大的应用。
+        <title type="html"><![CDATA[安全笔记+ Pro]]></title>
+        <id>安全笔记+ Pro-1731337783913</id>
+        <link href="https://apps.apple.com/cn/app/%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE%B0-pro/id460661291?uo=4"/>
+        <updated>2024-11-11T15:09:43.913Z</updated>
+        <summary type="html"><![CDATA[价格: ¥28.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E5%AE%89%E5%85%A8%E7%AC%94%E8%AE%B0-pro/id460661291?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/65/9d/64/659d646d-f675-8ede-e208-5b45bb23e06c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥28.00</span> → <b>
+  <strong>免费</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  介绍安全笔记+：保护您最私密的笔记
 
-我们的用户群体覆盖十分广，无论你是学生还是上班族，都可以用 瓦尔登 来管理自己每天的工作学习日常，安排每天的工作任务，记录自己的目标，写下自己灵光乍现的想法，甚至，使用番茄钟专注当下。
+您有没有遇到过这样的情况？您把手机借给别人，他们却像自己的一样翻阅您的信息。您是否讨厌这样的事情？如果您有一些不希望其他人访问的笔记，那么您需要安全笔记+。通过这款应用，您可以快速、轻松地设置密码保护您最私密或敏感的笔记，以便只有您自己能够找到它们。
 
-瓦尔登 不追求 All in One，只希望把精力都聚焦在核心功能上，始终把体验放在第一位，去除不必要的繁冗。
+主要功能：
 
------------------
-※ 日历模块
-- 拥有精心打造的日历时间轴，可实现任务的自由拖拽调整，
-- 支持月视图显示
-- 支持同步系统自带 日历
+• 使用触摸ID或面容ID支持的生物识别来解锁应用程序
+• 入侵者报告：当入侵者试图访问您的应用程序时，应用程序将捕捉其照片
+• 伪装密码以保护您的真实隐私
+• 对个别文件夹进行密码锁定
+• 提供更高安全性的点图案锁定样式
+• 密码锁定样式（组合锁、键盘锁）
+• 可选择的时尚主题，界面易于使用
+• 按文件夹创建和排序笔记
+• 支持移动、复制和粘贴
+• 支持全方位显示
+• 通过iTunes文件共享或iCloud将笔记从iPhone备份到电脑
+• 通过蓝牙/ Wi-Fi与安装了安全笔记+的两个iOS设备共享笔记
+• 自动保存笔记
+• 搜索您的笔记
+• 发送电子邮件笔记
+• 该应用程序适用于iPhone和iPad，您只需购买一次
 
-※ 任务中心（以 GTD 工作法为核心理念）
-- 普通模式下，显示 今日、明日、已过期 的任务列表，对最近的日程安排有一个大致的了解，聚焦当下的任务
-- 四象限模式，按任务的优先级分块显示，任务的轻重缓急清晰呈现，同时还提供了一套独创的优先级评估系统，帮助用户在安排任务时做到心中有数
-- 重复任务设置，支持基本的重复计划（每日、每周、每月），提前提醒，可设置任务截止日期
-- 检查清单（Checklist）和清单模版，可提供简单的任务处理流程
-- 任务标题日期时间可智能识别提取，效率满满
-- 收集箱（Inbox）功能，这是 GTD 方法论不可或缺的一环，记录一些还未决定何时安但可能会遗漏的任务或者想法
-- 内置 番茄钟，严格按照番茄工作法设计，支持灵动岛和实施活动，支持设置每日番茄目标、休息时间、任务，除此以外，还支持正计时功能，
+凭借三种时尚且易于使用的锁定设计，您可以根据自己的喜好自定义密码样式，而不会影响安全性。现在，您可以选择使用标准的组合锁样式、键盘样式或全新的点图案样式，以便轻松访问那些私人物品。为了增加安全性，为每个单独的文件夹设置独特的密码和锁定设计。
 
-※ 目标进度
-- 支持目标量化，可设置目标分组，并且提供可视化进度展示（进度条&进度环），清晰追踪目标进度
-- 支持目标趋势图，可以回顾自己过去一段时间的目标进度变化
-- 支持目标进度笔记，可以记录实现目标过程中的一些想法和总结
+立即下载安全笔记+，您可以确保只有您可以查看安全笔记+中的内容。
 
-※ 闪念笔记（备忘录）
-- 碎片化笔记、日记记录、灵感记录
-- 支持文本、图片功能，融合自定义标签，支持全文搜索标签搜索
-- 支持笔记补录功能
+访问我们的网站：
+网站：https://sixbytes.io
+推特：https://twitter.com/SixbytesApp
+Facebook：https://www.facebook.com/sixbytesapp
 
-※ 小组件（锁屏小组件）
-- 支持今日待办、本周待办、月视图、四象限，目标趋势、闪念笔记、年进度等，并提供可交互功能，可直接在小组件勾选完成任务或者更新目标进度，效率进一步提升！
-
-※ 统计中心
-提供丰富的汇总数据、直观的图表，方便用户回顾和查询
-
-※ iCloud
-支持自动备份，跨设备数据同步
-
-※ 隐私保护
-支持 FaceID （指纹）解锁应用
-
-※ 其他
-无广告、无后台，免费用户友好，数据完全存储到本地和个人的 iCloud 账户，只有用户本人才可访问数据
-
------------------
-订阅说明
-确认订阅后将向您的 App Store 账户收取费用，订阅以年或月为计费周期。订阅服务将会在当前周期结束时自动续订并收取费用，取消自动续订需要在当前订阅周期结束 24 小时前完成。
---用户条款：http://freelancer-x.com/app-terms/
---隐私策略：http://freelancer-x.com/app-privacy-policy/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/06/7d/21/067d217e-523a-9dc8-bbbf-1e20fed1a9a9/211c2b8c-6d5f-4361-b501-542c5b3be63d_5.5-cn-Calendar.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/8c/35/3d/8c353d97-6a26-8935-adf2-3352324ce199/759fa999-3433-461b-80dd-abbe68ced2ac_5.5-cn-Task.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c0/8a/15/c08a1551-5dd4-2c94-75a9-b5d060f5e706/f162d07f-be6d-4e43-bad2-ded4af144c3c_5.5-cn-Progress.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/53/3a/6b/533a6b58-27ba-b9fd-cff6-b3559a105882/93d650cd-c638-4e9e-b947-483653cd6b60_5.5-cn-Quadrant.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/76/72/4c/76724cf3-6f03-9b6c-3eb2-1de406d57d0f/8c8ca5c2-ef09-4f56-beab-203fbb70ae28_5.5-cn-Note.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c9/a5/81/c9a58149-1c17-285d-8b29-5d3ba618cd80/677896da-7ab1-42ed-bf7c-2e0831417b03_5.5-cn-Pomo.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ff/c4/5b/ffc45b6e-f257-22a6-dc93-132173efaa02/730c92c0-feac-4926-b49f-ad5a7359ea17_5.5-cn-Statistic.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/bb/e1/16/bbe1168b-2d01-1774-aa03-1a8b3a4a0cdc/d481083e-e31b-4e7d-8a83-e67cb595e15b_5.5-cn-Widget.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3d/96/92/3d969204-df6c-2282-92c3-3782d2d56d01/0c8c44c8-ff09-4614-b502-8253c802bc7c_12.9-cn-calendar.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3d/0f/c3/3d0fc301-b20a-97fe-06e4-aeb1513a56d8/98d7ed83-d79b-4af9-81b2-dc9496897a8c_12.9-cn-tasks.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/1c/01/1b/1c011ba6-b88a-57a9-7cf2-1534f97e160f/fc1c6ca2-37be-4bc9-80fc-1cfa6b407b78_12.9-cn-progress.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e4/4e/ae/e44eae6f-932f-fbb3-ada4-22a9ccfb1596/ed8c9439-8aad-45f2-b83a-b0a20e902d3c_12.9-cn-note.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/85/3e/e1/853ee1e6-c19a-ff9a-e327-dd42e903ef18/0f1e6a82-045d-4f63-97be-a4a999c9a15a_12.9-cn-pomo.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f3/77/7d/f3777de4-c648-0530-6a89-d57907185574/d8650961-b539-4bc3-82cc-7651b5d2a181_12.9-cn-statistic.jpg/552x414bb.jpg" />]]></content>
+请阅读我们的服务条款和隐私政策的更多信息：
+服务条款：https://sixbytes.io/assets/terms-of-service.pdf
+隐私政策：https://sixbytes.io/assets/privacy-policy.pdf
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/9b/ec/329bec07-06b0-616d-a0ef-469100d60caf/48ef49cf-d737-45c7-800a-40d960458f41_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/df/f4/32dff459-3fd7-d49e-8ca1-e5c65737d4c0/7a2f8d74-5471-4f4b-a547-b00f01d4dbe6_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/61/19/d4/6119d4ec-a67d-d31d-0432-31448f74bde8/d6f23d4c-bdc4-488d-9412-c0def307671b_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/c7/4e/7cc74ea0-c474-fd63-87f5-13d4b698e21f/f9d87e43-32ba-46ed-8509-cc5948831914_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8f/56/11/8f56118b-c480-f65f-8bd5-faa27992306f/daafb7d9-15bb-4511-a6fc-643c7cb3f247_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/20/64/6c/20646c3f-2562-4870-38aa-2d09a2ccbfd6/7506752e-c878-478b-a21e-cc98d15a9fd5_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/96/9e/5b/969e5b5e-6a53-1a89-27d2-63ec91584d4a/9445e5b4-e396-4d04-9335-2a7ee164253e_7.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/21/c5/fc/21c5fc25-ebee-5bb4-f315-595d5c237148/e9e762d2-3f5d-4ef3-a7ab-33124ec0623d_1.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/97/68/1f/97681fed-10a5-5708-f2e8-f28e8f69b1c7/b199c8f7-ac75-47b4-b15c-031d8e4bbcce_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/f8/b6/9ef8b68a-1f63-bce6-0b66-4ed1e601dca8/ee0a1e60-9a81-4ea8-a713-72f9236fea62_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3c/46/3d/3c463d0c-7832-84e3-b633-b1bebbe1fda3/c142eebe-bb19-4fa7-82ec-08a39105662f_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e0/e3/a4/e0e3a471-7eb7-d520-d9cf-53806cfc3b34/5bd71368-68c5-4cd2-ad48-6817f8275746_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/40/ee/67/40ee672e-6051-6ed0-cd1d-f36f5dd7fbdc/bdc2003c-2e32-4926-8587-6e282cea9254_6.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/55/c7/7a/55c77a62-b27b-707c-e837-65f8ec28aad5/59ca110a-c0fa-4dc7-b261-efcad496eba6_7.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
