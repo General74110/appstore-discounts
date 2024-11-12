@@ -133567,6 +133567,16 @@
     "history": [
       [
         {
+          "timestamp": 1731402596164,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "生命周期": "$390.00",
+            "月方案": "$50.00",
+            "年方案": "$150.00"
+          }
+        },
+        {
           "timestamp": 1731341474566,
           "price": 0,
           "formattedPrice": "免費",
