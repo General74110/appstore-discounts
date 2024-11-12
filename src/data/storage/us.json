@@ -7625,6 +7625,19 @@
     "history": [
       [
         {
+          "timestamp": 1731384696127,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Monthly": "$1.49",
+            "iCloud Sync Lifetime": "$34.99"
+          }
+        },
+        {
           "timestamp": 1731301830247,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -66567,6 +66580,22 @@
     "history": [
       [
         {
+          "timestamp": 1731384696127,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "cyTus": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Give Up TREATMENT Vol.3": "$3.99"
+          }
+        },
+        {
           "timestamp": 1731319856492,
           "price": 2.99,
           "formattedPrice": "$2.99",
@@ -103504,6 +103533,14 @@
     "name": "Fileball",
     "history": [
       [
+        {
+          "timestamp": 1731384696127,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Fileball Pro Lifetime": "$9.99"
+          }
+        },
         {
           "timestamp": 1731301830247,
           "price": 0,
