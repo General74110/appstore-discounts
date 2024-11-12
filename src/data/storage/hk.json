@@ -10666,6 +10666,12 @@
     "history": [
       [
         {
+          "timestamp": 1731424178382,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1731341474566,
           "price": 98,
           "formattedPrice": "HK$ 98.00",
@@ -11754,6 +11760,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1731424178382,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "HK$ 288.00",
+            "Yearly Cloud Services": "HK$ 52.00",
+            "Monthly Cloud Services": "HK$ 18.00",
+            "Reset Password": "HK$ 8.00"
+          }
+        },
         {
           "timestamp": 1731341474566,
           "price": 22,
