@@ -10938,6 +10938,12 @@
     "history": [
       [
         {
+          "timestamp": 1731471134961,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1731388179669,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -12126,6 +12132,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1731471134961,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$34.99",
+            "Yearly Cloud Services": "$6.99",
+            "Monthly Cloud Services": "$1.99",
+            "Reset Password": "$0.99"
+          }
+        },
         {
           "timestamp": 1731388179669,
           "price": 2.99,
@@ -67230,6 +67247,22 @@
     "name": "MuseDash",
     "history": [
       [
+        {
+          "timestamp": 1731471134961,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "unlockall_0": "$27.99",
+            "Touhou Mugakudan -Ⅰ-": "$3.99",
+            "Muse Radio FM101": "$3.99",
+            "unlockall_29": "$33.99",
+            "Miku in Museland": "$8.99",
+            "Rin·Len's Mirrorland": "$5.99",
+            "cyTus": "$5.99",
+            "Let's GROOVE": "$3.99",
+            "Give Up TREATMENT Vol.3": "$3.99"
+          }
+        },
         {
           "timestamp": 1731449326132,
           "price": 2.99,
