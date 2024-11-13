@@ -38223,6 +38223,12 @@
     "history": [
       [
         {
+          "timestamp": 1731510579274,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1731427894663,
           "price": 15,
           "formattedPrice": "¥15.00",
@@ -71208,6 +71214,14 @@
     "name": "Card.Note - 多彩卡片笔记",
     "history": [
       [
+        {
+          "timestamp": 1731510579274,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "Card.Note Premiun": "¥9.90"
+          }
+        },
         {
           "timestamp": 1731427894663,
           "price": 0,
@@ -146204,6 +146218,14 @@
     "name": "完蛋！我被美女包围了！",
     "history": [
       [
+        {
+          "timestamp": 1731510579274,
+          "price": 1,
+          "formattedPrice": "¥1.00",
+          "inAppPurchases": {
+            "本体1-6章": "¥41.00"
+          }
+        },
         {
           "timestamp": 1731427894663,
           "price": 1,
