@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2024-11-14T15:12:22.667Z</updated>
+    <updated>2024-11-14T20:16:30.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,121 +18,49 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-11-14T15:12:22.669Z</updated>
+        <updated>2024-11-14T20:16:30.224Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[人类跌落梦境]]></title>
-        <id>人类跌落梦境-1731596998881</id>
-        <link href="https://apps.apple.com/cn/app/%E4%BA%BA%E7%B1%BB%E8%B7%8C%E8%90%BD%E6%A2%A6%E5%A2%83/id1458460469?uo=4"/>
-        <updated>2024-11-14T15:09:58.881Z</updated>
-        <summary type="html"><![CDATA[价格: ¥18.00 → ¥12.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E4%BA%BA%E7%B1%BB%E8%B7%8C%E8%90%BD%E6%A2%A6%E5%A2%83/id1458460469?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/04/b1/8c/04b18c39-d47f-db6a-e505-9d726e4b2c03/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[梁的挠度]]></title>
+        <id>梁的挠度-1731615051414</id>
+        <link href="https://apps.apple.com/cn/app/%E6%A2%81%E7%9A%84%E6%8C%A0%E5%BA%A6/id670400597?uo=4"/>
+        <updated>2024-11-14T20:10:51.414Z</updated>
+        <summary type="html"><![CDATA[价格: ¥98.00 → ¥88.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%A2%81%E7%9A%84%E6%8C%A0%E5%BA%A6/id670400597?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/c7/15/d2/c715d257-4653-cfcb-dfe3-699308178e5e/AppIcons-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥18.00</span> → <b>
-  <strong>¥12.00</strong>
+  优惠信息（价格：<span>¥98.00</span> → <b>
+  <strong>¥88.00</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  人类！我是Bob，来自《人类跌落梦境（Human: Fall Flat）》里的一名“没有骨气”的软体怪。
+  梁的挠度是一个功能强大且多功能的计算器，适用于梁、二维桁架和二维框架。界面简洁直观，图形输出采用最先进技术。除了反力、剪切、弯矩和挠度结果外，梁的挠度还能计算横截面和梁沿线的内部剪切和弯曲应力。
 
-《人类跌落梦境（Human: Fall Flat）》有着多样的物理交互规则，鬼畜是你的奥义，你甚至可以躺在地上全身电臀抖动，与自己的队友们手拉手闯关，享受被队友坑害，推下悬崖，或是被当做炮弹发射的整个过程。游戏依然是一次购买，没有其他收费服务。更重要的是，沙雕的并不只有Bob一个，多达八人的TapTap好友一起陪你，还可以随时随地邀请他们一起降智，在联机中互相葬送各自的友谊。
+二维框架和桁架编辑器
 
-在手机上玩玩家自制的内容？Bob不止一种面孔，既是火影忍者，还要兼职外卖，曾经西装革履，现在专职海盗。手机上会不断更新PC创意工坊中的优秀内容，让你和你的朋友们有更多搞怪故事发生！
+二维编辑器与梁编辑器无缝集成。绘制任意框架和桁架结构，并使用与梁相同的简单界面应用载荷和约束。您可以直接在二维编辑器中可视化结果，或选择一个梁以获取更多见解。
 
--沙雕玩法，鬼畜新世界，物理碰撞出的沙雕结果，远在你想象之外。
--优化了动作操作，低上手门槛使你做出许多触手怪才能做出的动作。
--八人联机的规模让智商呈8倍降落，根本挡不住，TapTap好友互关语音--邀请让友谊联系起来更方便。
--不断更新&移植的玩家自制沙雕内容。
--游戏界面现在更简洁好看了，只为衬托你的沙雕之旅。
----------------------
-在游戏过程中需要帮助，或遇到问题，都可以加入官方群联系管理员，管理员会与大家一对一沟通，帮忙解决
-群号：1035258482
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/88/a6/64/88a664cb-6a53-49bf-dcc4-854f8cc52c04/1aa739ac-7a4d-4f2c-8a80-e7b28500912a_6.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/cf/c3/f9/cfc3f907-efee-32bf-280c-5da3e885c407/91c63d75-218c-4d3c-bca5-ab5c204efab5_1.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/2e/9a/712e9a3b-693d-19af-1220-e46dacc9e103/e7021511-b56b-4ac6-880d-8ac25e5b9ef0_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7c/3e/7d/7c3e7de8-528b-d1fb-d0de-f74f0d6f6bb0/81cc56b3-9fce-4972-9f7d-94c697c10094_3.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/12/b3/9f/12b39f6d-bd5e-beeb-f7e2-f248afc95789/bc3785ea-50a4-4590-9afc-5262e9d40f5a_2.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8b/2a/a1/8b2aa1fe-5711-bfff-224f-d2f441db8770/4bccc383-5aed-4e82-9c43-44c984b30bd2_5.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/a9/67/ed/a967ed1b-4e26-b4ce-17ce-a0dfe863a755/58f2d159-2137-4a53-b6f0-3952a034fce1_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/e7/56/01/e75601ed-0e72-6f28-c09c-2181d3904b2d/d993523c-0ab2-4a32-928a-10bb5fcccdfc_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ba/54/1f/ba541f88-851d-4090-9b06-4db8a580fef8/f8a9e289-cf4b-4bbf-9bfb-32c4ffac114c_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/92/ee/d5/92eed5d8-b8e6-e8df-cbb0-e2dd86d024cf/5b371241-3158-4c9c-9fb1-48d4f34f8bcf_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/0e/f9/b90ef9f4-4d0d-a3da-4cfd-aebfce89cc1c/4a4d8185-8b65-447f-89c4-c845068bb10e_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/79/be/6e79bea4-19ce-8452-0f13-f8594254575d/76628bfd-4a91-4e80-b5f1-935bbfac11a2_5.png/552x414bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别]]></title>
-        <id>扫描全能王 - 官方出品1元畅用版，扫描PDF文件，文字识别-1731596998881</id>
-        <link href="https://apps.apple.com/cn/app/%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B-%E5%AE%98%E6%96%B9%E5%87%BA%E5%93%811%E5%85%83%E7%95%85%E7%94%A8%E7%89%88-%E6%89%AB%E6%8F%8Fpdf%E6%96%87%E4%BB%B6-%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB/id388624839?uo=4"/>
-        <updated>2024-11-14T15:09:58.881Z</updated>
-        <summary type="html"><![CDATA[扫描全能王高级帐户: ¥343.00 → ¥328.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%AB%E6%8F%8F%E5%85%A8%E8%83%BD%E7%8E%8B-%E5%AE%98%E6%96%B9%E5%87%BA%E5%93%811%E5%85%83%E7%95%85%E7%94%A8%E7%89%88-%E6%89%AB%E6%8F%8Fpdf%E6%96%87%E4%BB%B6-%E6%96%87%E5%AD%97%E8%AF%86%E5%88%AB/id388624839?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f2/30/54/f23054ae-6093-a279-c28f-0e87c7b3d711/AppIconPlus-0-1x_U007emarketing-0-5-0-0-sRGB-85-220-0.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>扫描全能王高级帐户：</strong><span>¥343.00</span> → <b>
-  <strong>¥328.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  扫描全能王是一款集文件扫描、图片文字提取识别、PDF 内容编辑、PDF 分割合并、PDF 转 Word、电子签名等功能于一体的智能扫描软件。自动扫描，生成高清扫描件，支持JPEG、PDF 等多格式保存，还能将扫描件一键转换为 Word/ Excel/ PPT 等多种格式文档，通过手机、平板电脑、电脑等多设备同步查看。
+内部应力
 
------功能亮点-----
-【手机扫描仪】
-手机拍纸质文档，智能去除杂乱背景，生成高清JPEG、PDF文件。默认自动扫描，对准纸质文档自动拍照，解放双手。
-支持多种图像优化模式，可手动调节图像参数，将纸质文件快速转为清晰的扫描件。
+获取内部弯曲和剪切应力图，除了剪切、弯矩和挠度图。可以沿着梁的长度以及横截面的垂直轴线可视化内部应力。
 
-【图片转文字利器】
-智能 OCR 识别文字，即使搜索对象是图片，也能输入关键词轻松定位，高亮显示。
-支持识别中、英、日、韩、葡、法等 41 种语言，还能一键复制、编辑图片上的文字，支持导出为 Word/Text/TXT 格式。
+横截面编辑器
 
-【个人文档管家】
-支持一键导入 PDF、图片、表格等多类型电子文档；标签归类，多文件夹保存，一站式管理保存工作、学习、生活中各类资料。
-手机、平板、电脑等多设备端，随时同步查看管理文档。
+编辑内置的横截面。惯性矩和面积值会自动计算并应用到其余的梁计算中。
 
-【PDF 编辑修改】
-自由组合 PDF 文档，对多个文件进行页面删除、顺序调整、插入支持、页面合并等操作。
-支持一键涂抹、添加批注，轻松编辑文档；高级账户还能设置智能水印铺满，一键生成电子签名等功能，确保文档安全。
+更多功能
 
-【PDF格式转换】
-PDF、Word、Excel、PPT 和图像文档之间格式互相转换，一键分享或下载到本地；
-格式转换后可保持文本、图像等文档的原始布局，实现版面还原。
+• 内置数据库包含更多数据供您参考和方便使用。
+• 可选应用梁自重
+• 无限设计文件
+• 快速启动模板
 
+联系我们
 
-
-----他们都在用扫描全能王做什么----
-● 职场人士：随时扫描手边合同、公司证件、开会 PPT 等，一键保存或分享PDF，随时查找翻阅，非常给力的办公软件
-● 学生：课堂扫描笔记、白板、PPT，复习找资料快速又方便；线上提交纸质材料、个人证件扫描件，高清又专业
-● 老师：扫描课堂白板内容、学生考卷错题整理，发给家长同步教学进度，老师用心家长安心
-● 医生：疑难病症资料随时扫描记录，同行交流会议 PPT 留存，整理留档，也方便给其他医院科室共同交流
-● 设计师：扫描保存设计手稿，一键提取线稿，随时捕捉灵感初现时的大胆想象
-……
-
------升级高级帐户，享更多强大功能-----
-● 纸质文档一键转换 Word/Excel，轻松整理各类报表报告；
-● 拍图识字，提取图片或扫描件中的文字，一键复制导出，快速整理资料；
-● PDF 加密、添加电子签名、一键铺满水印等，分享协作高效安全；
-● 支持身份证、护照、企业三证、户口本等近百种证件扫描，1：1 生成高清扫描件，可用于证照资料提交、电子开户等；
-● 10G 超大云空间，文件夹分类标签管理，查找使用更方便。
-
-一经确认购买订阅产品，iTunes会直接扣除相关订阅所需费用。
-
-扫描全能王高级帐户可通过iTunes帐户信用卡直接付费订购。若当前订购周期（一个月／一年）结束前24小时内仍未取消续订，将会自动续订下个周期的高级帐户。
-
-在当前订购周期内，无法取消当前周期的使用。您可以通过iTunes帐户的设置来管理或取消购买。
-
-您的试用会立即结束，如果您付费购买了产品内的订阅。
-关于服务条款：
-https://www.camscanner.com/app/service?language=zh-cn
-关于隐私政策：
-https://www.camscanner.com/app/privacy?language=zh-cn
-
-----使用建议----
-为确保你能获得清晰的扫描图，请在拍照时：
-● 光线充足，尽量避免抖动
-● 尽量使图片占满拍摄屏幕
-
-若你喜欢扫描全能王，或者有其他任何意见，请花一点时间给我们写评论，或发邮件至isupport@camscanner.com，这将帮助我们不断改进产品，给你更好的使用体验！
-
-----关注我们 ----
-在新浪微博上关注我们 @扫描全能王
-在微信上关注我们，搜索公众号：扫描全能王
-在Twitter上关注我们 @CamScanner
-在Facebook 上关注我们：CamScanner
-在Google+上关注我们：CamScanner
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/0a/02/5d/0a025d87-0717-f230-7a6c-37d857420a0a/7f83901c-5273-4344-916d-857c770c1fda_9.__U7b80_U4f53_U4e2d_U65875.5-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/9b/8e/d2/9b8ed2f7-ee0e-9c10-3b78-91bc3b594dc8/350a759c-a74c-478c-84c4-433f45905095_9.__U7b80_U4f53_U4e2d_U65875.5-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/72/63/9d/72639db9-97fe-adff-dc5b-e95a29f5edd7/0ffd2170-a1ee-4394-bce1-dfd8012f8ae0_9.__U7b80_U4f53_U4e2d_U65875.5-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/bd/d9/ee/bdd9eefd-f568-9796-a42d-ccd454053c19/424b1fb3-4fb0-4626-a3b3-4567bdf207e1_9.__U7b80_U4f53_U4e2d_U65875.5-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3d/8c/ad/3d8cadd5-bbb2-22dc-3dd7-cd4e425123a6/ed0a4c47-59dc-4ac5-8520-8ad8f8829721_9.__U7b80_U4f53_U4e2d_U65875.5-6.png/392x696bb.png" />]]></content>
+我们期待您的反馈！如果您有任何问题、疑问或评论，请发送电子邮件至contact@ketchep.com。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a6/cb/8a/a6cb8aff-a0f6-5d4f-5be3-281faba0c1d5/ecf33bcc-7128-4475-8cb1-9eea0b3224a0_en-1242x2208-0.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/3c/b7/2a/3cb72a08-1454-02ca-b71d-cc04d919cd88/5c35be07-53c3-463d-87c5-a6158ac65842_en-1242x2208-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/a5/af/b9/a5afb963-5b4b-ea78-41d6-5c6a7725c662/f4ab8c42-7a89-4127-994d-b03f75ff4606_en-1242x2208-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/bd/de/d1/bdded11c-7200-dd51-aa05-04b106640d8c/61a1b42f-3cf3-41b0-9b39-b7b0a774de9b_en-1242x2208-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/23/bf/29/23bf294c-7b32-1d29-af4a-41d825b714db/16c1538f-e0bc-44ca-800e-37876942f0cf_en-1242x2208-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/99/ff/9a/99ff9ab5-94a6-dbff-0375-4786d19aac26/5ba5b109-e450-49d9-a653-878c0238e26d_en-1242x2208-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/e6/5d/72/e65d7247-1532-3f44-fb83-6d46ff068ba4/ac3ed9fa-d9a0-498d-abe8-42b4494a3431_en-1242x2208-6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/0f/36/11/0f361190-503d-0cfa-55e1-18fae4ddfdfa/bdb125d9-465d-4a24-a7a5-f9481488ec6f_en-1242x2208-7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/53/bb/50/53bb5078-3c30-3b6c-8ffb-ef18616f5b9e/455207d4-f800-4828-b334-972ffae77047_en-1242x2208-8.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/c9/72/e2/c972e28b-77e9-4fd3-c03e-878e0135b843/94340f71-0dec-495c-9d72-7a979330f841_en-1242x2208-9.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/a9/d7/ec/a9d7ec48-0c7f-4715-4e1a-4eed799e24b8/c2fc6c8c-c4cd-4d55-97f6-09477690717c_en-2048x2732-0.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/f1/4c/47/f14c472d-21a5-3a21-ec22-16ea3ce4637a/9029052a-9219-4840-a766-5114d4ae0401_en-2048x2732-1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/39/9c/74/399c74bf-6da3-0480-06f9-0d51342ce635/32934f60-7cf3-4cf0-9c87-0889b475f3b8_en-2048x2732-2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1d/35/ce/1d35ce75-6be0-9acc-bddd-0c627f641efd/71f18026-135e-4b0f-ab78-4069d346daf9_en-2048x2732-3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/2b/25/21/2b252156-a879-9fdc-a462-6cb51aefe0ce/a137eb29-0909-4be4-93e0-186d15005894_en-2048x2732-4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/16/b1/2f/16b12fcc-4d25-0ef5-95ab-a5192f03c43d/9d14df6e-b5d9-44ac-b48e-d06f9edf9a21_en-2048x2732-5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/5d/9b/58/5d9b58d8-9c51-7520-0d29-ae7781ab4476/7183a7ab-0c1f-400b-84b8-5185864ee286_en-2048x2732-6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e5/5d/47/e55d4752-aa2e-5f45-4f0c-15af9bb852f4/6a3a6e2c-f944-4479-baf0-8d2ecba61b0f_en-2048x2732-7.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
