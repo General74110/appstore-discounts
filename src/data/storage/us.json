@@ -7847,6 +7847,19 @@
     "history": [
       [
         {
+          "timestamp": 1731643965122,
+          "price": 3.99,
+          "formattedPrice": "$3.99",
+          "inAppPurchases": {
+            "iCloud Sync Yearly": "$6.99",
+            "iCloud Sync Monthly": "$0.99",
+            "Reset Password": "$0.99",
+            "Cloud Backup Yearly": "$8.99",
+            "Cloud Backup Monthly": "$1.49",
+            "iCloud Sync Lifetime": "$34.99"
+          }
+        },
+        {
           "timestamp": 1731560997591,
           "price": 0,
           "formattedPrice": "Free",
@@ -11147,6 +11160,12 @@
     "name": "RAIN RADAR °- sky weather NOAA",
     "history": [
       [
+        {
+          "timestamp": 1731643965122,
+          "price": 12.99,
+          "formattedPrice": "$12.99",
+          "inAppPurchases": {}
+        },
         {
           "timestamp": 1731560997591,
           "price": 0,
@@ -17296,6 +17315,23 @@
     "name": "Kingdom Rush Frontiers TD",
     "history": [
       [
+        {
+          "timestamp": 1731643965122,
+          "price": 1.99,
+          "formattedPrice": "$1.99",
+          "inAppPurchases": {
+            "Bonehart": "$6.99",
+            "Ashbite": "$6.99",
+            "Sha'tra": "$2.99",
+            "Nivus": "$0.99",
+            "Chest of gems": "$9.99",
+            "Grawl": "$2.99",
+            "Dante": "$4.99",
+            "Bag of gems": "$4.99",
+            "Captain Blackthorne": "$0.99",
+            "Kahz": "$4.99"
+          }
+        },
         {
           "timestamp": 1731560997591,
           "price": 1.99,
