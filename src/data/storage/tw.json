@@ -44227,6 +44227,12 @@
     "history": [
       [
         {
+          "timestamp": 1731769701346,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1731687108707,
           "price": 0,
           "formattedPrice": "免費",
@@ -64465,6 +64471,23 @@
     "name": "Goodak 底片相機 - 復古即可拍，拍立得膠卷攝影",
     "history": [
       [
+        {
+          "timestamp": 1731769701346,
+          "price": 60,
+          "formattedPrice": "$60.00",
+          "inAppPurchases": {
+            "Upgrade Deluxe Edition": "$190.00",
+            "Retro Frame Pack": "$30.00",
+            "Color Frame Pack": "$30.00",
+            "Stroke Frame Pack": "$30.00",
+            "Blue Cam Film Pack": "$30.00",
+            "Black Cam Film Pack": "$30.00",
+            "Purple Cam Film Pack": "$30.00",
+            "Stamp Frame Pack": "$30.00",
+            "Green Cam Film Pack": "$30.00",
+            "Red Cam Film Pack": "$30.00"
+          }
+        },
         {
           "timestamp": 1731687108707,
           "price": 90,
