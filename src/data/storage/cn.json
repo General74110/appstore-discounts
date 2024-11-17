@@ -130447,6 +130447,15 @@
     "history": [
       [
         {
+          "timestamp": 1731856116627,
+          "price": 30,
+          "formattedPrice": "¥30.00",
+          "inAppPurchases": {
+            "甜蜜之家": "¥6.00",
+            "Hello World!": "¥6.00"
+          }
+        },
+        {
           "timestamp": 1731773423193,
           "price": 18,
           "formattedPrice": "¥18.00",
@@ -147143,6 +147152,16 @@
     "name": "AMood - 追踪你的身心健康",
     "history": [
       [
+        {
+          "timestamp": 1731856116627,
+          "price": 0,
+          "formattedPrice": "免费",
+          "inAppPurchases": {
+            "包月会员": "¥16.00",
+            "永久会员": "¥128.00",
+            "包年会员": "¥98.00"
+          }
+        },
         {
           "timestamp": 1731773423193,
           "price": 0,

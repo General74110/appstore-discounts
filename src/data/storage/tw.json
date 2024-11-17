@@ -101299,6 +101299,12 @@
     "history": [
       [
         {
+          "timestamp": 1731856116627,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1731773423193,
           "price": 60,
           "formattedPrice": "$60.00",
@@ -138181,6 +138187,15 @@
     "history": [
       [
         {
+          "timestamp": 1731856116627,
+          "price": 150,
+          "formattedPrice": "$150.00",
+          "inAppPurchases": {
+            "甜蜜之家": "$30.00",
+            "Hello World!": "$30.00"
+          }
+        },
+        {
           "timestamp": 1731773423193,
           "price": 90,
           "formattedPrice": "$90.00",
@@ -149330,6 +149345,16 @@
     "name": "AMood - 追踪你的身心健康",
     "history": [
       [
+        {
+          "timestamp": 1731856116627,
+          "price": 0,
+          "formattedPrice": "免費",
+          "inAppPurchases": {
+            "包月会员": "$60.00",
+            "永久会员": "$690.00",
+            "包年会员": "$490.00"
+          }
+        },
         {
           "timestamp": 1731773423193,
           "price": 0,
