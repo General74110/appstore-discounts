@@ -6159,6 +6159,23 @@
     "history": [
       [
         {
+          "timestamp": 1732075955572,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Reset Password": "$0.99",
+            "iCloud Sync Yearly": "$7.99",
+            "iCloud Sync Monthly": "$0.99",
+            "iCloud Sync Lifetime": "$39.99",
+            "100 GB monthly": "$5.99",
+            "200 GB monthly": "$9.99",
+            "10 GB monthly": "$2.99",
+            "100 GB yearly": "$59.99",
+            "10 GB yearly": "$29.99",
+            "1 TB monthly": "$47.99"
+          }
+        },
+        {
           "timestamp": 1731993016433,
           "price": 3.99,
           "formattedPrice": "$3.99",
@@ -11686,6 +11703,12 @@
     "history": [
       [
         {
+          "timestamp": 1732075955572,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {}
+        },
+        {
           "timestamp": 1731993016433,
           "price": 12.99,
           "formattedPrice": "$12.99",
@@ -12942,6 +12965,17 @@
     "name": "AirDisk Pro",
     "history": [
       [
+        {
+          "timestamp": 1732075955572,
+          "price": 2.99,
+          "formattedPrice": "$2.99",
+          "inAppPurchases": {
+            "Lifetime Cloud Services": "$49.99",
+            "Yearly Cloud Services": "$9.99",
+            "Monthly Cloud Services": "$1.99",
+            "Reset Password": "$0.99"
+          }
+        },
         {
           "timestamp": 1731993016433,
           "price": 2.99,
@@ -122581,6 +122615,23 @@
     "name": "Company of Heroes Collection",
     "history": [
       [
+        {
+          "timestamp": 1732075955572,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "Tales of Valor": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "High-Quality Models": "$0.00",
+            "4 vs 4 Skirmish Maps": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 6-10": "$0.00"
+          }
+        },
         {
           "timestamp": 1732069024075,
           "price": 19.99,
