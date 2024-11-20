@@ -122582,6 +122582,23 @@
     "history": [
       [
         {
+          "timestamp": 1732069024075,
+          "price": 19.99,
+          "formattedPrice": "$19.99",
+          "inAppPurchases": {
+            "All Content": "$0.00",
+            "Opposing Fronts": "$0.00",
+            "Tales of Valor": "$0.00",
+            "Invasion of Normandy 2-5": "$0.00",
+            "1 vs 1 Skirmish Maps": "$0.00",
+            "2 vs 2 Skirmish Maps": "$0.00",
+            "High-Quality Models": "$0.00",
+            "4 vs 4 Skirmish Maps": "$0.00",
+            "3 vs 3 Skirmish Maps": "$0.00",
+            "Invasion of Normandy 11-15": "$0.00"
+          }
+        },
+        {
           "timestamp": 1731993016433,
           "price": 19.99,
           "formattedPrice": "$19.99",
@@ -158848,6 +158865,14 @@
     "name": "Longshot - Screenshot & OCR",
     "history": [
       [
+        {
+          "timestamp": 1732069024075,
+          "price": 0,
+          "formattedPrice": "Free",
+          "inAppPurchases": {
+            "Pro version lifetime": "$9.99"
+          }
+        },
         {
           "timestamp": 1731993016433,
           "price": 0,
