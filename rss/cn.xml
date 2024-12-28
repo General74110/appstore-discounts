@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2024-12-28T15:10:18.738Z</updated>
+    <updated>2024-12-28T22:12:46.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,98 +18,46 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2024-12-28T15:10:18.739Z</updated>
+        <updated>2024-12-28T22:12:46.713Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Notes Writer Pro: 笔记和 PDF 标注]]></title>
-        <id>Notes Writer Pro: 笔记和 PDF 标注-1735398494795</id>
-        <link href="https://apps.apple.com/cn/app/notes-writer-pro-%E7%AC%94%E8%AE%B0%E5%92%8C-pdf-%E6%A0%87%E6%B3%A8/id1422480068?uo=4"/>
-        <updated>2024-12-28T15:08:14.795Z</updated>
-        <summary type="html"><![CDATA[Notes Writer Pro AI Assistant: ¥28.00 → ¥15.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/notes-writer-pro-%E7%AC%94%E8%AE%B0%E5%92%8C-pdf-%E6%A0%87%E6%B3%A8/id1422480068?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/93/13/dc/9313dc90-76a1-21b6-b1cb-08371ee559aa/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[VidHub - 高清影片视频播放器，快速播放云盘网盘]]></title>
+        <id>VidHub - 高清影片视频播放器，快速播放云盘网盘-1735423686337</id>
+        <link href="https://apps.apple.com/cn/app/vidhub-%E9%AB%98%E6%B8%85%E5%BD%B1%E7%89%87%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8-%E5%BF%AB%E9%80%9F%E6%92%AD%E6%94%BE%E4%BA%91%E7%9B%98%E7%BD%91%E7%9B%98/id1659622164?uo=4"/>
+        <updated>2024-12-28T22:08:06.337Z</updated>
+        <summary type="html"><![CDATA[终身: ¥198.00 → ¥89.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/vidhub-%E9%AB%98%E6%B8%85%E5%BD%B1%E7%89%87%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8-%E5%BF%AB%E9%80%9F%E6%92%AD%E6%94%BE%E4%BA%91%E7%9B%98%E7%BD%91%E7%9B%98/id1659622164?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/5d/71/7c/5d717ccb-d704-4a61-0a67-b502349d342a/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/60x60bb.jpg" />
 </a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
   <li>
-    <strong>Notes Writer Pro AI Assistant：</strong><span>¥28.00</span> → <b>
-  <strong>¥15.00</strong>
+    <strong>终身：</strong><span>¥198.00</span> → <b>
+  <strong>¥89.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
-  键盘录入，手写，注释，绘制，高亮标注，扫描和记录注释和文档。 注释PDF文档，填写表格和签署文件。 创建笔记本和树状项目。 用你喜欢的方式实现完全无纸化。
+  当您需要一个功能完备的媒体播放器来管理、组织和播放各种类型的视频时，VidHub会满足您的需求！VidHub是一款广受欢迎的媒体播放器，不仅能够播放各种不同格式的视频，，同时，VidHub内置各种媒体库管理、网络共享等功能，提供快速、稳定的视频播放，带来非凡的用户体验。
+VidHub的主要功能包括：
+- 支持iOS、Mac、Apple TV平台，通过iCloud实现数据同步
+- 广泛的视频格式支持 - VidHub能够播放各种格式的视频，包括.mkv、.avi、.mp4、.mov、.rmvb、.wmv等等。让您在一款播放器中体验多样的视频内容。
+- 高品质视频播放 - VidHub支持高清、 4K、 HDR 等各种视频，呈现出流畅清晰的视频观感。
+- 字幕支持 - VidHub支持视频内置字幕，并可以挂载多种外置字幕格式，例如SRT,SSA,SUB，并支持字幕调整功能。用户可以根据需要开启或关闭字幕，获得良好的观看体验。
+- 网络共享媒体库 - VidHub支持访问多种网络共享协议，包括 SMB/CIFS，WebDav，也支持访问云端视频文件，例如Dropbox, Google Drive， OneDrive，百度网盘，阿里云盘, 移动云盘。方便您轻松访问云端视频和其他WebDav服务器上的媒体库。
+- 支持下载、删除云端文件
+- 支持重命名云端文件，支持添加字符、替换字符、正则表达式重命名方式
+- 支持直连Emby、Jellyfin、Plex媒体库 - 连上即可播放，无需再为追剧看片烦恼。
+- 方便的文件管理 - VidHub有自己的媒体库管理器，并支持用美观简洁的界面展示视频的清单。用户可以按照类型、日期、分级、评分等分类，快速找到需要的媒体文件。
 
-主要针对专注于生产力和商务的专业人士，学生，教师，作家，医生，记者，学者等，更轻松使用Notes Writer Pro来保存和创建笔记，注释，备忘录，签名PDF文档，论文，高亮标注显PDF文本书籍，以及录制的讲座等。
+总的来说，VidHub是一款功能丰富的媒体播放器，能够管理、组织和播放各种媒体文件。VidHub会让您的视频播放更加愉悦，让您获得高质量的观看体验。
 
-使用Notes Writer Pro，您可以:
+注意：影片资料和封面是由 TMDB 提供，TMDB 是一个由网络社区维护的电影和电视节目免费数据库。
 
-+ 做笔记，写文件，随手画草图，记录瞬间灵感, 让他们发挥更重要的作用。
-你可能需要随时手写笔记，分享的商业备忘录，记录喷涌的文采，录制要讲的故事，编辑文章，记录讲座……无论是今天的日记，明天的论文，还是未来畅销书的中篇小说， Notes Writer都可以帮助您随时随地地创建，编辑和组织所有笔记和文档。
-
-+ 捕捉你的想法和语句。无论您身在何处，用您喜欢的方式，完全的无纸化创作。
-  用您最喜欢的方式输入，手写，注释，草绘，扫描和记录笔记，也可以借助Apple Pencil在旅途中获得最佳书画体验。 使用笔记和书写工具来捕捉每个灵感和想法。 
-
-Notes Writer是一个单独的笔记和写作应用程序，完全无需借助台式机或笔记本电脑，甚至在完全无信号的野外环境也可随心创作。
-
-+ 工作、学校、生活, 一切井然有序。 一个软件搞定所有笔记。
-随意创建自己的文件夹，笔记和树状项目。
-在无限的笔记本，文件夹和子文件夹中组织您的工作。 以您自己想要的树状结构来创建笔记本和项目：章节，部门，类，讲座，成绩，草稿，章节，研究等。轻松使用高级文本搜索引擎快速查找，定位内容。
-
-+ 同步和分享。 您的笔记同步保存在您的所有设备上。
-借助iCloud，AirDrop，Email Dropbox，Box和Google Drive，您可以在手持设备和计算机之间无缝同步和共享笔记，笔记本和项目。 并且根据您的需要，将资料导出为你想要的文件格式输出。
-
-+ 三合一引擎，方便您的使用：强大的文字处理器，智能手写引擎和稳健的PDF注释器和阅读器。
-Notes Writer是App Store上唯一一款将全功能文字处理器，强大的PDF编辑器和手写和草图引擎相结合的应用程序，可帮助您创建和编辑所有类型的笔记，草图和文本。
-
-+ 类似纸质操作，但提供更好用户体验。 无限的表格，模板和纸质背景。
-记录笔记，草图创意和文本书写，就像在纸上操作一样自然，并辅以各种墨水和文本工具，纸质背景和模板。 可以使用预定义的图案，网格和图形（有条纹，方形，六边形，点状，音乐谱表等），随时选择并组合您的笔记和文档。
-
-新功能一览表:
-
-视图拆分：在屏幕上同时打开两个PDF或手写笔记。快速比较书籍和文档。
-利用iCloud，iCloud Drive，Dropbox，Box，WebDAV和Google Drive随时随地同步与分享
-创建富文本格式（RTF），PDF，LaTeX和高级Markdown（MD）文档
-高级文字格式处理：高亮，删除线，下标/上标，对齐，行间距，第一行缩进，分页符，脚注，注释，文本和纸张颜色
-定义边距，页眉/页脚，纸张大小，MLA和APA样式格式
-实时计数器：字符，单词，句子，行，平均。单词长度，每个句子的单词和阅读时间
-用于校对和听写的语音识别
-打字机：无分心模式，让你专注于你的创作
-夜间模式可以帮助你在夜间写作
-插入特殊符号箭头，数学，项目符号/标识，GPS位置等。
-额外字符键：创建标签，前进/删除，上/下/左/右光标等。
-使用应用或文件夹安全密码/ FaceID保护您的创作
-自动备份文档
-使用相机，以PDF格式来扫描文档，备注，收据，票证等
-将您的笔记本和项目快速与Mac和Windows的Scrivener的应用软件进行同步
-
-Privacy Policy
-http://www.noteswriter.com/Kairoos_Privacy_Policy.html
-EULA
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/69/12/1f/69121f7c-bb51-655c-258c-ee00ad6f1b40/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/33/c9/af/33c9af84-5348-3469-546d-92787496562e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ca/ec/16/caec16b1-50c8-de59-6dff-aca69d04809f/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/51/cf/7a/51cf7a3c-6c6a-a8a7-d2a6-75b09010021d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/9a/15/26/9a152655-f290-1576-e7f4-ff25d83341e5/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/57/cf/db/57cfdb85-289f-f76a-ed17-925ca5c01cdb/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/fa/fb/e8/fafbe8d0-9415-62b2-a332-d0f88cb1697a/f81cbd11-040b-48f6-abc3-526945fe95db_SCR1_ZH.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/a4/d1/ee/a4d1ee66-61c8-ba3d-6e14-b8dde0dd25f3/d3ec89e3-222a-4b9e-9f47-b181bd8e36df_SCR2_ZH.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/6d/62/07/6d620711-1102-7a3e-71f7-ee85b5aceee0/5e98d787-ae69-4739-bab7-5f9147e77d50_SCR3_ZH.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/0c/7c/65/0c7c657a-4cde-2f83-4b1d-798927610a79/e64d8c31-7d03-46a6-b42a-6faeea295294_SCR4_ZH.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/54/43/93/54439330-f167-2227-143f-1c04e49a5c27/2ca1c724-1515-4efa-95ee-a4599a725399_SCR5_ZH.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/cd/25/11/cd2511f0-2f98-b1a3-45fe-1e03f7d6f6b1/76f9372e-0667-422e-adbf-24d092a2cdd0_SCR6_ZH.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/ab/01/5d/ab015d9f-542f-7db7-55ee-17ad6b138795/ae99d059-ec04-4e8a-9cea-958cf0c863c5_SCR7_ZH.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/a3/98/ee/a398ee0b-f598-537f-12c9-87326f21ae39/a867f056-9e7b-4b2f-b9bf-3c65b4d904fc_SCR8_ZH.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/60/e8/d8/60e8d8c0-f22c-d64d-4cef-dfcd74a68a7e/da945622-b8ec-4511-a56c-6af1c3b4259f_SCR9_ZH.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/6f/99/00/6f990026-1123-fc2d-8a11-9d924f341eb8/1c2484a0-e9af-4b54-b1e5-23cea33cc13b_SCR10_ZH.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[雨雷達-實時天氣圖。 亞洲和中國。°]]></title>
-        <id>雨雷達-實時天氣圖。 亞洲和中國。°-1735398494795</id>
-        <link href="https://apps.apple.com/cn/app/%E9%9B%A8%E9%9B%B7%E9%81%94-%E5%AF%A6%E6%99%82%E5%A4%A9%E6%B0%A3%E5%9C%96-%E4%BA%9E%E6%B4%B2%E5%92%8C%E4%B8%AD%E5%9C%8B/id488674899?uo=4"/>
-        <updated>2024-12-28T15:08:14.795Z</updated>
-        <summary type="html"><![CDATA[价格: ¥88.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%9B%A8%E9%9B%B7%E9%81%94-%E5%AF%A6%E6%99%82%E5%A4%A9%E6%B0%A3%E5%9C%96-%E4%BA%9E%E6%B4%B2%E5%92%8C%E4%B8%AD%E5%9C%8B/id488674899?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/a6/eb/44a6ebc2-0045-22bb-5c81-8cbfcc93bfb0/AppIcon-Full-0-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥88.00</span> → <b>
-  <strong>免费</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  天气雷达随处可见。
-使用Rain Radar快速查看动画雷达图像和当前状况。
-
-使用可缩放的雨水雷达功能跟踪倾盆大雨，天气前沿和暴风雨的运动。 “雨雷达”可预测全球任何位置，并显示实时天气状况以及新兴模式。
-
-有关天气的一切一目了然。 快速，简单，免费！
-天气预报应用程序，可以准确地描述当前的天气和新兴模式。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a3/3d/2a/a33d2a55-48a0-198c-5b98-6f1dd4cb2126/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/16/b2/96/16b296cb-a323-c26c-1c67-8d336eaade89/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/72/37/90/723790d9-642f-995f-5469-1e588dc81498/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0d/3f/2d/0d3f2de0-3a41-ebad-bb58-e53b811f4c3d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/5c/1b/62/5c1b625d-5f1f-e349-1560-7c82a12cf0fe/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9d/59/61/9d596154-9d65-80c9-ab53-83ffd40e6ef8/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/df/13/66/df13660d-b292-b476-d9e2-e0b2e010d0ba/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/43/88/9c/43889c88-ab93-e998-d855-c08f4fb805db/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0d/72/7c/0d727cce-b561-e9d2-a7db-3a3de3baa490/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a3/c4/ea/a3c4ead7-014d-f4c2-af52-4e2eecd97377/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c7/3b/f1/c73bf143-8967-2204-b939-40b74f669980/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/17/0f/e4/170fe4c4-a239-274a-d507-99efff510706/pr_source.png/552x414bb.png" />]]></content>
+Privacy Policy and Terms of Use
+https://zh.okaapps.com/privacy
+https://zh.okaapps.com/terms
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/c4/1e/5bc41e5b-b8f0-563d-dc7e-3769dfbefcb1/4c00b47f-a048-45b6-8728-fcd167e06a03_1cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0f/05/59/0f0559c5-1255-0c85-9dec-87536881919a/96fa8666-6a55-4c1d-8da4-1cba259d0090_2cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a0/1d/66/a01d666e-537a-ce1e-0683-54be905635ce/d3600c07-98c9-4663-b077-ac82ad88d4d6_3cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/a8/22/c2a822e9-0975-f4a3-b638-b4fd47e6b3dd/32d5ed2e-def0-403c-99f6-976746fdfb98_4cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/22/0b/4d/220b4de4-80f1-a5b8-6e3f-5a8895cf017e/8a4f089d-02ad-4c37-82e7-c62a23b2465b_5cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/66/e4/84/66e484de-f101-a8fa-0f4e-60b42768f239/afb4137a-07c9-4194-9e59-d1602ca4f734_6cn.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e5/16/2a/e5162a3f-dc10-16ee-a2a6-9e523714baaf/4fc351f1-601e-464a-8f2a-5aea34cab61f_7cn.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/07/a7/bc/07a7bc12-3035-d32a-0ad5-cbb8c30e216d/2f681896-a61e-444b-9e62-41f9a24b1222_1cn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f5/90/8e/f5908ed7-67f3-bbc0-f29b-a5b28659d9a8/c010ac0c-ee19-413d-b248-6585d24c2260_2cn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/3b/00/7b3b00cf-41db-90be-6b7e-1ac3d8f45061/79a01320-6be8-4ff5-ba5d-5d8dbb92f16c_3cn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/45/a5/02/45a50227-1edf-2dd4-83d3-32e8a75a8073/3498117c-3830-4cea-a162-3e5ba8642159_4cn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/70/73/3a/70733a17-8a76-a10b-ecae-0fc10ad5c45f/ab33f424-7e01-4a79-951d-c9d62300a00c_5cn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/11/14/53/11145368-c47d-0b56-1449-465ac2b8500e/bdca986e-1e0c-4c32-9025-d3eaa85342e5_6cn.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/63/07/9c/63079c46-7736-26f5-9b7f-73d42d7e230d/3b79ca8a-f50e-41ea-9681-4d45bbc02f3b_7cn.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
