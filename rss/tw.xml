@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/tw.xml</id>
     <title>App Store Discounts（TW）</title>
-    <updated>2025-01-09T09:12:19.203Z</updated>
+    <updated>2025-01-09T13:20:05.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,90 +18,92 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-01-09T09:12:19.204Z</updated>
+        <updated>2025-01-09T13:20:05.337Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Resident Evil Village]]></title>
-        <id>Resident Evil Village-1736413822989</id>
-        <link href="https://apps.apple.com/tw/app/resident-evil-village/id6450980545?uo=4"/>
-        <updated>2025-01-09T09:10:22.989Z</updated>
-        <summary type="html"><![CDATA[遊戲本體: $455.00 → $1,120.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/resident-evil-village/id6450980545?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0a/ad/88/0aad884b-2b30-8ee7-1d9e-27bbc16f79a9/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 內購買</h3><ul>
-  <li>
-    <strong>遊戲本體：</strong><span>$455.00</span> → <b>
-  <strong>$1,120.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  在《Resident Evil》主系列的第8部作品中展開一場令人毛骨悚然的絕命拚搏。
+        <title type="html"><![CDATA[zFuse - 影片播放器]]></title>
+        <id>zFuse - 影片播放器-1736428662749</id>
+        <link href="https://apps.apple.com/tw/app/zfuse-%E5%BD%B1%E7%89%87%E6%92%AD%E6%94%BE%E5%99%A8/id1009747025?uo=4"/>
+        <updated>2025-01-09T13:17:42.749Z</updated>
+        <summary type="html"><![CDATA[价格: $120.00 → $30.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/tw/app/zfuse-%E5%BD%B1%E7%89%87%E6%92%AD%E6%94%BE%E5%99%A8/id1009747025?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/18/02/ec/1802ecb8-d50e-d6f2-ce54-2b3d4b83815b/AppIconNew-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>$120.00</span> → <b>
+  <strong>$30.00</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  - zFuse 可播放所有視頻格式和編碼,您無需將視頻文件轉換為MP4,即可在你的移動設備中進行播放,無需文件轉換.
 
-伊森一家的平靜生活又再一次被捲進了混亂之中，而打破這種平靜日常的不是別人，正是克里斯·雷德菲爾。伊森又再一次陷入那無法醒來的噩夢。
+- zFuse 支持ASS/SSA/SUP特效字幕,您可以體驗到Mac/PC版的完整特效字幕體驗.
 
-經過多年開發，日趨成熟的RE Engine為大家打造了全新的生存「動作」恐怖體驗。
+- zFuse 具有多種強大的網絡技術,您無需將視頻文件存儲在你的空間有限的設備中,可以直接播放您從電腦上下載的各種格式的視頻,無需轉換,無需下載,即點即播.
 
-啟動應用程式時需連線至網路。
-------------------------------------------------------------
-請務必在購買/使用前閱讀 [ EULA ]。
-■About the End User License Agreement
-・This End User License Agreement (this “Agreement”) applies to the user’s use of this game software program (the “Program”). 
-・THIS AGREEMENT SHALL COME INTO EFFECT BETWEEN CAPCOM CO., LTD. AND USER(S) UPON INSTALLATION OF THE PROGRAM BY THE USER.
-・Those users between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence) or a person with limited capacity shall install the Program only after obtaining approval from its parent or legal guardian who agrees to be bound by these provisions of this Agreement.
+- zFuse 當然也可以讓您輕鬆的從電腦/NAS中直接下載文件/文件夾,是您旅途中的最佳伴侶.
 
-Please confirm the terms above and agree to this Agreement before purchasing the Program. 
-------------------------------------------------------------
-■不支持鍵盤和滑鼠。
-■本遊戲不需要使用搖桿。但是本遊戲已根據搖桿最佳化，所以我們仍建議您使用。
-注意：請參閱 Apple 網站以了解與 iPad 相容的控制器。有些控制器可能無法如預期般運作。
-■您可以免費玩遊戲本體的一部分。
-要玩完整遊戲，請於程式內購買。 
-■此應用程式大小約為 16 GB。
-【注意事項】安裝前請確保有應用程式2倍以上大小的可用儲存空間。
-我們建議在網路連線良好的環境中下載資料。
-根據連線速度估計的下載時間：
-10Mbps - 超過 3 小時
-100Mbps - 30 至 40 分鐘
-300Mbps - 8 至 10 分鐘
-■已添加透過 iCloud 雲碟進行儲存資料上傳和下載功能。 
-■無法在 MacOS 和 iOS 裝置之間上傳和下載儲存的資料。
-■《Resident Evil Village》並不支援通用購買。
+- zFuse 支持各種手勢操作，只需動動手指,即可調整播放位置，字體大小,控制音量和亮度.
 
-警告：從 Apple ID 登出有可能會使保存資料發生問題。請於問題解決前盡量避免登出。
+- zFuse 當然為您想到了隱私問題,擁有文件夾加密功能,讓您不再擔心隱私問題.
 
-App內購買
-《Resident Evil Village》（遊戲本體）購買此產品可以讓您玩完整的遊戲本體。
-　「痛苦追憶包」
-　·武器「武士之刃：AW Model-01」
-　·「尋獲片段」畫面濾鏡
-　·RE7 卡式錄音機儲存點
-　·安全室的特別背景音樂《Go Tell Aunt Rhody》
-　·武器飾品「妙妙先生」
-　·立即開放「Village of Shadows」難度
-　·藝術圖特典
-　·貝克一家調查報告
-　求生物資包
-　武器飾品「浣熊先生」
+- zFuse 的更詳細的特性如下:
 
-溫特斯擴充包
-追加內容「溫特斯擴充包」收錄三大內容：包括能以第三人稱視角遊玩《Resident Evil Village》遊戲本篇的「第三人稱視角模式」、新加入可操控角色及新關卡的「傭兵模式——追加命令」，以及以伊森的愛女「蘿絲」為主角的新故事《蘿絲之影》！
+    * SMB/CIFS播放/自動發現(輕鬆播放PC上的共享媒體文件).
+    * 直接通過SMB/CIFS/DLNA下載媒體文件/文件夾到iOS設備上.
+    * UPnP/DLNA播放/自動發現.
+    * Airplay投屏播放.
+    * 支持畫中畫模式.
+    * 支持iPad分屏多任務.
+    * 硬件加速.
+    * 支持了HDR Tone Mapping以便在非HDR顯示設備中顯示HDR內容.
+    * 支持特效字幕.
+    * 0.5x-3.0x播放速度控制.
+    * 0.5x-5.0x屏幕縮放.
+    * 支持Seeking時預覽媒體內容.
+    * 內建音頻增強.
+    * 多音軌選擇.
+    * 內嵌/外掛字幕選擇.
+    * 字幕同步.
+    * 支持外部字幕字體選擇.
+    * 播放列表文件預覽功能.
+    * 播放藍光文件夾功能.
+    * 直接在設備上管理和修改播放列表.
+    * 直接播放外接U盤上的媒體文件.
+    * 直播源有效性檢測.
+    * 屏幕左右鏡像.
 
-Street Wolf 裝束
-蘿絲服裝「Street Wolf Outfit」
-※只適用於《蘿絲之影》
+    * 文件管理:
+        -刪除,移動,重命名,創建文件夾.
+        -支持Wi-Fi傳輸,無需連接USB線即可傳輸文件.
+        -支持創建流媒體播放列表.
+        -支持解壓縮常見壓縮格式: 7z, zip, rar, tar, bz, bz2等.
 
-額外內容商店通行證
+    * 手勢功能:
+        -水平拖動:調整播放位置.
+        -在屏幕左側豎直拖動:調整音量.
+        -在屏幕右側豎直拖動:調整亮度.
+        -在屏幕上捏合:屏幕尺寸調整.
+        -雙擊:播放/暫停.
+        -雙指雙擊:切換屏幕高寬比.
 
-購買注意事項
-- 購買之後，將不提供基於任何理由的退貨服務（包括更換其他產品或服務）。
-- App 內購買項目僅供進行購買的 Apple ID 使用，且無法與家人共享群組的成員共用。
+   * 支持外接鍵盤:
+       - 空格 : 暫停/播放.
+       - 左箭頭 : 快退.
+       - 右箭頭 : 快進.
+       - Esc : 退出播放.
+       - S : 改變播放速度.
+       - B : 上一首.
+       - N : 下一首.
+       - Z : 改變屏幕縮放.
 
-有關支援的OS及機種
-https://www.capcom-games.com/apple/zh-hant/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/43/f8/97/43f89730-a1cc-ae23-475e-8815092a1bf1/f70c16dc-b7ff-4d02-93e3-28e1dec19a85_ss001.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f8/64/4e/f8644e90-e8e7-68ee-a4b3-99c4931577e2/6db1cfd2-a5a8-4298-9c5d-2830ec7c1ee0_ss002.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/52/11/d2/5211d28e-4eff-a0ef-3f62-d61dd7458a11/d9e9b491-ac47-4226-854b-5ce5aca815c6_ss003.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e6/a8/98/e6a89854-7668-f141-7e56-48fc45c53662/565f2122-03fa-46a1-b0f7-fd2ab6289a69_ss004.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/b9/01/29/b9012956-c7aa-7e34-fde4-2a6ddef71399/cd486c91-98be-4bfd-96c0-98b26da33c2b_ss005.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d6/22/f8/d622f81c-03da-770c-8604-89308d58a323/e203360f-44be-44ef-a2c1-4d83e5fd24c0_ss006.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/14/c4/c5/14c4c572-10b6-fd7d-2c77-b1a841255312/da38ac50-7af5-4155-ad2f-a8f21b8af77a_ss007.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/cf/af/e4/cfafe4de-a31b-63da-dd1f-509dcdb71b4d/ed7de2c8-ce0c-4e52-8bd7-a63c4cd66301_ss008.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/61/14/81/611481a3-3909-9e59-9fab-8ff7616cb4c8/e341754e-27ec-4202-9ce3-511199de2a16_ss009.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7c/ba/3f/7cba3f97-47da-3d2e-6e0e-1caf365d453e/334f2fe3-5c55-4e04-934d-bd9d81ebc45a_ss010.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ab/83/1b/ab831b1b-e2d7-c5f2-edee-658f77a2bd19/f521fec7-da6b-4970-987f-4ce591211814_ss001.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/60/20/6e/60206eb4-46ac-e04e-9d2d-ed76e9653430/4c980a5e-2cb4-436b-a434-9644c45e2ce8_ss002.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e9/31/c8/e931c8e6-26e2-742b-09ee-825ce9481648/fbb1a7eb-6a23-4fdd-b935-d3e37c520c1c_ss003.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/7c/30/9e/7c309e3a-8b04-d5e0-741e-97c2a6e29880/16aa1958-5afc-4ec3-835e-e62a054fd7f7_ss004.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/49/b5/61/49b56118-a1ea-947c-1856-7f46342a4b96/dd131879-756c-437a-9992-cd93267657b9_ss005.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/c3/6b/7e/c36b7eec-f0e2-d3cd-8253-88c3e6d36a88/397837d2-5032-4225-8f48-7a67da01f117_ss006.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d8/d8/22/d8d8225f-e540-d9f2-5130-93989c262fb7/22f9bad7-31e7-42aa-8aab-5e4962317b7e_ss007.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/f7/b0/20/f7b02056-dd45-4e42-ce09-dcf5edd45338/5415701a-87d0-432a-8d01-6fdefc090356_ss008.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/27/b5/5a/27b55a49-b344-504a-c352-40417f37be54/dcfa14fd-59f2-479a-aeee-2645252b6cfd_ss009.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/81/8d/39/818d396f-5280-9d85-7087-a5ca6395c6e1/fb6b8c81-054e-42ec-a255-0cd6cdf1d282_ss010.png/552x414bb.png" />]]></content>
+    
+    * 支持視頻格式: MP4,MOV,MKV,AVI,WMV,FLV,RMVB,ASF,OGV等所有常見格式.
+    * 支持音頻格式: MP3,WAV,WMA,FLAC,APE等.
+    * 支持字幕格式: SRT,SSA,ASS,VTT等.
+    * 支持圖像格式: JPG,PNG,BMP,TIFF,GIF,HEIC等.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/50/1b/ed/501bed87-788c-5b0c-e93f-7d95528bce3f/71a98171-a9e2-4777-84b9-1876fbac62e5_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/fd/37/cb/fd37cba9-8aaa-3403-88af-248031c31106/ca3e8235-7b29-46eb-bac8-5f07af6df08c__U7ad6_U7248_U77ed_U624b_U673a_tw.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/01/46/14/014614c9-656e-0e65-ffbb-98672b12ece7/be2a4bed-294a-4adf-96ab-000b9bb19f1c_55_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/9e/0d/55/9e0d5574-b172-7562-e558-587b95a1b02a/5ae2533b-e73f-40b9-bbdb-24f9d20dee17_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/64/f2/9a/64f29aa4-2515-c817-83b3-f229f2f76015/f8402202-e672-4c7b-a44b-8e86b06a0770_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bb/c9/bd/bbc9bd9e-d4a9-5fe4-e52d-cf7a100c0142/846c71aa-8d04-4215-b601-9fc204579917_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e5/68/10/e568108e-870c-cb28-8ffc-12693866d1bf/799556a2-88f3-4716-a9c2-ce21a30d321b_5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a7/15/83/a715837d-29ff-69de-e75a-5a50af96272e/e0e5573c-0848-4d18-a7ea-d269d657f975__U6a2a_U7248iPad_tw.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4c/77/e7/4c77e7c8-5c6b-df88-ed7c-3c1dbf4f8653/c83c8a5d-83ec-401d-a245-98d7e22c4f92_129_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2b/38/7e/2b387e80-ffc3-ead8-ad2d-30ceaaedcdba/cfbbce9f-be20-44fe-af54-f0b9dce5dff5_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/aa/62/fe/aa62feb1-e079-f6a4-f20f-53cf82c00195/8a3871ed-1bd5-4677-93f0-e340165c37e4_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/ac/f9/43/acf94360-deb4-bd4f-5e53-8b69fc17b3a6/6555c055-e930-46ce-9fa0-b633857d6471_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/13/b1/05/13b1052f-8693-065e-fb1d-9a363c5c20ea/551f0ad8-c7cb-47f6-9914-7624b6a9a275_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7d/84/51/7d8451f2-dc48-885c-cdc0-50a02183bf68/ad3ae475-d258-48b7-972b-b574455814bc_1.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
