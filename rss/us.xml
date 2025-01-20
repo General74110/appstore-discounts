@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-01-18T13:13:19.591Z</updated>
+    <updated>2025-01-20T03:17:20.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,7 +18,7 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-01-18T13:13:19.591Z</updated>
+        <updated>2025-01-20T03:17:20.714Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
@@ -26,15 +26,15 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[爱韩剧 - 韩剧TV大全]]></title>
-        <id>爱韩剧 - 韩剧TV大全-1737205864602</id>
+        <id>爱韩剧 - 韩剧TV大全-1737342763120</id>
         <link href="https://apps.apple.com/us/app/%E7%88%B1%E9%9F%A9%E5%89%A7-%E9%9F%A9%E5%89%A7tv%E5%A4%A7%E5%85%A8/id6447023668?uo=4"/>
-        <updated>2025-01-18T13:11:04.602Z</updated>
-        <summary type="html"><![CDATA[Price: $6.99 → $3.99]]></summary>
+        <updated>2025-01-20T03:12:43.120Z</updated>
+        <summary type="html"><![CDATA[Price: $3.99 → $1.99]]></summary>
         <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E7%88%B1%E9%9F%A9%E5%89%A7-%E9%9F%A9%E5%89%A7tv%E5%A4%A7%E5%85%A8/id6447023668?uo=4">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/81/8c/79/818c79a4-f18d-b348-6491-c4404fc05229/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
 </a><h2>
-  Discount Information（Price：<span>$6.99</span> → <b>
-  <strong>$3.99</strong>
+  Discount Information（Price：<span>$3.99</span> → <b>
+  <strong>$1.99</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
   韩剧迷是一个专门为韩剧迷打造的APP，为您提供最新全面的韩剧资讯内容。
