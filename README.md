@@ -143,7 +143,7 @@ So far, we've covered `5` `Countries or Regions` and  `174` `Apps` <br />Push no
 |74|900833042|Fliqlo|Fliqlo|Fliqlo|Fliqlo|Fliqlo|
 |75|1467880680|LEDot|LEDot|LEDot|LEDot|LEDot|
 |76|1455055663|皮皮虾专业版|❌|❌|❌|❌|
-|77|1595901138|NES 模拟器|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|
+|77|1595901138|NES 模拟器 - 吞食天地|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|Handheld Game - NES Emulator|
 |78|1163515895|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账Pro-3秒钟快速记账|鲨鱼记账本Pro-管家理财必备工具|
 |79|754105884|NightCap相机|NightCap相機|NightCap相機|NightCap相機|NightCap Camera|
 |80|1642364007|海拔指南针|海拔指南针|海拔指南针|海拔指南针|Altitude Compass|
