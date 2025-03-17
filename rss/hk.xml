@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-03-17T10:13:18.693Z</updated>
+    <updated>2025-03-17T12:21:19.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,175 +18,87 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-03-17T10:13:18.694Z</updated>
+        <updated>2025-03-17T12:21:19.062Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Resident Evil Village for Mac]]></title>
-        <id>Resident Evil Village for Mac-1742206287581</id>
-        <link href="https://apps.apple.com/hk/app/resident-evil-village-for-mac/id1640627334?mt=12&amp;uo=4"/>
-        <updated>2025-03-17T10:11:27.581Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 288.00 → HK$ 118.00<br/>可下載內容包: HK$ 158.00 → HK$ 79.00<br/>通行證: HK$ 39.00 → HK$ 15.00<br/>Street Wolf 裝束: HK$ 23.00 → HK$ 18.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/resident-evil-village-for-mac/id1640627334?mt=12&uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/16/14/a0/1614a0f9-457e-fb5f-4837-e7bfdfa08999/MacAppIcon-0-0-85-220-0-5-0-2x.png/60x60bb.png" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 288.00</span> → <b>
-  <strong>HK$ 118.00</strong>
-</b>）
-</h2><h3>App 內購買項目</h3><ul>
-  <li>
-    <strong>可下載內容包：</strong><span>HK$ 158.00</span> → <b>
-  <strong>HK$ 79.00</strong>
-</b>
-  </li><li>
-    <strong>通行證：</strong><span>HK$ 39.00</span> → <b>
-  <strong>HK$ 15.00</strong>
-</b>
-  </li><li>
-    <strong>Street Wolf 裝束：</strong><span>HK$ 23.00</span> → <b>
-  <strong>HK$ 18.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  在《Resident Evil》主系列的第8部作品中展開一場令人毛骨悚然的絕命拚搏。
-
-伊森一家的平靜生活又再一次被捲進了混亂之中，而打破這種平靜日常的不是別人，正是克里斯·雷德菲爾。伊森又再一次陷入那無法醒來的噩夢。
-
-經過多年開發，日趨成熟的RE Engine為大家打造了全新的生存「動作」恐怖體驗。
-
-警告：從 Apple ID 登出有可能會使保存資料發生問題。請於問題解決前盡量避免登出。
-啟動應用程式時需連線至網路。
-------------------------------------------------------------
-請務必在購買/使用前閱讀 [ EULA ]。
-■About the End User License Agreement
-・This End User License Agreement (this “Agreement”) applies to the user’s use of this game software program (the “Program”). 
-・THIS AGREEMENT SHALL COME INTO EFFECT BETWEEN CAPCOM CO., LTD. AND USER(S) UPON INSTALLATION OF THE PROGRAM BY THE USER.
-・Those users between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence) or a person with limited capacity shall install the Program only after obtaining approval from its parent or legal guardian who agrees to be bound by these provisions of this Agreement.
-
-Please confirm the terms above and agree to this Agreement before purchasing the Program. 
-------------------------------------------------------------
-
-【注意事項】安裝前請確保有應用程式2倍以上大小的可用儲存空間。
-■已添加透過 iCloud 雲碟進行儲存資料上傳和下載功能。 
-■無法在 MacOS 和 iOS 裝置之間上傳和下載儲存的資料。
-■《Resident Evil Village》並不支援通用購買。
-
-收錄內容
-Resident Evil Village
-「痛苦追憶包」
-·武器「武士之刃：AW Model-01」
-·「尋獲片段」畫面濾鏡
-·RE7 卡式錄音機儲存點
-·安全室的特別背景音樂《Go Tell Aunt Rhody》
-·武器飾品「妙妙先生」
-·立即開放「Village of Shadows」難度
-·藝術圖特典
-·貝克一家調查報告
-求生物資包
-武器飾品「浣熊先生」
-
-App內購買
-溫特斯擴充包
-追加內容「溫特斯擴充包」收錄三大內容：包括能以第三人稱視角遊玩《Resident Evil Village》遊戲本篇的「第三人稱視角模式」、新加入可操控角色及新關卡的「傭兵模式——追加命令」，以及以伊森的愛女「蘿絲」為主角的新故事《蘿絲之影》！
-
-Street Wolf 裝束
-蘿絲服裝「Street Wolf Outfit」
-※只適用於《蘿絲之影》
-
-額外內容商店通行證
-
-購買注意事項
-- 購買之後，將不提供基於任何理由的退貨服務（包括更換其他產品或服務）。
-- App 內購買項目僅供進行購買的 Apple ID 使用，且無法與家人共享群組的成員共用。
-
-有關支援的OS及機種
-https://www.residentevil.com/village/us/mac/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/aa/d5/72/aad5720d-3abd-43d1-4560-251cb5a3b6b2/e4fb12cb-5f2e-4c2c-9fc2-f798dcfa81a7_ss001.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/21/0b/2d/210b2d93-4166-60ef-5156-25eef8e5645d/41dccd52-d484-408d-ba77-771b9b6c9da7_ss002.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/05/32/9e/05329eb7-1e40-a887-f56c-650828630f6b/15619961-45ef-48d3-9a21-1cabfa78ad2e_ss003.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/66/94/09/6694092b-a97b-705f-08ef-24cf6e66fb12/52368a33-2f5b-45f5-b85d-b4eef384179a_ss004.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/de/89/b5/de89b556-b2b5-9699-c383-bffbc54ee32e/089884f4-6d68-4f8c-911b-f3f959a4ed9e_ss005.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/81/0e/38/810e3887-5609-7d71-e7c9-f6cda03003da/a032296b-badb-4400-8554-b0d57169f440_ss006.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/ef/ea/77/efea7734-a453-51a6-1a7e-b1f000083676/5f05ecdc-4c3b-4aba-afcf-9523e52d8386_ss007.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/cb/82/21/cb8221f8-fc74-d6b4-07b5-7b374f1fedb8/726c8d48-cf6e-4b7b-9f23-94ebcecbe67b_ss008.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource113/v4/15/ea/ce/15eaceee-3a13-947b-0488-d57851778bd0/4b5d01a4-48e5-4df2-ade0-236cc463fe4e_ss009.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource123/v4/48/a9/32/48a932e3-b16f-fff5-91d5-50597f6f887a/fc1722a9-b34c-4c9d-ae53-b671af305a2a_ss010.jpg/800x500bb.jpg" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Resident Evil 4]]></title>
-        <id>Resident Evil 4-1742206287581</id>
-        <link href="https://apps.apple.com/hk/app/resident-evil-4/id6462360082?uo=4"/>
-        <updated>2025-03-17T10:11:27.581Z</updated>
-        <summary type="html"><![CDATA[遊戲本體: HK$ 438.00 → HK$ 149.00<br/>額外內容擴充包: HK$ 158.00 → HK$ 118.00<br/>武器專屬強化券 x5 (A): HK$ 78.00 → HK$ 58.00<br/>武器專屬強化券 x3 (A): HK$ 54.00 → HK$ 41.00<br/>武器專屬強化券 x3 (B): HK$ 54.00 → HK$ 41.00<br/>武器專屬強化券 x1 (A): HK$ 23.00 → HK$ 17.00<br/>武器專屬強化券 x1 (C): HK$ 23.00 → HK$ 17.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/resident-evil-4/id6462360082?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/dd/c1/04/ddc104e6-9d45-6306-e9a8-b227d5c0e1da/AppIcon-0-0-1x_U007epad-0-10-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Longshot - Screenshot & OCR]]></title>
+        <id>Longshot - Screenshot &amp; OCR-1742213964312</id>
+        <link href="https://apps.apple.com/hk/app/longshot-screenshot-ocr/id6450262949?mt=12&amp;uo=4"/>
+        <updated>2025-03-17T12:19:24.312Z</updated>
+        <summary type="html"><![CDATA[Pro version lifetime: HK$ 98.00 → HK$ 88.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/longshot-screenshot-ocr/id6450262949?mt=12&uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a0/85/c5/a085c549-adbd-c0e5-ae80-a1c3474ed130/AppIcon-85-220-0-5-0-0-2x-0-0.png/60x60bb.png" />
 </a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
   <li>
-    <strong>遊戲本體：</strong><span>HK$ 438.00</span> → <b>
-  <strong>HK$ 149.00</strong>
-</b>
-  </li><li>
-    <strong>額外內容擴充包：</strong><span>HK$ 158.00</span> → <b>
-  <strong>HK$ 118.00</strong>
-</b>
-  </li><li>
-    <strong>武器專屬強化券 x5 (A)：</strong><span>HK$ 78.00</span> → <b>
-  <strong>HK$ 58.00</strong>
-</b>
-  </li><li>
-    <strong>武器專屬強化券 x3 (A)：</strong><span>HK$ 54.00</span> → <b>
-  <strong>HK$ 41.00</strong>
-</b>
-  </li><li>
-    <strong>武器專屬強化券 x3 (B)：</strong><span>HK$ 54.00</span> → <b>
-  <strong>HK$ 41.00</strong>
-</b>
-  </li><li>
-    <strong>武器專屬強化券 x1 (A)：</strong><span>HK$ 23.00</span> → <b>
-  <strong>HK$ 17.00</strong>
-</b>
-  </li><li>
-    <strong>武器專屬強化券 x1 (C)：</strong><span>HK$ 23.00</span> → <b>
-  <strong>HK$ 17.00</strong>
+    <strong>Pro version lifetime：</strong><span>HK$ 98.00</span> → <b>
+  <strong>HK$ 88.00</strong>
 </b>
   </li>
 </ul><h2>应用描述</h2><p>
-  生還僅是惡夢的開端。
+  ## Annotation and Color Picking
+Conveniently annotate the screen, a great helper for communicating with colleagues, simple and easy to use.
 
-前所未見的生物災害「拉昆市事件」已過去六年。
-成為特務的里昂·S·甘迺迪接獲命令，前往營救被綁架的總統千金。
-為此里昂踏進被「瘋狂」支配之地，他的結局會是……
-一場生與死、恐懼與釋懷互相交織的嚴酷營救劇即將揭開帷幕。
+- Drawing tools, shapes, ovals, lines, arrows, text, marker pen, freehand drawing.
+- Annotation and measurement, mosaic, blur, annotation notes, measure pixel distances, color picking, rich functions.
+- Step annotation, clear expression of ideas, customizable number content
+- Convenient operations, shortcuts, undo, save, open, copy to clipboard, easy and simple.
 
-透過直觀的操作和最新的畫面，以及再構成的故事重生為全新的生存恐怖體驗。
+## Scrolling Capture
+Optimized image stitching algorithm makes scrolling capture adaptable to various environments, easily capture conversation context scrolling up and down.
 
-啟動應用程式時需連線至網路。
-------------------------------------------------------------
-請務必在購買/使用前閱讀 [ EULA ]。
-■About the End User License Agreement
-・This End User License Agreement (this “Agreement”) applies to the user’s use of this game software program (the “Program”). 
-・THIS AGREEMENT SHALL COME INTO EFFECT BETWEEN CAPCOM CO., LTD. AND USER(S) UPON INSTALLATION OF THE PROGRAM BY THE USER.
-・Those users between the ages of 13 and 18 (or between 13 and the age of legal majority in your country of residence) or a person with limited capacity shall install the Program only after obtaining approval from its parent or legal guardian who agrees to be bound by these provisions of this Agreement.
+- Vertical/horizontal/360 degrees, support vertical, horizontal, panoramic scrolling capture, scroll any direction to capture.
+- Non-solid color background/non-scrolling areas, capture area can include non-scrolling objects with non-solid color background, good scrolling capture screenshot stitching.
+- Dynamically adjust scrolling direction/area, can change scrolling direction and readjust capture area after completion for restitching during scrolling.
+- Entire window scrolling capture, hold Option to capture entire scrolling window screenshot, automatic edge area handling.
 
-Please confirm the terms above and agree to this Agreement before purchasing the Program. 
-------------------------------------------------------------
-■不支持鍵盤和滑鼠。
-■本遊戲不需要使用搖桿。但是本遊戲已根據搖桿最佳化，所以我們仍建議您使用。
-注意：請參閱 Apple 網站以了解與 iPad 相容的控制器。有些控制器可能無法如預期般運作。
-■您可以免費玩遊戲本體的一部分。
-要玩完整遊戲，請於程式內購買。 
-■此應用程式大小約為 30 GB。
-【注意事項】安裝前請確保有應用程式2倍以上大小的可用儲存空間。
-我們建議在網路連線良好的環境中下載資料。
-根據連線速度估計的下載時間：
-10Mbps - 超過 6 小時
-100Mbps - 30 至 40 分鐘
-300Mbps - 8 至 10 分鐘
-■已添加透過 iCloud 雲碟進行儲存資料上傳和下載功能。 
-■可在 MacOS 和 iOS 裝置之間上傳和下載儲存的資料。
+## OCR Text Recognition
+Offline OCR algorithm with emphasis on privacy protection. Quickly extract text from images, videos, documents or anywhere.
 
-警告：從 Apple ID 登出有可能會使保存資料發生問題。請於問題解決前盡量避免登出。
+- Select screen area, recognize text, copy to clipboard, paste to notes, editors, messages etc.
+- Support QR and barcode recognition, quickly open corresponding links.
+- Support text-to-speech playback of recognized text.
 
-購買注意事項
-- 購買之後，將不提供基於任何理由的退貨服務（包括更換其他產品或服務）。
-- App 內購買項目僅供進行購買的 Apple ID 使用，且無法與家人共享群組的成員共用。
+## Screen Element Measurement
+Quickly measure any content on screen, automatically recognize distances and element sizes.
 
-有關支援的OS及機種
-https://www.capcom-games.com/apple/zh-hant/
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/7b/fe/b2/7bfeb254-9709-2ee6-e700-cfa59502399c/91bdff9d-b97f-4eb8-b875-10b150a6cca8_01_iPhone_2208x1242_SC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6f/52/07/6f52070c-480f-3a5a-392c-56d2b043a60e/e4c24298-cfe6-4688-b198-15ee6cde51b8_02_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ea/ef/4a/eaef4aa5-5ce5-47b8-6830-bb3aa20f1490/9f124a4b-7826-498f-9c4c-0783926458a2_03_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/30/a7/a9/30a7a974-a3bb-56a5-83fe-fb83be51c9b8/13ffb0de-bc9f-4b16-a13e-6dcf08212ea1_04_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/93/0f/aa/930faa0f-333c-49da-540d-736c35c5c569/0721138b-010a-40cc-b839-cb37bb0f02fd_05_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e6/e7/60/e6e76070-5229-8727-5614-997854029056/ae0e28e8-614c-4474-a5e3-e16580caf5bc_06_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/18/d9/3e/18d93ec6-cd03-2701-d40a-99935459eeaa/9fa119a6-6cf6-46be-864d-adf9a3f7ae8f_07_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e6/34/d9/e634d927-f33e-ab09-65f6-9b23aa463f84/f568ec5d-7503-48a5-834c-b7c1b1031562_08_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/95/da/31/95da31a4-ccde-7576-ddba-d3d1dee0320c/23cff6f9-caac-4a87-b2c0-e0581dee6705_09_iPhone_2208x1242_TC.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/36/fd/c2/36fdc2ac-d936-06f6-7a2d-406921365610/031e8fb1-dae8-4e5e-b8cd-1bba12ae8b89_iPhone55_10.PNG/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e7/e5/73/e7e57396-8d89-6fc0-9839-03f6f4fe7356/51dcfc6a-2d2e-406a-91d2-34641e9b6b19_01_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/28/0c/23/280c231a-dc7b-d15b-d2a0-a712e1db76ff/b788954f-84cb-4631-9724-aafb4eb16a4f_02_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2c/3d/1c/2c3d1c4b-c9b1-1e0c-8653-229e9191e599/df145c7b-e52d-430e-b14c-360465db3026_03_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/a1/64/b8/a164b88d-1b47-59b1-13db-8ecee06e4948/9c19f40c-06ce-4866-9917-0e5df3568f77_04_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/6a/f7/50/6af7508b-6342-a702-101d-4ea71579256a/4b661e85-95b5-42b4-ae56-6d359933ab08_05_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8c/88/42/8c88426a-251d-1f90-5eca-ad5e8550de5f/45c04cc0-b4f5-46cd-8448-a826f972fa80_06_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/c4/c9/fb/c4c9fb32-24c4-13e4-db27-e5f5945d1bb6/6f4be4b2-9740-4eb1-9421-b9593a8da8a4_07_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/89/f9/cd/89f9cd2b-05ce-6ba8-0625-252b9eecff84/197568df-677e-40b7-9c95-79207936a247_08_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/3e/33/c9/3e33c94b-14bc-41d2-6c5d-699b3fbe185b/9b0ceee9-51d0-4cd0-8854-bd0decb2d944_09_iPad_TC.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ad/5f/9b/ad5f9b7b-6229-1243-2c60-3d985fa0c28d/1a35660f-3eaa-4102-b3d3-35b1fb69611c_iPad_10.PNG/552x414bb.png" />]]></content>
+- Measure distance, automatically recognize distance between elements or objects on screen, annotate distance.
+- Measure element, just select approximate element area, can automatically snap to element and annotate size.
+- Support distance and element edge color tolerance adjustment for more precise localization.
+
+## Image Pinning
+Turn images, text from anywhere into desktop pins for convenient comparison.
+
+- Clipboard pinning, pin images, text, HTML etc. from clipboard to desktop.
+- Double-click pinned image, double-click pinned image or open pinned image on desktop to view.
+- Pinned image scrolling, scroll pinned image, double-click to close or minimize, support flipping and mirroring etc image operations.
+
+## Screen Recording
+Quickly record steps, one click to record full screen, selected area or window for easy sharing.
+
+- Support full-screen, region and window recording, application recording.
+- Support system sound, microphone recording, frame rate settings etc.
+
+## Window Capture
+Select window to highlight subject, make capture area better convey intent.
+
+- Intelligent window recognition, automatically highlight window mouse is in.
+- Multiple window combinations, hold Shift to select multiple windows for combined capture.
+
+## Contact
+Full introduction: https://longshot.chitaner.com
+Email: office.chitaner@gmail.com
+QQ group: 780402788
+
+## Purchase
+Lifetime license of Longshot Pro allows unlimited screenshot scrolling, step annotation, element measurement and sizing annotation, OCR text recognition, custom hotkeys - unlock all current pro features.
+
+-------------------------------------------------------
+Privacy Policy: https://longshot.chitaner.com/privacy/
+Terms of Use: https://longshot.chitaner.com/terms/
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4e/71/1b/4e711bdc-3773-cd52-d49f-b122d2b58d08/en_page_1.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c6/9f/e1/c69fe102-71d6-1041-77ff-5826371c0cc5/en_page_2.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/41/48/aa/4148aa0d-72c4-3897-31ff-83d421d8b53f/en_page_3.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/12/84/c4128495-b08a-f436-58aa-2ab52d0117d1/en_page_4.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7d/d6/b1/7dd6b183-8a04-4762-1b49-e1a645bcd1f5/en_page_5.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c7/9d/54/c79d5475-668c-fd73-f2ec-f9daec3c78ee/en_page_6.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/4c/e4/30/4ce4305c-a706-c41a-c34b-ba664a8f2128/en_page_7.jpg/800x500bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/b2/46/a3b246bc-7960-59d2-f690-7fe27d8f97fa/en_page_8.jpg/800x500bb.jpg" />]]></content>
     </entry>
 </feed>
