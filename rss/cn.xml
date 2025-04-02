@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-04-02T03:32:31.158Z</updated>
+    <updated>2025-04-02T14:12:19.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,50 +18,63 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-04-02T03:32:31.159Z</updated>
+        <updated>2025-04-02T14:12:19.402Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[金十数据专业版-为交易而生]]></title>
-        <id>金十数据专业版-为交易而生-1743564426119</id>
-        <link href="https://apps.apple.com/cn/app/%E9%87%91%E5%8D%81%E6%95%B0%E6%8D%AE%E4%B8%93%E4%B8%9A%E7%89%88-%E4%B8%BA%E4%BA%A4%E6%98%93%E8%80%8C%E7%94%9F/id1197275827?uo=4"/>
-        <updated>2025-04-02T03:27:06.119Z</updated>
-        <summary type="html"><![CDATA[VIP会员  3个月: ¥998.00 → ¥1,288.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E9%87%91%E5%8D%81%E6%95%B0%E6%8D%AE%E4%B8%93%E4%B8%9A%E7%89%88-%E4%B8%BA%E4%BA%A4%E6%98%93%E8%80%8C%E7%94%9F/id1197275827?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/6d/17/68/6d176879-484a-1171-82cf-c3a831a22940/AppIcon-0-0-1x_U007emarketing-0-7-0-0-sRGB-85-220.png/60x60bb.jpg" />
-</a><h2>优惠信息</h2><h3>App 内购买项目</h3><ul>
-  <li>
-    <strong>VIP会员  3个月：</strong><span>¥998.00</span> → <b>
-  <strong>¥1,288.00</strong>
-</b>
-  </li>
-</ul><h2>应用描述</h2><p>
-  金十数据致力于成为国内专业的财经新闻软件和交易工具。提供全球7x24小时财经资讯，实时推送外汇、期货、A股、原油、贵金属、黄金、美股港股等财经快讯与行情报价，助力投资者更快更准地进行交易。
-【财经快讯】
-专属推送：自定义订阅内容，推送专属财经新闻快讯；
-快讯分类：增加外汇、黄金、原油、美港股、A股股票和期货等快讯分类；
-速度更快：坚守7x24小时财经快讯，致力于提供更快更全的金融市场消息。
-【市场参考】
-分类更精：为您分类鱼龙混杂的新闻，更贴近交易者的需求。
-内容更优：金融市场一线头条新闻，深度优质财经好文，专业独家财经视频节目。
-【行情走势】
-新增商品外汇、A股与期货分类，交易品种覆盖更全！加入自选快速浏览所关注的品种。
-【财经日历】
-罗列每日重点财经数据或事件，开启定时提醒，重点交易行情不容错过。
-【数据中心】
-全球重要财经数据报告，新增自定义订阅报告功能，全新图表样式简洁清晰。
-【视频栏目】
-包括《伦敦交易者》《脱水期货》《海外交易员观点》《一杭说数据》《交易学院》等财经深度分析栏目，也有《嗨指数天团》《进击吧女神》《老板说的对》《数据可视化》等有趣好玩的泛财经视频栏目。
-【其他】
-金十数据在今日头条、新浪财经、一点资讯、搜狐新闻、网易新闻、腾讯新闻、UC新闻、百度新闻等热门新闻平台已有成熟的媒体号，每天同步更新优质原创财经新闻，捕捉新消息大事件，多渠道提供更全的财经资讯。
-【联系我们】	
-微信公众号：金十数据
-新浪微博：金十数据——https://weibo.com/igoldman
-客服电话：020-89635666
-客服QQ：800185710
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/04/72/31/04723172-f55b-fdba-fb5c-a8c2d248b08b/ebfc696d-63bd-456b-8e04-4ec96f48b7af_1242-2208-1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/54/f3/6054f37d-f1d9-8c33-22ab-fdc9d3df1ef8/da6f9bee-67a4-4aa9-ad40-c6233cf43f8b_1242-2208-2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ad/c6/06/adc60683-b6e5-5d87-ea43-d591ed306246/d76ef2e1-fccb-40b6-ac5e-1d4659817e35_1242-2208-3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/95/8a/22/958a22b3-8ee0-d009-c047-85ca482063e9/63cc8bb2-6039-4377-936a-4cf2320cb140_1242-2208-4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/aa/bb/c9aabb1d-6d17-2e05-d4e7-7eebddcf6dfb/65d2dda4-23f0-4d70-8967-9a7cf689818e_1242-2208-5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/65/09/6d/65096db0-346d-3715-e1b7-14d791cb53b5/6129f390-8763-404c-bd09-34a0b4fbb3f2_1242-2208-6.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/3d/81/22/3d8122f9-eb2b-97ce-be3d-4a2173921035/cf1c1b0b-8104-407f-a812-f3f948185563_IPAD-1_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/14/0b/9d/140b9db4-0a55-4e45-2013-fa540cd4e9fd/3be1ced9-c566-46db-879f-6558e44d2791_IPAD-1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/6b/23/10/6b2310e0-a622-2504-573a-77f17beb46d3/c5988a45-3386-4606-b563-da0c22ba2788_IPAD-2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ad/71/cc/ad71cccf-a971-a395-35eb-15761ca30af5/d76ef618-752d-4379-8978-aaf171b977ed_IPAD-3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/44/49/5d/44495dcb-11f8-8f89-d126-cffd91b02a74/b97c27c6-48fb-4c84-8e56-ddf6bb5c5931_IPAD-4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/12/e8/e1/12e8e16c-a2e9-241d-80ef-3bba185c5dcf/c3285849-6cce-4710-a87e-3a177371c562_IPAD-5.png/552x414bb.png" />]]></content>
+        <title type="html"><![CDATA[时间轴-全球历史]]></title>
+        <id>时间轴-全球历史-1743603028154</id>
+        <link href="https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E8%BD%B4-%E5%85%A8%E7%90%83%E5%8E%86%E5%8F%B2/id818394449?uo=4"/>
+        <updated>2025-04-02T14:10:28.154Z</updated>
+        <summary type="html"><![CDATA[价格: ¥28.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%97%B6%E9%97%B4%E8%BD%B4-%E5%85%A8%E7%90%83%E5%8E%86%E5%8F%B2/id818394449?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/b7/a6/ec/b7a6ec8f-0fe7-2917-0aaf-237ee83bb763/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥28.00</span> → <b>
+  <strong>免费</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  跨越万年，从石器时代到21世纪，重大历史事件一一展现在您面前，更有平行时间轴让您更直观的查看全球历史。
+游戏玩累了，剧集追完了，找个时间看看我们世界真实的历史，也许您会发现些不一样的东西。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/e1/20/62/e1206290-0866-071d-2252-786a2be16917/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/e4/39/98/e439984a-4153-1d09-ea3f-19b8726f180e/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/b5/eb/04/b5eb045e-4b53-a536-b2be-415e42d1aa03/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/94/28/2e/94282ee4-4305-87c6-1349-6d5e49f6f8ea/mzl.dljnmwwg.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/33/33/83/333383b1-2b44-863d-3250-9a6b486c3991/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/a3/5d/a9/a35da9c5-7411-4241-aaa4-ba5732b76fad/pr_source.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/c1/88/ec/c188ec68-dfe2-aa81-725e-f309897f953e/mzl.nrqplopd.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/bf/08/09/bf0809a0-264f-5f2a-b2dc-b97e5e9ed41c/pr_source.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[笼中窥梦]]></title>
+        <id>笼中窥梦-1743603028154</id>
+        <link href="https://apps.apple.com/cn/app/%E7%AC%BC%E4%B8%AD%E7%AA%A5%E6%A2%A6/id1584313012?uo=4"/>
+        <updated>2025-04-02T14:10:28.154Z</updated>
+        <summary type="html"><![CDATA[价格: ¥25.00 → ¥18.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%AC%BC%E4%B8%AD%E7%AA%A5%E6%A2%A6/id1584313012?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0d/e0/66/0de0660e-222b-b9bc-66d8-5fb98d4567a0/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥25.00</span> → <b>
+  <strong>¥18.00</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  《笼中窥梦》是一款「视错觉」解谜游戏，由两人工作室Optillusion开发完成。
+
+游戏的内容全部包含在一个神秘的立方体中，立方体的每个面都是一个独立的世界：工厂，灯塔，游乐园，教堂等等，他们之间看似毫不相关，实则交错万千，充满了意想不到的关联……
+
+【烧脑视错觉解谜】
+发挥你的脑洞与想象力，找到那些平凡场景与物体之间的联系，产生意想不到的奇妙互动，拼接，然后见证奇迹诞生。
+
+【收集照片拼凑故事】
+谜题背后，游戏还有一个等待着被玩家们发现并反转的故事。通过收集照片拼凑故事，试着解开它隐藏的真相吧。
+
+【多重提示杜绝卡关】
+游戏包含多种解谜引导机制，包括最基础的「视觉引导」，帮助你快速定位关键物品；而「文字提示」则可以帮你整理解谜思路；最后还有「视频提示」，用终极手段保证你绝不会卡关。
+
+【拿下奖章证明实力】
+游戏拥有 15 个成就，每个成就都对应着一个根据剧情设计的独特奖章。如果你是解谜游戏达人，那就用这些奖章来证明自己吧~
+
+【联系我们】
+玩家1群：626570283（已满）
+玩家2群：912766585
+官方微博：@心动网络 、@笼中窥梦-Moncage
+官方邮箱：moncagethegame@gmail.com
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/60/96/c9/6096c967-0a20-cdf0-410d-509a6a1915e8/59c11ec4-0475-4edb-9fd3-161fccc3192e_001.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/19/f4/d6/19f4d654-3dc5-4655-47d4-fe0cf17ff615/c70be9f9-25dc-4e98-a90a-0de3f64fb9b7_002.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/ca/59/19/ca5919aa-a7f7-70b1-7ea8-f2f30f771362/8779e75c-b294-4e35-b5e9-8b2e07c619be_003.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f8/36/aa/f836aac5-8c84-c816-290a-cd5c4bf2a0d4/1e335283-4ac7-43a6-a6c3-7ec1091bbbe8_004.jpg/406x228bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/e5/59/31/e559311e-4567-4c3e-3af2-ef377fed5ac1/25d6fea3-9030-435c-b849-c15a4fa4f0bd_005_Uff08_U4e2d_U6587.jpg/406x228bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8e/f2/c0/8ef2c061-edf3-a13b-9549-d3e079c3a9da/49fac2f4-284d-4b71-a1e3-49b4b16dcf78_001.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/68/5a/6b/685a6b5f-f76e-e981-bd0a-5050e1e9ec89/f34c5fd6-35cd-4c32-bc98-f9fb5d4e5a60_002.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/2e/be/a2/2ebea2d2-a56b-4194-87d9-424a0c2b9c40/66f1e6e4-f871-47d0-be81-a324a36842a0_003.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/cc/a7/54/cca7545c-afe2-d35b-c123-72d026bf5bd5/4a47efdf-c9ef-41db-a7eb-396b6d247383_004.jpg/552x414bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/74/a8/e8/74a8e89c-7cf4-a891-39c4-ce6270a04a76/1136fedd-d2f3-40b6-873d-24e7ecc8967a_005_Uff08_U4e2d_U6587.jpg/552x414bb.jpg" />]]></content>
     </entry>
 </feed>
