@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-04-09T14:13:19.780Z</updated>
+    <updated>2025-04-13T14:11:10.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,156 +18,74 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-04-09T14:13:19.781Z</updated>
+        <updated>2025-04-13T14:11:10.495Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Phone Drive - 云储存管理和文件共享]]></title>
-        <id>Phone Drive - 云储存管理和文件共享-1744207883641</id>
-        <link href="https://apps.apple.com/cn/app/phone-drive-%E4%BA%91%E5%82%A8%E5%AD%98%E7%AE%A1%E7%90%86%E5%92%8C%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB/id431033044?uo=4"/>
-        <updated>2025-04-09T14:11:23.641Z</updated>
-        <summary type="html"><![CDATA[价格: ¥28.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/phone-drive-%E4%BA%91%E5%82%A8%E5%AD%98%E7%AE%A1%E7%90%86%E5%92%8C%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB/id431033044?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/90/57/d9/9057d916-66aa-5e37-d117-028dff180d0e/AppIcon-pro-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[电影精灵 - 专业视频编辑和电影制作]]></title>
+        <id>电影精灵 - 专业视频编辑和电影制作-1744553330770</id>
+        <link href="https://apps.apple.com/cn/app/%E7%94%B5%E5%BD%B1%E7%B2%BE%E7%81%B5-%E4%B8%93%E4%B8%9A%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%92%8C%E7%94%B5%E5%BD%B1%E5%88%B6%E4%BD%9C/id1020541183?uo=4"/>
+        <updated>2025-04-13T14:08:50.770Z</updated>
+        <summary type="html"><![CDATA[价格: ¥68.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E7%94%B5%E5%BD%B1%E7%B2%BE%E7%81%B5-%E4%B8%93%E4%B8%9A%E8%A7%86%E9%A2%91%E7%BC%96%E8%BE%91%E5%92%8C%E7%94%B5%E5%BD%B1%E5%88%B6%E4%BD%9C/id1020541183?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/58/aa/8f/58aa8fc3-3ede-5036-6576-4f920c5138f3/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥28.00</span> → <b>
+  优惠信息（价格：<span>¥68.00</span> → <b>
   <strong>免费</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  介绍Phone Drive - 文件管理：将您的iOS设备转变为便携的无线闪存驱动器。
+  只需一次付费，即可终身免费使用！
 
-通过Phone Drive，您可以轻松存储、查看和管理iPhone或iPad上的本地或云端文件。通过WiFi网络，从任何Mac或PC连接到Phone Drive，并通过从Finder或Windows资源管理器进行拖放操作来传输文件。
+【客服微信】加微信(MovieSpiritApp)，让我们一对一解答您的疑问!
+您想制作属于自己的微电影吗？
+您想当导演、制片、主演......吗？
 
-在单个应用程序中管理多个云存储帐户的便利功能。直接从云端下载、上传、查看甚至直接流式传输视频或音乐。
+在电影精灵中，这些角色可以全部由您一个人搞定！
 
-Phone Drive拥有一套全面的功能，包括文档查看器、PDF阅读器、音乐播放器、图像查看器、语音记录器、文本编辑器、文件管理器以及支持多种文件操作，如删除、移动、复制、电子邮件、共享、压缩、解压等。
+通过电影精灵，您可以把各种媒体素材如视频、照片、音乐、文字、录音以及手指涂鸦等，按照您的创意，把它们编辑组合在一起，并给它们添加各种特效（场景切换特效、文字动画、滤镜特效、片头、蒙版、移动马赛克等），创作出属于您自己的微电影。
 
+主要功能：
 
-*** 主要特点 ***
-• 支持云存储：
-支持连接多个Dropbox、OneDrive、Box Drive、FTP、WebDAV、Yandex Disk和iCloud Drive存储帐户（需要额外的应用内购买）。
-
-• 多媒体播放器：
-能够在应用中创建自己的音频播放列表，包括重复、随机播放、后台播放以及多任务下的远程控制。可以直接从云端存储流式传输视频和音乐。
-
-• 文档阅读器：
-支持MS Office、iWork、文本和HTML文件。
-
-• 文件操作：
-轻松移动、复制、重命名、删除、压缩、解压、解压RAR、创建文件和文件夹。
-
-• 文件共享：
-通过蓝牙或Wi-Fi与其他iPhone/iPad设备共享文件，自动搜索附近可用设备。
-
-• 简便文件上传：
-通过PC/Mac Web浏览器进行拖放文件上传，或通过iTunes使用USB进行上传。
-
-• 文本编辑器：
-内置文本编辑器，可在iOS设备上编辑文本文件或源代码。
-
-• 导入/文件创建：
-能够创建文本文件、图像截图、视频录制、语音记录并导入照片库中的图片。
-
-• 密码锁定：
-能够保护您的文件免受他人查看。支持使用TouchID和Face ID解锁Phone Drive的选项。
-
-• 通用性：
-该应用程序适用于iPhone和iPad，只需购买一次。
-
-
-*** 音频播放器 ***
-• 以播放列表形式播放所有MP3文件。
-• 可重复和随机播放歌曲。
-• 支持后台音频播放。
-• 支持多任务音频远程控制。
-• 云存储音乐流式传输。
-
-
-***可查看的格式***
-Phone Drive支持以下格式：
-
-• 音频（WAV，MP3，M4A，CAF，AIF，AIFF，AAC）
-• 图片（JPG，PNG，GIF，BMP，TIF，TIFF，ICO）
-• 电影（MP4，MOV，MPV，M4V）
-• iWorks（Pages，Numbers和Keynote）
-• 微软办公套件（Word，Excel和PowerPoint）
-• RTF（富文本格式）
-• RTFD（带有嵌入图像的TextEdit）
-• PDF文档
-• 纯文本
-• 源代码
-• HTML网页
-• 网页存档
+- 可剪裁、分割、合并、剪切、 缩放、翻转、变形各种媒体素材
+- 叠加多层视频图片素材 （画中画效果），视频图片数量没有限制
+- 专业的视频比例选项，可伸缩时间轴（逐帧），无限轨道图层
+- 添加各种蒙版 （线性蒙版、矩形蒙版、圆形蒙版、文字蒙版和路径蒙版）来隐藏或者显示影片的各个部分
+- 可视频抠像， 去掉视频背景
+- 可快速抠图（钢笔工具、套索工具、涂抹工具和文字工具等自定义形状抠图工具）
+- 绿幕或蓝幕视频可一键去除背景
+- 多达50多种特效可添加，如高斯模糊，雪花，雨滴，气泡，地震，烟花，烟雾，漩涡，火焰，星空等特效
+- 溶图
+- 快进、慢放（1/12慢速至16倍速），倒放视频 
+- 文字转语音功能 （几十种语言选项）
+- 360度旋转影片
+- 多种混合图像模式
+- 各种字体、文本模版、文字颜色、竖排文字、表情符号、阴影、文字描边、对齐等，支持从互联网、iCloud下载新字体；
+- 内置多种风格的免费配乐和音效，可添加电脑上的音乐或者iTunes里的音乐，还可提取并导出视频里的音频
+- 给视频配音录音
+- 直接在影片上用手指绘画涂鸦，有多种辅助画图形状工具供选择如直线、曲线、箭头、圆形、方形、多边形、 心形、 七彩文字等
+- 简单自动跟踪功能
+- 添加移动式马赛克
+- 可自定义影片背景颜色，如纯色、渐变色、拾取图片颜色等
+- 可添加几十种动画效果
+- 可调整素材亮度、对比度、饱和度、色阶、曝光、白平衡、伽玛等
+- 创建自己的GIF动画
+- 私人定制特效片头（需另外购买）
+- 多达80种滤镜特效 （素描、漫画、鱼眼、放大镜、背景模糊、晕影、运动模糊、旋转模糊、移轴镜、虚化、锐化、漩涡、各种颜色滤镜等）
+- 多达60种场景切换效果可选择
+- 可给视频／照片设置各种几十种外观形状如圆形、心形、钻石、星形、各种不规则形状等，甚至是自定义独一无二的形状
+- 可设置叠加视频／照片的透明色（Chroma Key)，比如去除照片中纯色背景色 （绿幕蓝幕抠像）
+- 能把视频／照片变黑白，把需要突出的部分还原色彩突出出来（Color Splash)
+- 能自由变形视频／照片成不规则形状
+- 给视频／照片／文字添加运动点，使它们动起来，缩放、旋转和移动结合起来可创建出各种各样的绚丽效果，如淡入淡出效果、多重幻影效果等；
+- 实时预览，高分辨视频输出
+- 可通过Wi-Fi直接从电脑导入多媒体素材：视频、照片、音乐和GIF动画等
+- 可直接保存并分享影片到社交网络，如云盘、微信、QQ 、抖音、Instagram、Facebook等
 
 
-了解更多关于Phone Drive的信息：
-网站: https://sixbytes.io
-Twitter: https://twitter.com/SixbytesApp
-Facebook: https://www.facebook.com/sixbytesapp
-
-有关详细信息，请查阅我们的服务条款和隐私政策：
-• 服务条款: https://sixbytes.io/assets/terms-of-service.pdf
-• 隐私政策: https://sixbytes.io/assets/privacy-policy.pdf
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/03/a7/8403a7ae-17e4-4f50-1aff-8514be299fb8/84d36d5a-b310-444b-a0af-60f6c32c5ffe_1242x2208bb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/b6/d5/19b6d500-384e-ad9f-7fc8-6d53755f8f15/c39c2110-24fa-4711-8349-0517f05304ed_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7e/c3/33/7ec333b3-c3d1-0746-173b-462436afa94f/1cc605a0-f308-421b-8e32-67823d8b5602_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/d6/0f/9ed60f79-d022-84ca-20f6-955733b79d5e/edc185bd-7739-4a6f-97cb-683bf2541611_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/11/43/2b/11432bd7-878f-edf9-52ae-ce1a97db214b/ad09d97f-aedf-4603-8502-0fb713f1114f_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8b/1a/03/8b1a03ad-a31d-6f98-558e-eb70a0dcf3e9/cee51a0d-f5f8-4513-9acf-199c8a7635ee_5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b1/ad/c5/b1adc5a6-b7ac-d442-f6bf-e38295c2d3f8/1854614e-1ec3-45f8-a4c3-639b0a797a8f_2048x2732bb.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/8e/fa/7a8efac4-c50a-1368-0152-ddee81034c52/d8af59de-b186-4dd7-a11b-edb399177224_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/54/e3/b954e3e2-3cff-88cf-e68e-3ae146d94774/fd7e5eb8-9c63-40f4-94e0-5825c1be37d0_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2b/6f/b2/2b6fb2b4-69ed-3e45-2feb-d81e75a95732/71fa9f88-77cf-43f3-9436-6dc7e9577ef8_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0f/c2/bd/0fc2bd4e-959a-ce1a-f78d-5f0a5db1309d/1de5266b-b874-4c55-971f-a6c3d2b5e74d_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d5/6d/c9/d56dc9bc-ed7d-162c-208c-6f4565d68778/f88817e0-28ff-4ec0-96bf-8d9df38f927f_8.png/576x768bb.png" />]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iSleeper - 梦话鼾声记录与睡眠监测]]></title>
-        <id>iSleeper - 梦话鼾声记录与睡眠监测-1744207883641</id>
-        <link href="https://apps.apple.com/cn/app/isleeper-%E6%A2%A6%E8%AF%9D%E9%BC%BE%E5%A3%B0%E8%AE%B0%E5%BD%95%E4%B8%8E%E7%9D%A1%E7%9C%A0%E7%9B%91%E6%B5%8B/id1622341132?uo=4"/>
-        <updated>2025-04-09T14:11:23.641Z</updated>
-        <summary type="html"><![CDATA[价格: ¥38.00 → 免费]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/isleeper-%E6%A2%A6%E8%AF%9D%E9%BC%BE%E5%A3%B0%E8%AE%B0%E5%BD%95%E4%B8%8E%E7%9D%A1%E7%9C%A0%E7%9B%91%E6%B5%8B/id1622341132?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/21/23/d1/2123d153-d833-8756-eaed-48493c0e10b1/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-85-220.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>¥38.00</span> → <b>
-  <strong>免费</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  iSleeper只需要您的手机即可完成睡眠监测，通过神经网络算法能够准确地记录用户的睡眠习惯和睡眠周期。
-
-◎ 睡眠录音
-我们按照时间轴来展示您的睡眠录音，以最大限度地重现睡眠，我们记录了多种睡眠声音，包括鼾声、梦话、磨牙、走动、咳嗽、喷嚏、翻身、叹息、猫叫、狗叫、鸟叫、鸡叫等，且所有的录音文件只保存在您的手机内，您无需担心您的睡眠录音被泄露。
-
-◎ 智能闹钟
-iPhone上的iSleeper闹钟支持浅睡唤醒、贪睡、声控关闭贪睡闹钟，我们将在设定的时间范围内当您处于浅睡眠时将您唤醒，并且您可以声控关闭贪睡闹钟，再睡一会儿直到最终闹钟响起，最终闹钟需手动关闭。（详见 “我的”->“闹钟设置）
-Apple Watch上的iSleeper闹钟支持浅睡唤醒，我们将在设定的时间范围内当您处于浅睡眠时将您唤醒。
-
-◎ 睡眠监测
-我们采用了神经网络算法更精准地分析您睡眠周期，来生成睡眠监测图，还包括您的睡眠评分、睡眠时长、卧床时长、入睡用时、醒来时长、醒来次数、睡眠目标完成度、清醒时间、快速动眼时间、核心睡眠、深度睡眠等。
-若您佩戴了Apple Watch分析页面将生成睡眠心率变异性、睡眠心率、睡眠呼吸频率、睡眠血氧、睡眠环境音量等详细图表数据。
-
-◎ 统计全面
-在统计页面您可以方便地按照周、月、年来查看你的睡眠趋势。
-在统计中还加入了最佳睡眠日与最差睡眠日功能，您可以更加清晰地查看相关睡眠日的信息。从趋势中了解并分析影响睡眠的因素，从而来改善睡眠。
-
-◎ 自动追踪睡眠
-如果您睡觉时佩戴了Apple Watch，只需要开启睡眠模式，无需打开iSleeper便可以自动生成每一晚的睡眠记录
-
-◎ 关于隐私保护
-我们以最大程度的努力来保证您的隐私安全，您的睡眠录音只会留在您的手机中。
-本应用只需要少量的应用权限，如消息推送，麦克风，部分健康数据写入与读取。 
-
-◎ 欢迎联系我们
-你可以通过以下方式找到我们
-- 电子邮箱: femobisleeper@gmail.com
-- 小红书: iSleeper
-
-非常期待听到您的建议，您的肯定与建议是我们最大的动力！
-
-◎ 订阅价格和条款
-iSleeper可以免费下载，升级到 iSleeper Pro 版本，解锁所有付费功能（原付费下载用户将自动解锁所有功能）
-我们提供一次性购买、按月和按年自动续订三种不同的购买选项。
-按月或按年订阅的说明：确认并支付后，将通过你的苹果 iTunes 账号自动续订。扣费成功后，顺延一个订阅周期。若需退订，请在当前订阅期结束前至少24小时内，手动在 iTunes / Apple ID 设置管理中关闭自动续费功能。试用期内，如不取消订阅，则会在试用期结束时自动开通订阅并扣款。本服务由您自助选择是否取消，若您选择不取消，将为您开通下一个计费周期的续费服务。
-
-◎ 健康建议的免责声明
-iSleeper提供的所有信息和建议不可以被视作医疗建议或诊断，请勿替代专业的诊断和治疗。
-
-◎ 服务条款和隐私条款
-- 服务条款：https://isleeper.1008tv.com/terms.html
-- 隐私政策：https://isleeper.1008tv.com/privacy.html
-</p>]]></content>
+如果您有任何问题或反馈，请直接发邮件到verytools2006@gmail.com，或通过微信联系我们(MovieSpiritApp)，我们会尽快答复您。谢谢！
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/b6/84/c1/b684c14b-0ab9-0731-a440-85f7785d5818/mzl.nhqldhwc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/e6/5f/e1/e65fe112-3cf1-2a06-4bad-f170e6b927f4/mzl.egmrhbuk.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/38/e1/af/38e1af9c-4945-e6e1-ec8b-83fd5e3d3265/mzl.pwazltxe.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/89/4c/85/894c8549-ef29-42b1-9008-4131b3a08e28/mzl.bosppwem.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/15/51/54/15515482-407f-42f7-3f92-11f4a3812745/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/8f/9e/25/8f9e25a6-899b-f8f4-2040-153d6b7d74df/mzl.rugzbulj.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/34/97/39/349739e6-7335-f6c7-1ced-087f8da58a40/mzl.ldgsltta.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/44/e8/8c/44e88cd2-d217-731b-39b8-f00034a6be31/mzl.uihwdfls.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/29/f5/d6/29f5d6df-301d-d9c9-98f5-7052efdf1ec0/mzl.lqfnlnfz.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/dd/28/fd/dd28fd46-2192-9fad-5052-6de96835b1f0/pr_source.jpg/576x768bb.jpg" />]]></content>
     </entry>
 </feed>
