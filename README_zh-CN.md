@@ -124,7 +124,7 @@
 |55|818394449|时间轴-全球历史|时间轴-全球历史|时间轴-全球历史|时间轴-全球历史|Timeline - World history|
 |56|1391571907|Fine修图|Fine修圖|Fine修圖|Fine修圖|Fine - Photo Editor|
 |57|6499125531|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|完蛋！我被美女包围了！|
-|58|1485101937|Juice Watch|Juice Watch|Juice Watch|Juice Watch|Juice Watch|
+|58|1485101937|JW: Battery Alert Notification|Juice Watch|Juice Watch|Juice Watch|Juice Watch|
 |59|703265535|FocusDots · 专注于当下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · 專注於當下|FocusDots · Focus What Matters|
 |60|6479307181|灵体侦测器|靈體偵測器|靈體偵測器|靈體偵測器|Ghostly Detector|
 |61|488674899|雨雷達-實時天氣圖。 亞洲和中國。°|雨雷達 ° -實時天氣圖|雨雷達 ° -實時天氣圖|雨雷達 ° -實時天氣圖|RAIN RADAR °- sky weather NOAA|
