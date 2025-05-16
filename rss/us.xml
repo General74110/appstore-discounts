@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/us.xml</id>
     <title>App Store Discounts（US）</title>
-    <updated>2025-05-16T00:58:37.404Z</updated>
+    <updated>2025-05-16T03:42:05.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,40 +18,66 @@
         <title type="html"><![CDATA[🎉 Welcome to subscribe to App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-16T00:58:37.404Z</updated>
+        <updated>2025-05-16T03:42:05.970Z</updated>
         <summary type="html"><![CDATA[Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!]]></summary>
         <content type="html"><![CDATA[<p>Thank you for subscribing to our RSS feed. We are a community-driven project dedicated to bringing the latest App Store discount information to users worldwide. Our goal is to ensure that every user can stay up-to-date with the promotional activities of their favorite apps, whether it's price reductions on the apps themselves or limited-time promotions for in-app purchases. We will cover them all for you!</p><h1>About our RSS feed</h1><ul>
   <li>Focused on delivering App Store app discount information</li><li>Whenever an app's price drops or in-app purchases go on sale, we will promptly send you a notification</li><li>Each app's discount information is presented in a separate feed</li><li>The RSS feed is completely open-source, allowing you to view, contribute, and add your favorite apps at any time</li>
 </ul><h1>Find Us</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>Finally</h1><p>If this project has been helpful to you, would you kindly give us a  ⭐️ </p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[不玩手机-自律习惯养成记]]></title>
-        <id>不玩手机-自律习惯养成记-1747356844402</id>
-        <link href="https://apps.apple.com/us/app/%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA-%E8%87%AA%E5%BE%8B%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E8%AE%B0/id1449020025?uo=4"/>
-        <updated>2025-05-16T00:54:04.402Z</updated>
+        <title type="html"><![CDATA[AirDisk Pro]]></title>
+        <id>AirDisk Pro-1747366661582</id>
+        <link href="https://apps.apple.com/us/app/airdisk-pro/id505904421?uo=4"/>
+        <updated>2025-05-16T03:37:41.582Z</updated>
         <summary type="html"><![CDATA[Price: $2.99 → Free]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/%E4%B8%8D%E7%8E%A9%E6%89%8B%E6%9C%BA-%E8%87%AA%E5%BE%8B%E4%B9%A0%E6%83%AF%E5%85%BB%E6%88%90%E8%AE%B0/id1449020025?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/05/30/83/05308348-c8e5-a936-c5c4-9caa623c7a44/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/60x60bb.jpg" />
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/us/app/airdisk-pro/id505904421?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/1a/3b/d81a3b12-3a2f-9135-796b-9c09c56e14f1/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
   Discount Information（Price：<span>$2.99</span> → <b>
   <strong>Free</strong>
 </b>）
 </h2><h2>Application Description</h2><p>
-  这个App可以让你更专注地工作或学习，戒掉手机瘾，让你在工作或学习的时候远离手机，提高工作和学习的效率。
+  AirDisk Pro: Your Ultimate File Management Solution
 
-当开启了不玩手机警报后，你在设定的时间里拿起手机将会报警，这将培养你更专注于学习或工作的习惯。
+Seamlessly store, manage, and access your files across your iPhone, iPad, or iPod touch. AirDisk Pro turns your device into a powerful file manager, enabling you to connect with any Mac or PC over Wi-Fi for quick file transfers. Simply drag and drop files from Finder or Windows Explorer to get started.
 
-App使用方法：
-1. 选择要集中精力工作的时间间隔。
+With its versatile suite of tools, AirDisk Pro lets you view documents, play music, browse images, record audio, and much more—all within a single app.
 
-2. 把手机放在水平桌面上。
 
-3. 点击开始按钮。
+Key Features:
+• Photos Transfer: Wirelessly transfer photos directly from your iOS Photos app to your computer.
+• Files App Download Support: Download files from the iOS Files app to your computer using the built-in web.
+• Cloud Integration: Link your iCloud Drive, Google Drive, Dropbox, and OneDrive accounts for seamless access to your cloud files.
+• Comprehensive Document Viewer: Open files in MS Office, iWork, plain text, and HTML formats with ease.
+• Advanced Media Player: Create audio playlists with options for repeat, shuffle, and background playback, all controlled from multitasking.
+• Secure File Transfers: Protect your HTTP/FTP file transfers with password authentication.
+• Full-Featured File Management: Move, copy, rename, delete, zip/unzip, unRAR, and organize files with folder creation.
+• Effortless Sharing: Transfer files between devices via Bluetooth or Wi-Fi, with automatic device discovery.
+• Multiple Upload Options: Upload files via web browser, Wi-Fi, or iTunes File Sharing.
+• Built-In Tools for File Creation: Capture photos, record videos, make voice memos, or create text files directly within the app.
+• Enhanced Privacy Protection: Secure your data with passcode locks or Touch ID/Face ID for easy yet secure access.
+• Universal Compatibility: Buy once and enjoy on both iPhone and iPad.
 
-4. 直接按下锁定屏幕按钮。
 
-5. 开始并专注于你的工作或学习。
-快来和我们一起进步吧！！！
-</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/cb/99/c1/cb99c165-1f5c-e3a7-aff7-b9dd66d18321/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/bd/ca/b2/bdcab20f-406e-06af-ffef-f497dd7e6bd5/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/f4/a1/59/f4a15915-dfb6-6942-1de7-0dd8b19d915f/mzl.bkcdpibu.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/21/73/34/21733469-cab7-f8b3-7431-09a6dbbbf9f2/mzl.ijpebcxc.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/ab/c9/df/abc9df78-4745-a848-09ac-ed698eac23d9/mzl.kaxjshbt.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/f7/a1/32/f7a13273-f0af-0a21-935e-e654a15677e8/mzl.mcdhwqfk.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/f6/3f/a3f63ff8-140c-2527-e07f-310136ba5137/mzl.icblcvod.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/3f/28/de/3f28de24-ad23-0353-a6f5-67211a0a772f/mzl.ckekpjvp.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/a3/54/a7/a354a7c9-27d9-d15e-2ccc-5ed85f13878f/mzl.wethfkxl.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple114/v4/30/7f/d1/307fd172-f03f-656e-ba33-8c4d95e1b61a/mzl.lbyvydhm.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple124/v4/1b/05/2a/1b052a2f-955e-f6d9-c2f0-a7bfcab09405/mzl.bcrzmpha.png/576x768bb.png" />]]></content>
+Audio Player Features:
+• Create custom playlists
+• Play entire folders as playlists
+• Background audio support
+• Repeat, shuffle, and multitasking control
+
+
+Viewable Formats:
+• Audio: WAV, MP3, M4A, CAF, AIF, AIFF, AAC
+• Images: JPG, PNG, GIF, BMP, TIF, TIFF, ICO
+• Videos: MP4, MOV, MPV, M4V
+• Documents: PDF, MS Office (Word, Excel, PowerPoint), iWork (Pages, Numbers, Keynote)
+• Text & Code: RTF, RTFD, plain text, source code, HTML, web archives
+
+
+Discover how AirDisk Pro simplifies file management and boosts productivity.
+• For details, visit: https://airdisk.app
+• Terms of Service: https://airdisk.app/terms-of-service.html
+• Privacy Policy: https://airdisk.app/privacy-policy.html
+</p><h2>Application Screenshot</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/e3/cc/d4/e3ccd410-2ce1-b402-e060-de9ed2621658/65c20ff4-30dc-4a85-a867-89a1ac92009e_1.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/32/73/61/32736100-7768-3959-71c9-4d9784032898/3debb509-006d-4873-9993-67989c41cad0_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b2/1c/9c/b21c9c87-82bd-9f6a-2c92-0b1c088709f5/453195dd-a27e-4133-9417-4985b3269809_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/3f/61/a0/3f61a028-c052-3247-9a4a-8331dbba4857/977d466b-f715-4c42-8e7e-c7d70eac5d8d_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/71/0c/de/710cdedc-eff7-ce11-09b2-d658ad83f903/402aae6b-f111-4a0d-a181-b1dc70d1ea79_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/44/f0/86/44f086d0-087f-2b38-237d-689feac1bcde/a5d3e1ad-b597-439d-afd9-06777d1a519d_6.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/df/39/9f/df399f9b-21c8-eea0-7578-2e6b3761e0d5/4213a807-ef6e-42f3-bed7-dbd6bda59f1a_7.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/94/a0/82/94a082e5-5c84-b0d6-716b-20dc3596016d/9d37e167-60e5-4b98-9fa0-328d5ca4031b_8.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/51/f1/4b/51f14ba7-b79b-8e01-3706-40dc170a7e8b/72507563-c5bc-4a31-ae52-203dfba97932_2.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8a/af/c2/8aafc244-8d42-7972-76b7-244e2d988801/88ea291a-9833-4dd1-a71b-4b2ece4f63b7_1.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/3a/26/29/3a26294f-9a0b-816d-98ad-4c0deac3e155/b4fbdb19-41eb-4c7f-a569-f79f823e42c2_4.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/bd/b3/a3/bdb3a31b-5410-ea76-68e6-ea8ae25d21a7/c13326b6-c48b-4ade-811f-55ad27a79064_3.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/80/13/4d/80134d49-bca8-0d7e-5733-c27c982b9b7c/dedea4cd-e167-4c5d-aff8-df9bad0df486_6.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/74/e8/19/74e819bd-0c3e-fcd6-b371-cb22d5caaa55/d2f8cbbe-7616-49d2-8786-8ff1dc969e59_5.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/8c/21/de/8c21de2b-e792-0e8c-beb7-798521c773d3/8a51f1a0-6032-4310-88bf-3092ca702599_7.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
