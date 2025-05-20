@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/cn.xml</id>
     <title>App Store Discounts（CN）</title>
-    <updated>2025-05-19T17:14:01.991Z</updated>
+    <updated>2025-05-20T14:13:18.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,33 +18,140 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-05-19T17:14:01.992Z</updated>
+        <updated>2025-05-20T14:13:18.705Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[手表浏览器  Wafari]]></title>
-        <id>手表浏览器  Wafari-1747674579832</id>
-        <link href="https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E6%B5%8F%E8%A7%88%E5%99%A8-wafari/id6449930220?uo=4"/>
-        <updated>2025-05-19T17:09:39.832Z</updated>
-        <summary type="html"><![CDATA[价格: ¥5.00 → ¥3.00]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/%E6%89%8B%E8%A1%A8%E6%B5%8F%E8%A7%88%E5%99%A8-wafari/id6449930220?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/75/f6/bc75f6c2-bef9-414f-acfb-346177a6ade1/AppIcon-0-0-1x_U007emarketing-0-10-0-85-220.png/60x60bb.jpg" />
+        <title type="html"><![CDATA[Phone Drive - 云储存管理和文件共享]]></title>
+        <id>Phone Drive - 云储存管理和文件共享-1747750264034</id>
+        <link href="https://apps.apple.com/cn/app/phone-drive-%E4%BA%91%E5%82%A8%E5%AD%98%E7%AE%A1%E7%90%86%E5%92%8C%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB/id431033044?uo=4"/>
+        <updated>2025-05-20T14:11:04.034Z</updated>
+        <summary type="html"><![CDATA[价格: ¥28.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/phone-drive-%E4%BA%91%E5%82%A8%E5%AD%98%E7%AE%A1%E7%90%86%E5%92%8C%E6%96%87%E4%BB%B6%E5%85%B1%E4%BA%AB/id431033044?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/54/ce/ac54ce33-932a-ef1c-d051-9a36395762cd/AppIcon-pro-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
 </a><h2>
-  优惠信息（价格：<span>¥5.00</span> → <b>
-  <strong>¥3.00</strong>
+  优惠信息（价格：<span>¥28.00</span> → <b>
+  <strong>免费</strong>
 </b>）
 </h2><h2>应用描述</h2><p>
-  Wafari 手表浏览器，让你的Apple Watch轻松浏览网页
+  介绍Phone Drive - 文件管理：将您的iOS设备转变为便携的无线闪存驱动器。
 
-- 支持多种搜索引擎，搜索自定义
-- 书签快速创建和同步
-- 浏览历史记录
-- iCloud同步数据
+通过Phone Drive，您可以轻松存储、查看和管理iPhone或iPad上的本地或云端文件。通过WiFi网络，从任何Mac或PC连接到Phone Drive，并通过从Finder或Windows资源管理器进行拖放操作来传输文件。
 
-欢迎使用
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/04/9b/bc/049bbcc6-08ad-ce69-0a2c-e47c737b35c6/e7e8331d-49e7-4094-b5d2-f9a85aaec304_Simulator_Screenshot_-_iPhone_8_Plus_-_2023-06-05_at_17.16.10.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/8e/c6/df/8ec6dfb6-31fa-3484-e757-e7582c15b84b/3b8cea51-1470-44dd-9942-d11550847dfa_Simulator_Screenshot_-_iPad_Pro__U002812.9-inch_U0029__U00286th_generation_U0029_-_2023-06-05_at_17.18.25.png/576x768bb.png" />]]></content>
+在单个应用程序中管理多个云存储帐户的便利功能。直接从云端下载、上传、查看甚至直接流式传输视频或音乐。
+
+Phone Drive拥有一套全面的功能，包括文档查看器、PDF阅读器、音乐播放器、图像查看器、语音记录器、文本编辑器、文件管理器以及支持多种文件操作，如删除、移动、复制、电子邮件、共享、压缩、解压等。
+
+
+*** 主要特点 ***
+• 支持云存储：
+支持连接多个Dropbox、OneDrive、Box Drive、FTP、WebDAV、Yandex Disk和iCloud Drive存储帐户（需要额外的应用内购买）。
+
+• 多媒体播放器：
+能够在应用中创建自己的音频播放列表，包括重复、随机播放、后台播放以及多任务下的远程控制。可以直接从云端存储流式传输视频和音乐。
+
+• 文档阅读器：
+支持MS Office、iWork、文本和HTML文件。
+
+• 文件操作：
+轻松移动、复制、重命名、删除、压缩、解压、解压RAR、创建文件和文件夹。
+
+• 文件共享：
+通过蓝牙或Wi-Fi与其他iPhone/iPad设备共享文件，自动搜索附近可用设备。
+
+• 简便文件上传：
+通过PC/Mac Web浏览器进行拖放文件上传，或通过iTunes使用USB进行上传。
+
+• 文本编辑器：
+内置文本编辑器，可在iOS设备上编辑文本文件或源代码。
+
+• 导入/文件创建：
+能够创建文本文件、图像截图、视频录制、语音记录并导入照片库中的图片。
+
+• 密码锁定：
+能够保护您的文件免受他人查看。支持使用TouchID和Face ID解锁Phone Drive的选项。
+
+• 通用性：
+该应用程序适用于iPhone和iPad，只需购买一次。
+
+
+*** 音频播放器 ***
+• 以播放列表形式播放所有MP3文件。
+• 可重复和随机播放歌曲。
+• 支持后台音频播放。
+• 支持多任务音频远程控制。
+• 云存储音乐流式传输。
+
+
+***可查看的格式***
+Phone Drive支持以下格式：
+
+• 音频（WAV，MP3，M4A，CAF，AIF，AIFF，AAC）
+• 图片（JPG，PNG，GIF，BMP，TIF，TIFF，ICO）
+• 电影（MP4，MOV，MPV，M4V）
+• iWorks（Pages，Numbers和Keynote）
+• 微软办公套件（Word，Excel和PowerPoint）
+• RTF（富文本格式）
+• RTFD（带有嵌入图像的TextEdit）
+• PDF文档
+• 纯文本
+• 源代码
+• HTML网页
+• 网页存档
+
+
+了解更多关于Phone Drive的信息：
+网站: https://sixbytes.io
+Twitter: https://twitter.com/SixbytesApp
+Facebook: https://www.facebook.com/sixbytesapp
+
+有关详细信息，请查阅我们的服务条款和隐私政策：
+• 服务条款: https://sixbytes.io/assets/terms-of-service.pdf
+• 隐私政策: https://sixbytes.io/assets/privacy-policy.pdf
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/84/03/a7/8403a7ae-17e4-4f50-1aff-8514be299fb8/84d36d5a-b310-444b-a0af-60f6c32c5ffe_1242x2208bb.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/19/b6/d5/19b6d500-384e-ad9f-7fc8-6d53755f8f15/c39c2110-24fa-4711-8349-0517f05304ed_2.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/7e/c3/33/7ec333b3-c3d1-0746-173b-462436afa94f/1cc605a0-f308-421b-8e32-67823d8b5602_3.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9e/d6/0f/9ed60f79-d022-84ca-20f6-955733b79d5e/edc185bd-7739-4a6f-97cb-683bf2541611_4.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/11/43/2b/11432bd7-878f-edf9-52ae-ce1a97db214b/ad09d97f-aedf-4603-8502-0fb713f1114f_5.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/8b/1a/03/8b1a03ad-a31d-6f98-558e-eb70a0dcf3e9/cee51a0d-f5f8-4513-9acf-199c8a7635ee_5.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/b1/ad/c5/b1adc5a6-b7ac-d442-f6bf-e38295c2d3f8/1854614e-1ec3-45f8-a4c3-639b0a797a8f_2048x2732bb.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/7a/8e/fa/7a8efac4-c50a-1368-0152-ddee81034c52/d8af59de-b186-4dd7-a11b-edb399177224_2.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b9/54/e3/b954e3e2-3cff-88cf-e68e-3ae146d94774/fd7e5eb8-9c63-40f4-94e0-5825c1be37d0_3.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/2b/6f/b2/2b6fb2b4-69ed-3e45-2feb-d81e75a95732/71fa9f88-77cf-43f3-9436-6dc7e9577ef8_4.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0f/c2/bd/0fc2bd4e-959a-ce1a-f78d-5f0a5db1309d/1de5266b-b874-4c55-971f-a6c3d2b5e74d_5.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/d5/6d/c9/d56dc9bc-ed7d-162c-208c-6f4565d68778/f88817e0-28ff-4ec0-96bf-8d9df38f927f_8.png/576x768bb.png" />]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vostok — 创建美丽快拍页面]]></title>
+        <id>Vostok — 创建美丽快拍页面-1747750264034</id>
+        <link href="https://apps.apple.com/cn/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4"/>
+        <updated>2025-05-20T14:11:04.034Z</updated>
+        <summary type="html"><![CDATA[价格: ¥3.00 → 免费]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/cn/app/vostok-%E5%88%9B%E5%BB%BA%E7%BE%8E%E4%B8%BD%E5%BF%AB%E6%8B%8D%E9%A1%B5%E9%9D%A2/id1453318714?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d7/6f/8b/d76f8bb0-b9e7-df57-b8d7-d068fd9971fb/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/60x60bb.jpg" />
+</a><h2>
+  优惠信息（价格：<span>¥3.00</span> → <b>
+  <strong>免费</strong>
+</b>）
+</h2><h2>应用描述</h2><p>
+  欢迎来到Vostok - 你的终极故事编辑器和拼贴制作工具，旨在提升你在社交媒体上的存在感！Vostok可以轻松将你的创意转化为令人惊叹的专业级帖子和故事。
+
+无论你是博主、摄影师，还是喜欢在社交媒体上记录生活点滴的人，Vostok都为你提供了一切所需，打造引人注目的内容。我们时尚且用户友好的应用巧妙地融合了你对摄影和讲故事的热爱，为你提供了一个动态的平台，展示你的惊奇时刻。
+
+Vostok以极简主义风格自豪，成为你释放创意的完美空间。多种模板、贴纸和特效尽在指尖，让你打造独特的故事，展现个性。
+
+但Vostok不仅提供创意自由，更注重简便性。我们直观的界面使得编辑和分享内容变得轻而易举，让你有更多时间专注于创作引人入胜的故事，让你的粉丝喜爱。
+
+不要犹豫！立刻开始你的Vostok之旅，打造引人入胜的帖子和故事，留下深刻印象！
+
+以下是我们的一些功能预览：
+
+· 200+社交媒体设计模板
+· 支持西里尔字母的独家字体
+· 450+独特贴纸
+· 照片大气灰尘和颗粒特效
+· 多种背景：纸张纹理、大理石、渐变、颜色
+· 无广告，无需订阅
+· 支持深色模式
+
+被Apple评为2019年最佳应用之一。
+
+拥有200多个模板，Vostok是你打造出众社交媒体内容的工具箱。
+
+我们热切期待你的想法和反馈。
+通过hello@vostokapp.ru与我们联系，或在Instagram直接向我们发送消息，帐号为@vostokapp。
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b3/6e/82/b36e82ad-6b1a-634a-e8e9-7a2cf4d393b3/1f4ac972-a5de-437f-a2be-6c52e212e58b_iPhone_8_Plus_-_1.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/e7/79/43/e77943f5-7b2c-c0d9-c0e2-622f24346dca/2c3e986b-2570-474e-bc2c-e0ac1149c384_iPhone_8_Plus_-_6.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/15/62/46/156246a6-3d3c-13bb-48be-5abd58af2e0e/291dcbb6-6a8a-4d03-8416-757be247c908_iPhone_8_Plus_-_3.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/50/53/32/5053322b-63da-bfc4-20e7-96b0e6199fb6/ce765125-a585-4f73-875d-8a968da54b31_iPhone_8_Plus_-_8.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/da/08/ad/da08add3-6e9c-26e8-4148-6732cdc92e07/4baa24af-fe38-4e48-8f06-7472bc3d5d37_iPhone_8_Plus_-_7.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/23/7d/b9/237db903-4b25-726d-1f0f-73487d1518a9/30e1bb0b-b1b4-4a09-8131-026b784e3b0e_iPhone_8_Plus_-_5.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/59/17/b0/5917b079-4128-d9c1-ba79-f11b7ea9bf1a/c266d2b9-a6a1-4ce9-9beb-f93a9234dca5_iPhone_8_Plus_-_4.jpg/392x696bb.jpg" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/43/95/a6/4395a691-d2f1-9c1a-7639-805526308049/d2690f31-81fe-4660-b18a-b899367b0330_iPhone_8_Plus_-_2.jpg/392x696bb.jpg" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f9/68/4b/f9684bd2-cf5e-e840-0851-77b807cf2b38/tns.fyzlgkiy.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/d1/a4/13d1a4d6-dfef-a0f3-f27a-387a16db8d9f/tns.ertgkjsq.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3f/96/7d/3f967dbc-dfd1-d6c0-be5f-8ea65d8c562a/tns.grzffkss.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5a/34/a7/5a34a7bf-ea0f-94cf-5e97-57c98e0ecef3/tns.imleqekv.png/576x768bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/17/0a/70/170a70f9-ac72-41c4-7c6e-efe2aff54be6/tns.tawfhfab.png/576x768bb.png" />]]></content>
     </entry>
 </feed>
