@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/eyelly-wu/appstore-discounts/rss/hk.xml</id>
     <title>App Store Discounts（HK）</title>
-    <updated>2025-06-02T15:14:18.748Z</updated>
+    <updated>2025-06-03T12:23:18.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>Eyelly wu</name>
@@ -18,32 +18,66 @@
         <title type="html"><![CDATA[🎉 欢迎订阅 App Store Discounts]]></title>
         <id>welcome</id>
         <link href="https://github.com/eyelly-wu/appstore-discounts"/>
-        <updated>2025-06-02T15:14:18.748Z</updated>
+        <updated>2025-06-03T12:23:18.708Z</updated>
         <summary type="html"><![CDATA[感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！]]></summary>
         <content type="html"><![CDATA[<p>感谢您订阅我们的 RSS 源，我们是一个致力于为全球用户带来 App Store 最新折扣信息的社区驱动项目。我们的目标是让每一位用户都能第一时间掌握心爱应用的优惠动态，无论是应用本身的价格下调，还是内购项目的限时促销，我们都将为您一网打尽！</p><h1>关于我们的 RSS 源</h1><ul>
   <li>专注于推送 App Store 应用的优惠信息</li><li>只要应用价格降低或内购项降价，我们就会及时推送</li><li>每个应用的优惠信息以单独的 feed 形式呈现</li><li>RSS 源完全开源，您可以随时查看、贡献和添加您关注的应用</li>
 </ul><h1>找到我们</h1><a href="https://github.com/eyelly-wu/appstore-discounts">App Store Discounts</a><h1>最后</h1><p>如果本项目对你有帮助，请帮我们点个 ⭐️ 可好</p>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[雨雷達 ° -實時天氣圖]]></title>
-        <id>雨雷達 ° -實時天氣圖-1748877131946</id>
-        <link href="https://apps.apple.com/hk/app/%E9%9B%A8%E9%9B%B7%E9%81%94-%E5%AF%A6%E6%99%82%E5%A4%A9%E6%B0%A3%E5%9C%96/id488674899?uo=4"/>
-        <updated>2025-06-02T15:12:11.946Z</updated>
-        <summary type="html"><![CDATA[价格: HK$ 118.00 → 免費]]></summary>
-        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/%E9%9B%A8%E9%9B%B7%E9%81%94-%E5%AF%A6%E6%99%82%E5%A4%A9%E6%B0%A3%E5%9C%96/id488674899?uo=4">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/44/a6/eb/44a6ebc2-0045-22bb-5c81-8cbfcc93bfb0/AppIcon-Full-0-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
-</a><h2>
-  优惠信息（价格：<span>HK$ 118.00</span> → <b>
-  <strong>免費</strong>
-</b>）
-</h2><h2>应用描述</h2><p>
-  天氣雷達隨處可見。
-使用Rain Radar快速查看動畫雷達圖像和當前狀況。
+        <title type="html"><![CDATA[Hitman: Blood Money — Reprisal]]></title>
+        <id>Hitman: Blood Money — Reprisal-1748953288515</id>
+        <link href="https://apps.apple.com/hk/app/hitman-blood-money-reprisal/id1631331207?uo=4"/>
+        <updated>2025-06-03T12:21:28.515Z</updated>
+        <summary type="html"><![CDATA[Full Game Unlock: HK$ 118.00 → HK$ 109.00]]></summary>
+        <content type="html"><![CDATA[<a href="https://apps.apple.com/hk/app/hitman-blood-money-reprisal/id1631331207?uo=4">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/18/60/35/18603563-c232-6de9-9993-2db7ac1e70e3/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/60x60bb.jpg" />
+</a><h2>优惠信息</h2><h3>App 內購買項目</h3><ul>
+  <li>
+    <strong>Full Game Unlock：</strong><span>HK$ 118.00</span> → <b>
+  <strong>HK$ 109.00</strong>
+</b>
+  </li>
+</ul><h2>应用描述</h2><p>
+  You are Agent 47 — a trained killer caught in the crosshairs of a rival agency, “The Franchise”.
 
-使用可縮放的雨水雷達功能跟踪傾盆大雨，天氣前沿和暴風雨的運動。 “雨雷達”可預測全球任何位置，並顯示實時天氣狀況以及新興模式。
+Embark on an daring mission to take out a shadowy conspiracy’s lethal architects, and employ every tool at your disposal to get the job done while keeping a low profile. Infiltrate, execute, and escape undetected.
 
-有關天氣的一切一目了然。 快速，簡單，免費！
-天氣預報應用程序，可以準確地描述當前的天氣和新興模式。
-</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a3/3d/2a/a33d2a55-48a0-198c-5b98-6f1dd4cb2126/pr_source.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/16/b2/96/16b296cb-a323-c26c-1c67-8d336eaade89/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/72/37/90/723790d9-642f-995f-5469-1e588dc81498/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0d/3f/2d/0d3f2de0-3a41-ebad-bb58-e53b811f4c3d/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/5c/1b/62/5c1b625d-5f1f-e349-1560-7c82a12cf0fe/pr_source.png/392x696bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/9d/59/61/9d596154-9d65-80c9-ab53-83ffd40e6ef8/pr_source.png/392x696bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/df/13/66/df13660d-b292-b476-d9e2-e0b2e010d0ba/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/43/88/9c/43889c88-ab93-e998-d855-c08f4fb805db/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/0d/72/7c/0d727cce-b561-e9d2-a7db-3a3de3baa490/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/a3/c4/ea/a3c4ead7-014d-f4c2-af52-4e2eecd97377/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple125/v4/c7/3b/f1/c73bf143-8967-2204-b939-40b74f669980/pr_source.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/Purple115/v4/17/0f/e4/170fe4c4-a239-274a-d507-99efff510706/pr_source.png/552x414bb.png" />]]></content>
+Featuring gameplay improvements inspired by later games in the series, Reprisal is an artful redesign of a stealth-action classic — complete with a fully customisable touchscreen interface and full gamepad support.
+
+EXECUTION IS EVERYTHING
+Become a master of disguise, ingenuity and improvisation. With multiple ways to approach each objective, Blood Money’s sandbox missions encourage experimentation, creativity, and repeat playthroughs.
+
+THE ULTIMATE PROFESSIONAL
+Hit hard with an arsenal of upgradable weapons. Perform silent, witness-free kills, or manipulate the environment to engineer tragic “accidents”. The cleaner the hit, the better the payoff.
+ 
+INTRODUCING INSTINCT MODE
+The devil is in the details. Inspired by later HITMAN games, Instinct Mode highlights targets, guards and mission-critical points of interest for stealthy kills and quick getaways — the hallmarks of a professional assassin.
+
+ONE STEP AHEAD
+An all-new minimap offers situational awareness in real-time, while added alerts warn players when 47 is trespassing or arousing suspicion.
+
+COMPLETE CONTROL
+Tailor the touchscreen controls, connect a gamepad, or utilise full keyboard and mouse support. Whatever your playstyle, complete control is always at your fingertips.
+
+We recommend playing Hitman: Blood Money — Reprisal on iOS 16 or later. You need 3.9GB of free space on your device, though we recommend at least double this to avoid initial installation issues.
+
+Supported iPhones:
+
+ • iPhone 8 Plus and later
+ • iPhone SE 2 (2020) and later
+
+Supported iPads:
+
+ • iPad mini 5 (2019) and later
+ • iPad Air 3 (2019) and later
+ • iPad 7 (2019) and later
+ • iPad Pro 1st gen (2015), 12.9" model only
+ • iPad Pro 2nd gen (2017) and later
+
+• If you require assistance, please contact our support team at support@feralinteractive.com
+
+Hitman: Blood Money © 2000-2024 IO Interactive A/S. IO Interactive, IOI, HITMAN are registered trademarks of IO Interactive A/S. Developed for and published on iOS by Feral Interactive. iOS and the iOS logo are trademarks of Apple Inc., registered in the U.S. and other countries. Feral and the Feral logo are trademarks of Feral Interactive Ltd. All other trademarks, logos and copyrights are property of their respective owners. All rights reserved.
+</p><h2>应用截屏</h2><h3>iPhone</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/1c/e6/53/1ce6535b-ea0a-fe76-4824-80929a647724/c056553a-41df-4e6b-ae7c-1e2e29457b3c_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_1_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3c/f0/0a/3cf00a87-2ba5-1ee5-c229-0b4dc2f96ea6/84d6d83d-ff7f-490d-b754-e2eb5edc136f_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_2_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ba/54/ac/ba54ac93-b9c3-3732-c139-06f93822edaf/e8b8bab9-2fb6-4b39-a1d2-d6a3acf5cf33_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_3_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c2/a1/29/c2a1297e-9305-d077-25c1-185aba8e3891/8b6b110d-2161-430b-8514-dc0c31b0a4df_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_4_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a2/89/20/a2892095-a406-8e1c-9954-af2d69b1f6db/72057d87-ddce-48f3-b1a4-ae824299ac27_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_5_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/84/c3/74/84c37467-76a5-53e8-860f-5df22c2e1a50/187c8542-0bba-4e4b-b0ec-9c2c5c41638d_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_6_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/e7/d1/2a/e7d12a82-90ea-c79c-b94a-c43dc712ed3d/8ccbda1e-89bb-4431-bc87-f1dae3e92763_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_7_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/60/a1/9a/60a19a68-f335-3c25-66c3-ac13df7b26fb/ee908e9a-7784-446e-9bb5-9881edd296be_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_8_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/b4/f4/fcb4f477-1926-a1bc-e739-c8e3ef69735b/90588447-e923-469e-a14c-b4e7cd7101ff_hitmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_9_EN.png/406x228bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d6/e9/5c/d6e95cf1-90ae-5d95-5822-26c09be15af0/7b301549-c66a-4562-a637-f0949b8c5a1f_itmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-5.5-in_10_EN.png/406x228bb.png" /><h3>iPad</h3><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/27/5e/08/275e08e5-4b17-d5df-e902-18c9c6d09a40/cd42009e-7746-47f8-a823-798d6bf78ff1_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_1_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f6/06/12/f606124d-888a-7bb5-9b95-7de95cf0e1a9/c69c9e42-15f8-446c-849d-2ab28ede3f3d_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_2_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/8b/d7/da8bd783-e464-4a3b-ef03-083cb39c8651/09c02f65-5901-4c0e-92a3-d83a4b8c0609_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_3_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/74/48/5a/74485aa8-0a4b-a3d2-fc30-1c3b9eb02933/c9b42c8b-38d6-4aa1-b2d8-39007d882955_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_4_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c1/8c/f9/c18cf92f-ec2f-ca20-7dec-2e9c948cf5f7/6391b511-1e3a-4a46-8939-3a70a697cb25_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_5_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/19/4b/b6194b2e-925a-d2b6-4d9d-5184a01f5de6/bb9e4c98-cafe-45ee-bb70-5cd7bc1bb61f_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_6_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6e/f7/3c/6ef73cf6-509e-6c1c-b9e8-28ea3eabe9f8/bb1ac864-34ec-48a9-ad77-e9a95f1b0dc3_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_7_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ff/29/87/ff2987a7-d6c0-ab29-af05-55e6f22abe0f/c26bd0d6-19d0-4f10-91d1-ad82daf8bec8_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_8_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/16/ba/9b/16ba9b02-96cd-3b34-dc05-052396f495b4/a656ff7e-c561-41fe-a10e-1ef2a0f06bc9_tmanbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_9_EN.png/552x414bb.png" /><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource122/v4/63/be/b0/63beb0cb-5098-c21e-1981-a05213024a6e/eb24684a-4f9d-45dc-aaa9-1d05c2a0d4f0_manbloodmoney_1_2_U002fGameData_U002fHitmanBloodMoney_U002fProduction_U002fArtwork_U002f_U002f_U002fScreenshots_U002fScreenshot_iOS-iPad-Pro_10_EN.png/552x414bb.png" />]]></content>
     </entry>
 </feed>
